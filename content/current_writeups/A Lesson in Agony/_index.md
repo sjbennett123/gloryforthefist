@@ -19,9 +19,6 @@ outcomes:
 
 
 number_of_cast_members: 
-Roles: 
-  - spirits of fallen Order of Oblivion’s Edge
-
 props: Agony Box
 treasure:  Coins, Production, Components , Evaluate Item
 
