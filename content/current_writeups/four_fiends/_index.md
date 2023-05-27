@@ -1,15 +1,25 @@
 ---
 title: Four Fiends of Elysia
+description: An entity known as “The Chaotic One” or commonly referred to by common folk as “The Green-Eyed Demon” seeks to complete his “Vision of Paradise” by bringing Elysia to its knees.
 Layout: plotline_overview
 ---
 
-- An entity known as “The Chaotic One” or commonly referred to by common folk as “The Green-Eyed Demon” seeks to complete his “Vision of Paradise” by bringing Elysia to its knees
-- In life, the Chaotic One was known as Draven Sundarr of Sundarr City in Woodhaven. He was a noble and honorable knight in Elysia in the first days of its founding 40 some years ago. In his older age, he was tempted by Chaos when he was disillusioned by the Nobility and the lack of ambition in Elysia. 
-- A Chaos Knight known as Nekrotis-Gul the Unbound, offered to fuse himself to Draven if he pledge to bring Elysia to a state of “Paradise” Draven enthralled by power and the ability to take charge as he saw fit, accept the gift and went to the Chaos plane with Nekrotis-Gul. Together they fused their souls into one armor clad shape known as “The Chaotic One” his new name was unpronounceable by any Tyrran tongue so his true name became Nekrotis-Gul the Unbound but on Tyrra he is known as “The Chaotic One” or “The Green-Eyed Demon”
-- His vision of Paradise was simple, overthrow Elysian rule and sit upon the throne to usher in an Era of Disorder and Chaos to destroy the “Corrupted Order” reign they believed was Elysian Nobiliy. To do this, he will call upon 4 powerful “Fiends'' to do his bidding and secure his ascendancy
-- Mar’Kel the Flame Serpent (Fire), Gigas the Titan (Earth), Hydrosus the Drowned (Water), Tal’Deth the Cloudstrider (Air) make up his 4 Fiends he must revive to complete his “Vision of Paradise” 
-- Seeing some of Valdricks troops left behind in Elysia after the Crystal Barrier, he began searching for the Key to the Dark Tower of Montesque. When he discovered the location of the original, someone had beaten him to it but a note was left with very specific instructions on how to get a “One Time Access Key” to the Tower. To gain access to this key, Draven approached Valdricks forces and offered them a return to their master if they helped him gain the Key Copy. After some discussion of the terms, Valdricks forces allied themselves with Draven until the deal was done.
-- “The Chaotic One” had spent the past 3 years building up an underground cult following of disillusioned people in Elysia. These followers were not thrilled with how they were “abandoned” and “left to die” or were asking “where was our nobility we faithfully served” 
-- The cult is known as “Star of Nekron” the cults symbol is a green and white star tattooed on the forearm, neck, hand, or forehead. The Star of Nekron cult promises to “Break the Chains” that shackle Elysian citizens to their current caste and not allow them to rise in status. The “Speakers of Nekron” are the spiritual leaders who guide the followers to focusing all their “hate” and “disillusionment” into pure energy and give it up to Nekron whom they believe is a profit that will “Deliver them a Paradise from Elysian suffering” 
-- The cult structure is very simple: Nekron is above all, the Speakers of Nekron guide the way, the Blade of Nekron protect them, and the Followers are known as Children of the Stars
-- To create the 4 Fiends, Draven must “free” a powerful spirit from the Dark Tower and split its power into 4 then fuel them with his Cult.
+In life, the Chaotic One was known as Draven Sundarr of Sundarr City in Woodhaven. He was a noble and honorable knight in Elysia in the first days of its founding 40 some years ago. In his older age, he was tempted by Chaos when he was disillusioned by the Nobility and the lack of ambition in Elysia. 
+
+A Chaos Knight known as Nekrotis-Gul the Unbound, offered to fuse himself to Draven if he pledge to bring Elysia to a state of “Paradise” Draven enthralled by power and the ability to take charge as he saw fit, accept the gift and went to the Chaos plane with Nekrotis-Gul. Together they fused their souls into one armor clad shape known as “The Chaotic One” his new name was unpronounceable by any Tyrran tongue so his true name became Nekrotis-Gul the Unbound but on Tyrra he is known as “The Chaotic One” or “The Green-Eyed Demon”
+
+His vision of Paradise is simple, overthrow Elysian rule and sit upon the throne to usher in an Era of Disorder and Chaos to destroy the “Corrupted Order” reign they believed was Elysian Nobiliy. To do this, he will call upon 4 powerful “Fiends'' to do his bidding and secure his ascendancy. To create the 4 Fiends, Draven must “free” a powerful spirit from the Dark Tower and split its power into 4 then fuel them with his Cult.
+
+- Mar’Kel the Flame Serpent (Fire), 
+- Gigas the Titan (Earth), 
+- Hydrosus the Drowned (Water), 
+- Tal’Deth the Cloudstrider (Air) 
+
+Seeing some of Valdricks troops left behind in Elysia after the Crystal Barrier, he began searching for the Key to the Dark Tower of Montesque. When he discovered the location of the original, someone had beaten him to it but a note was left with very specific instructions on how to get a “One Time Access Key” to the Tower. To gain access to this key, Draven approached Valdricks forces and offered them a return to their master if they helped him gain the Key Copy. After some discussion of the terms, Valdricks forces allied themselves with Draven until the deal was done.
+
+The Chaotic One” had spent the past 3 years building up an underground cult following of disillusioned people in Elysia. These followers were not thrilled with how they were “abandoned” and “left to die” or were asking “where was our nobility we faithfully served” 
+
+The cult is known as “Star of Nekron” the cults symbol is a green and white star tattooed on the forearm, neck, hand, or forehead. The Star of Nekron cult promises to “Break the Chains” that shackle Elysian citizens to their current caste and not allow them to rise in status. The “Speakers of Nekron” are the spiritual leaders who guide the followers to focusing all their “hate” and “disillusionment” into pure energy and give it up to Nekron whom they believe is a profit that will “Deliver them a Paradise from Elysian suffering” 
+
+The cult structure is very simple: Nekron is above all, the Speakers of Nekron guide the way, the Blade of Nekron protect them, and the Followers are known as Children of the Stars
+
