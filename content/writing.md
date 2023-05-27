@@ -18,6 +18,11 @@ to set up on your local computer follow these steps. [Website Howto]({{< ref "/w
 
 Confirm that your code between the --- parses at https://www.yamllint.com/
 
+**if you get errors these are the most common issues**
+
+*mapping values are not allowed in this context* --     you have a colon in the value section for the yaml.
+    
+
 ### Plotline Overview
 
 ```yaml

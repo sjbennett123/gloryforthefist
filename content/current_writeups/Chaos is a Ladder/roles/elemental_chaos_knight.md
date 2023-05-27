@@ -1,5 +1,8 @@
 ---
 title: Elemental, Chaos Knight
+name: Elemental, Chaos Knight
+layout: national_monster_card
+
 APL: 26
 Body_points: 100
 Strength_bonus: 10
