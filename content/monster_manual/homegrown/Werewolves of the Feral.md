@@ -1,17 +1,19 @@
 ---
-title: The Feral
+title: Werewolves of the Feral
 
-
-description: Feral Lycan (Grey Werewolves, Brown Werebears, Black Werepanthers)
+description: Feral Lycan 
 
 Layout: role
 
-introduction: You are the apex predator, the Feral strike fear into the hearts of the weak and strong. Though one by one they might not be as terrifying as other Lycans, their pack tactics and sheer aggression set them apart from your average Lycan. Unlike other Lycans who just mindlessly kill, they go for infection over evisceration. They will still kill if enraged or the target is too persistent about not dying, but they Feral prefer to Bite you and let you succumb to the Lunacy of the Beast under a Full Moon to join their ranks. While they seem just like incredibly bloodthirsty savage berserkers, they are quite intelligent despite the berserker tendency in their blood on their hunting. During the day you are a normal person just with anger issue, but at night you become a Feral again with almost no control over your Transformation unless inside the City Gates of Cryptinth
+introduction: >
+  You are the apex predator, the Feral strike fear into the hearts of the weak and strong. Though one by one you might not be as terrifying as other Lycans, your pack tactics and sheer aggression set you apart from your average Lycan. Unlike other Lycans who just mindlessly kill, you go for infection over evisceration. They will still kill if enraged or the target is too persistent about not dying, but they Feral prefer to bit you and let you succumb to the Lunacy of the beast under a Full Moon to join their ranks. While they seem like bloodthirsty savage berserkers, they are quite intelligent in their blood on their hunting. 
+
+  During the day you are a normal person with anger issues, but at night you become a Feral with almost no control over your Transformation unless inside the City Gates of Cryptinth.
 
 motivation: SPREAD LYCANTHROPY!!! The Feral are relentless and terrifying. They inflict their madness on other and see how strong the spirit is to fight off the Lunacy of the Beast. Those who cannot fight off the Beast become Feral, those who fight off the Beast still walk the path of the Lycan and are tested each Full Moon of their spirit. Any undead will be smited where they stand despite your berserk rage, just because you are a mindless berserker doesn’t mean your have the primal urge to fight Undead like all Lycans.
-tactics: 
-movement:
-speech:
+tactics: Fight as a pack. Go for infection over evisceration
+movement: Hunched and powerful. 
+speech: Low and growling. Howl when you approach your prey. 
 
 body: 100
 defenses: 
@@ -44,12 +46,12 @@ abilities:
   - Physical Strike: Pin x3
   - Physical Strike: Bind x3
 
-killing_blow: No, Feral would rather infect Curse of Transformation than Killing Blow to spread their kind on others. If you down someone and you can, perform a 3 count Bite to inflict a CoT on your victim
+killing_blow: No, Feral would rather infect Curse of Transformation than Killing Blow to spread their kind on others. If you down someone and you can, perform a 3 count Bite to inflict a Curse of Transformation on your victim.
 
+costuming: Grey Fur Tabbard
+props: Glowing Eyes
+descriptive_phrase: mangy hunched humanoid wolf. 
 
-costuming: Fur Tabbard
-makeup:
-props: 
-
-reset:
 ---
+
+(Brown Werebears, Black Werepanthers)
