@@ -1,19 +1,10 @@
 ---
 title: Moutesque City 
 Layout: plotline_overview
+description: site of Elysia's prison the Dark Tower 
 ---
 
-- Any of the bad guys in Elysia, they could not permanently, get rid of, they lock them up in the dark tower.
+Any of the villians of  Elysia, that could not be slain or banished,  are locked up in the Dark Tower. An Order of Mages known as The Oblivion's Edge guard the Dark Tower. This order was established as a Ducal Order but their existence has been cast into the shadows purposely to avoid the eyes of evil forces. The city looks completely empty but well kept and not in disarray because of a magical glamour mainained by the Oblivion's Edge. Citizens don't appear to stay in the city proper just on the outskirts. Under the surface the town is populated but those citizens are cloaked. 
 
-- The city looks completely empty but well kept and not in disarray because of the magic over it. Citizens don't appear to stay in the city proper just on the outskirts. Under the surface the town is populated but those citizens are cloaked. 
-- An Order of Mages known as “”  guard the Dark Tower. This order was established as a Ducal Order but their existence has been cast into the shadows purposely to avoid the eyes of evil forces.
-- All the Mages who oversaw the Dark Tower’s protection have been systematically killed over the last 3 years in secret. When the Crystal Barrier went up, a sizeable contingent of Valdrick’s forces were left here in Simoondale. A Master Vampire named Demitri Revendreth was in charge of the legion who was trapped. Under his cruel and wicked mind, Demitri waged war on the  Mages of Oblivion's Edge.  He intercepted all correspondence they attempted to send to the Duke for aid, locking them into a helpless silent war. In the end all of the mages save  Solomon Zeneth fell to Dimitri’s tactics. Dimitri could not gain the secrets of the tower from of them due to a Mystical Force that was present on the mages. Demitri is working with someone known as “The Chaotic One” or the “Green-Eyed Demon” in payment for their return to Valdrick upon access to the Dark Tower
-- Solomon Zeneth the remaining Mage of Oblivions Edge is a Human High Archon of Oblivion's Edge. Solomon has been at this war for nearly 3 years now defending Montesque from an Undead Horde. 
+Nearly 3 years ago, when the Crystal Barrier went up, a sizeable contingent of Valdrick’s forces were trapped in Simoondale. A Master Vampire named Demitri Revendreth was in charge. Under his cruel and wicked mind, Demitri waged war on the Mages of . Demitri intercepted all correspondence The Oblivion's Edge attempted to send to the Duke seeking aid, locking The Oblivion's Edge into a hopeless silent war. Demitri is working for someone known as the Green-Eyed Demon expecting as his payment to be returned to Valdrick upon granting Green-Eyed Demon access to the Dark Tower. In the end all of the mages save the Human High Archon Solomon Zeneth fell to Dimitri’s tactics. Dimitri could not gain the secrets of the tower from of them due to a mystical force that was present on the mages. 
 
-
-
-
-
-
-
-Even as Greater Undead he could not Vampire Charm 
