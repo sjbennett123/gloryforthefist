@@ -2,7 +2,7 @@
 title: Chaos Adept Elemental
 APL: 14
 name: Elemental, Chaos Adept
-
+layout: national_monster_card
 Body_points: 50
 Strength_bonus: 6
 threshold: 5

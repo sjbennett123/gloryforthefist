@@ -1,5 +1,8 @@
 ---
-title: Elemental, Chaos Imp
+title: Elemental, Chaos Imp 
+name: Elemental, Chaos Imp 
+layout: national_monster_card
+
 APL: 8
 Body_points: 30
 Strength_bonus: 4

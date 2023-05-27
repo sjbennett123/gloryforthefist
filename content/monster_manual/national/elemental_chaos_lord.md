@@ -1,5 +1,8 @@
 ---
 title: Elemental, Chaos Lord
+name: Elemental, Chaos Lord
+layout: national_monster_card
+
 APL: 20
 Body_points: 80
 Strength_bonus: 8
