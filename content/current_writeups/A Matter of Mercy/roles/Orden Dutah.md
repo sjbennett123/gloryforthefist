@@ -1,12 +1,12 @@
 ---
 title: Orden Dutah
 
+description: local Trade Guild advisor
 
-description: You are a local Trade Guild advisor. Your skill is called into get issues resolved. You have a certain edge with words in persuading people to take your side. You have some more “elusive” clientele and you are willing to deal with people who seek more “rare” items. You love the city of Cryptinth but your other commitments to the Star of Nekron give you an interesting way to manipulate the market of Cryptinth. Any taxes you collect go into your “advisor” fund aka your own pockets. You operations fund the Star of Nekron in Cryptinth secretly but you don’t wear the symbol out of fear you could be discovered.
 
 Layout: role
 
-introduction: 
+introduction: description: You are a local Trade Guild advisor. Your skill is called into get issues resolved. You have a certain edge with words in persuading people to take your side. You have some more “elusive” clientele and you are willing to deal with people who seek more “rare” items. You love the city of Cryptinth but your other commitments to the Star of Nekron give you an interesting way to manipulate the market of Cryptinth. Any taxes you collect go into your “advisor” fund aka your own pockets. You operations fund the Star of Nekron in Cryptinth secretly but you don’t wear the symbol out of fear you could be discovered.
 motivation: Manipulate the Free Market trade! Secretly fund the Star of Nekron in Cryptinth. Keep tabs on others. Push your “rare” goods and help fund the underground market.
 
 tactics: 
