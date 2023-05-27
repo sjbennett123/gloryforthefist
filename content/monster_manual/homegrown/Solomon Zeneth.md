@@ -30,6 +30,7 @@ magic:
   - Celestial (7/7/7/7/7/7/7/7/7) , 50 Levels Celestial Formal
   - Earth (7/7/7/7/7/7/7/7/7) , 30 Levels Earth Formal
 abilities: 
+  - Transform Extra-Planar (Unseelie Fae) Fae Master lvl 9 
   - May Voice Command all Oblivions Edge Golems at Will
   - Arcane Dragons Breath x10
   - Alchemy x20
@@ -50,4 +51,3 @@ props:
 reset:
 ---
 
-Transform: Unseelie Sidhe Fae lvl 9 

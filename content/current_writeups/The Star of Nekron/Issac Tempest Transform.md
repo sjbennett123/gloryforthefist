@@ -1,23 +1,17 @@
----
-​---
-title: Issac Tempest Transform
 
-​---
 
-All Characters with an Extra-Planar (Fae) Transform
+All Characters with an Elemental Transform
+•	150 Elemental Pool of Chosen Element
+•	Innate Elemental Aura of Chosen Element
+•	Healed by Chosen Element
+High(8th)
+Gets 4 skill points to buy skills from Elemental Skill Pool and General Skill Pool.
+•	+60 body
+•	+6 Superhuman Strength
+•	60 Elemental (Chosen Element) x3
 
-- Immune to Sleep
-- Innate Magic Aura
-- Magic Fear x3
-  Master(9th)
-  Gets 6 skill points to buy skills from Extra-Planar (Fae) Skill Pool and General Skill Pool
-- +90 body
-- +9 Superhuman Strength
-  Chosen Skills
-- Magic Sleep x3
-- Magic Fear x3
-- 60 Elemental Dream x3
-- 60 Elemental Darkness x3
-- 150 Elemental Dream Pool x3
-- 150 Elemental Darkness Pool x3 
----
+•	Cloak (Opposite of Chosen Element) x3
+•	90 Elemental (Chosen Element) x3
+•	Elemental Pool (Chosen Element) 150 x3
+•	Elemental Pool (Chosen Element) 150 x3
+•	Elemental Regenerate (Regenerate but heals even if no Metabolism) x3
