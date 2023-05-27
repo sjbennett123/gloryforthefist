@@ -1,5 +1,5 @@
 ---
-title: Terror Train 6 (Oblivion's Edge)
+title: Terror Train 6 (Oblivion's Edge Library)
 Layout: module
 
 author: Chris Colland
@@ -10,7 +10,7 @@ weight:
 plotline: 
 requirements: 
 
-description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The second target is the Oblivion's Edge Library
+description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The sixth target is the Oblivion's Edge Library
 synopsis:   
 outcomes: 
 

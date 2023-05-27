@@ -45,4 +45,6 @@ at_death: Vanishes
 healed_by: Necromancy
 immune_to: Sleep, Charm, Poison, Death, Paralyze, Necromancy, Drain, Feeblemind, Vertigo
 Protectives: Will Have
+makeup: Chaos Markings (Lipstick on face or green eyeliner markings)
+costume: Green Tabards 
 ---
