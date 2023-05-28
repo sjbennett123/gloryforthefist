@@ -2,10 +2,10 @@
 title: Converted of the Children of the Stars
 
 
-description: You came to the meeting to start seeing some change in Elysia. While Cryptinth is mostly immune to the outside worlds problems, you are concerned about the rest of the Dutchy.
+description: 
 Layout: role
 
-introduction: 
+introduction: You came to the meeting to start seeing some change in Elysia. While Cryptinth is mostly immune to the outside worlds problems, you are concerned about the rest of the Dutchy.
 motivation: Find out information about the Children of the Stars. Make the PCs believe in this just cause. Show support for Anything Speaker Issac says. The nobility abandoned Elysia 3 years ago, while Cryptinth was mostly fine under the Lord Reeve and Duke, your friends around the Dutchy suffered.
 
 tactics: 
