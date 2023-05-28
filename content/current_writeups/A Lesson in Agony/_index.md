@@ -11,7 +11,7 @@ plotline:
 requirements: 
   - The Dark Tower Calls has been run.
 
-description: While in Moutesque, the Adventurers are lead to a Obsidian Black Chamber used for Ancient Magics by the Order of Oblivion’s Edge. In it sets a box that will weaken powerful spirits of fallen Order of Oblivion’s Edge, a shared sacrifice must be made in terms of Agony to keep the spirit weakened while they are defeated
+description: While in Moutesque, the Adventurers are lead to a Obsidian Black Chamber used for Ancient Magics by the Order of Oblivion’s Edge. In it sets a box that weakens the furious spirits of mages belonging to the Order of Oblivion’s Edge. A shared sacrifice of Agony must be made to keep the spirits weakened.
 synopsis: High Archon Solomon Zeneth leads the players to a an Obisdian Black Chamber used for Ancient Magics by the Order of Oblivion’ s Edge. In the chamber is a black cold iron box, if one puts their hand inside they can weaken the summoned spirits in the room to a manageable level. This Ritual Box is not able to be moved from the floor as it is part of the room. This room is known to the Order as the Agony Chamber, the shared agony of spirits can be channeled to weaken spirits in the room. Solomon Zeneth will begin to call to them, the spirits are his dead fallen comrades and he wants them put to rest.
 outcomes:
   - The PCs use the Agony Chamber to weaken the spirits enough to destroy them, thus freeing their fallen allies.

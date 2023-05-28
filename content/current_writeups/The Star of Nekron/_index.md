@@ -19,8 +19,6 @@ outcomes:
 
 
 number_of_cast_members: 5
-Roles: 
-  - Children of the Stars Speaker
 
 props: 
   - Star of Nekron Pamphlet
