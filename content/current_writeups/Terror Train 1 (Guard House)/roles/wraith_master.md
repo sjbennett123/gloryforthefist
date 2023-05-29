@@ -59,6 +59,6 @@ immune_to:
 Protectives: Will Have
 
 quantity:
-costuming:
+costuming: Black Robes /w Blue Tabard
 reset:
 ---

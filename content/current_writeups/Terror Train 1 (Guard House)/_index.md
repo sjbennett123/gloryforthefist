@@ -9,7 +9,7 @@ schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: 
-
+  - The Lord Reeves Charge has been ran
 description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The first target is the Guard House 
 synopsis:   
 outcomes: 
@@ -46,3 +46,4 @@ running_notes:
 
 
 ---
+
