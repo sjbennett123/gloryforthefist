@@ -17,6 +17,8 @@ His vision of Paradise is simple, overthrow Elysian rule and sit upon the throne
 
 Seeing some of Valdricks troops left behind in Elysia after the Crystal Barrier, he began searching for the Key to the Dark Tower of Montesque. When he discovered the location of the original, someone had beaten him to it but a note was left with very specific instructions on how to get a “One Time Access Key” to the Tower. To gain access to this key, Draven approached Valdricks forces and offered them a return to their master if they helped him gain the Key Copy. After some discussion of the terms, Valdricks forces allied themselves with Draven until the deal was done.
 
+![/the_star.png](/the_star.png)
+
 The Chaotic One” had spent the past 3 years building up an underground cult following of disillusioned people in Elysia. These followers were not thrilled with how they were “abandoned” and “left to die” or were asking “where was our nobility we faithfully served” 
 
 The cult is known as “Star of Nekron” the cults symbol is a green and white star tattooed on the forearm, neck, hand, or forehead. The Star of Nekron cult promises to “Break the Chains” that shackle Elysian citizens to their current caste and not allow them to rise in status. The “Speakers of Nekron” are the spiritual leaders who guide the followers to focusing all their “hate” and “disillusionment” into pure energy and give it up to Nekron whom they believe is a profit that will “Deliver them a Paradise from Elysian suffering” 
