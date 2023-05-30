@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 1
 plotline: 
 requirements: 
  - Opening Module

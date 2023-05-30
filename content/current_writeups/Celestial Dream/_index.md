@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday morning
-weight: 
+weight: 4
 plotline: 
 requirements: 
   - Suspended by the Throat has been ran

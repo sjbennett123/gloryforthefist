@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday morning
-weight: 
+weight: 3
 plotline: 
 requirements: 
   - Justice foe Nekron has been ran

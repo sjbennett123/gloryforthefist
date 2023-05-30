@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday morning
-weight: 
+weight: 1
 plotline: 
 requirements: 
   - First Module
@@ -71,7 +71,6 @@ Props:  Green Tabards and Markings (Lipstick on face or green eyeliner markings)
 Tags and Treasure: Coins, Components, Production
 Scene 1: (OOG) Site Wide (IG) City of Cryptinth and Forest
 Flee Point: Town
-
 
 
 

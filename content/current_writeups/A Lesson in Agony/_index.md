@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 5
 plotline: 
 requirements: 
   - The Dark Tower Calls has been run.

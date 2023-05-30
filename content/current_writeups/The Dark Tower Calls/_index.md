@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 4
 plotline: 
 requirements: 
   - Both Test of Might and A Matter of Mercy are completed

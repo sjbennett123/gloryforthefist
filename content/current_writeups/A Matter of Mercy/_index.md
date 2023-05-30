@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 2
 plotline: 
 requirements: 
   - We Descend… has been ran

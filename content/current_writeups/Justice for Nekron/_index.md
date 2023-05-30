@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday morning
-weight: 
+weight: 2
 plotline: 
 requirements: 
   - Chaos is a Ladder has been ran

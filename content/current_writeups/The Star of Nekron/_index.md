@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 6
 plotline: 
 requirements: 
   - A Lesson in Agony has been run

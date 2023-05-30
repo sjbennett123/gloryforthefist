@@ -1,11 +1,11 @@
 ---
-title: Get to the Choppa
+title: To Stonewood (Get to the Choppa!)
 
 Layout: module
 
 author: Chris Colland
 reviewer: Mary Courtney
-weight: 3
+weight: 1
 schedule: saturday early afternoon
 cascade:
   reset: No Respawns in the Mausoleum. Once you are dead you are dead unless the other NPCS can bring you back using their skills if intelligent enough to do so
