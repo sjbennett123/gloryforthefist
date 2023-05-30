@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule:
+schedule: Saturday Early Evening
 weight: 
 plotline: 
 requirements: 
@@ -30,7 +30,8 @@ Roles:
 
 props: 
 makeup: 
-treasure: 
+costume: Green Tabards
+treasure: Coins, Components, Production
 magic_items:
   - 
     name: 
@@ -52,21 +53,11 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: Chaos Elemental, Order elemental Up
-running_notes: 
+running_notes: This module is the turning point in the Star of Nekron plotline. If they haven’t figured it out by now the Children of the Stars are NOT WHO THEY SAY! They are the Star of Nekron, they are most of the reason this is all happening. They are the Cult “The Chaotic One” assembled to power the Star of Nekron to imbue what he wants to release from the Dark Tower of Moutesque. 
 
 
 ---
 
-**Roles**: Speaker Issac Tempest, Blade of Nekron x5
-
-**Props**: Speaker Costume, Green Tabards, Nekron Star Tattoo
-
-**Tags and Treasure**: Coins, Components, Production
 
 
 
-
-
-![*](PicExportError)       **R**
-
- **Running Notes**: This module is the turning point in the Star of Nekron plotline. If they haven’t figured it out by now the Children of the Stars are NOT WHO THEY SAY! They are the Star of Nekron, they are most of the reason this is all happening. They are the Cult “The Chaotic One” assembled to power the Star of Nekron to imbue what he wants to release from the Dark Tower of Moutesque. 

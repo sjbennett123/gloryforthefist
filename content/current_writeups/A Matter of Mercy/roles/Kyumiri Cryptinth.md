@@ -5,7 +5,7 @@ title: High Lord Reeve Kyumiri Cryptinth
 description: 
 Layout: role
 
-introduction: You are the adopted son of the former Duke Ryldinmar Cryptinth Capelanus. You lived many years in the Underdark as a warrior and assassin before surfacing when Duke Ryldinmar embraced his Dark Elf lineage and went to his birth rate. Upon this change in his character, you pledged your service to his cause. The town of Cryptinth is your domain since the former Duke is a very busy man. You defend it from the Feral with all your might, the people love your just and righteous judgment. The secret weapon in your War is the embrace of your Lycan blood and mastery over it so you can fight your mortal enemy. 
+introduction: You are the adopted son of the former Duke Ryldinmar Cryptinth Capelanus. You lived many years in the Underdark as a warrior and assassin before surfacing when Duke Ryldinmar embraced his Dark Elf lineage and went to his birth rate. Upon this change in his character, you pledged your service to his cause. The town of Cryptinth is your domain since the former Duke is a busy man. You defend it from the Feral with all your might, the people love your just and righteous judgment. The secret weapon in your War is the embrace of your Lycan blood and mastery over it so you can fight your mortal enemy. 
 
 motivation: Protect the citizens of Cryptinth. Slay all Feral and Undead. Oversee the Dark Tower of Moutesque’s protection. Uphold law and order in Cryptinth
 

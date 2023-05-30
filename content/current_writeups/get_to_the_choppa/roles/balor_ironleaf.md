@@ -39,6 +39,6 @@ played_by: Chris Colland
 Motivation: Restore Stonewood to its former glory and drive the Bloody Fist into the Earth! Rebuilding the Guilds system of Stonewood to rebirth the Black Anvil Company
 ---
 
-**Storyteller**: Balor is a gruff old grumpy Dwarf but a very honorable one. He has seen more battles with the monsters of Elysia than he cares to remember. You can always get him to talk about his glory days over a nice warm pint. No one knows the town of Stonewood better than Balor, he keeps tabs on everyone for the greater good of the town. Depending how the PCs interact with him, he will start to open up about rebellion or laugh at their dreams of liberating the town of Stonewood.
+**Storyteller**: Balor is a gruff old grumpy Dwarf but an honorable one. He has seen more battles with the monsters of Elysia than he cares to remember. You can always get him to talk about his glory days over a nice warm pint. No one knows the town of Stonewood better than Balor, he keeps tabs on everyone for the greater good of the town. Depending how the PCs interact with him, he will start to open up about rebellion or laugh at their dreams of liberating the town of Stonewood.
 
 **Healer of Last Resort**: If the PC group has no healer and none is available, allow the PCs to choose to come back later to Balor can be convinced to go if no one else in town will go. But he will insist this be something he must be a part of that it is “not his story”

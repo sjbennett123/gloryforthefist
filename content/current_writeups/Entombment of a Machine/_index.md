@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule:
+schedule: Saturday Early Evening
 weight: 
 plotline: 
 requirements: 
@@ -48,8 +48,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: 
-running_notes: This module is a rather dark module if they ask how the Oblivion’s Edge Essence Golem’s are created. The Secret is a permanently Transformed Undead Hunter, the Heart of a Life Elemental, and the body of a Diamond Golem. These Golems were built to hunt Undead in particular and ward off any corrupted Death based creatures. They only have these 5 left and one dormant in a Lab. They are very costly to make and maintain given their cost of creation. 
-
+running_notes: This module is a rather dark module
  
 
 
@@ -64,48 +63,48 @@ running_notes: This module is a rather dark module if they ask how the Oblivion�
 
 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

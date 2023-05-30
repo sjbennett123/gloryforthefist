@@ -13,7 +13,10 @@ requirements:
 description: The adventurers arrive just outside Cryptinith on the road and are ambushed by the Feral. They must fight their way to the City Gates of Cryptinith if they want sanctuary from the Feral
 synopsis: The Lord Reeve of Cyptinith has put out a call for Aid. When the Adventurers arrive at the edge of town, a Howl pierces the night and the Glowing Eyes of the Feral descend upon them in a frenzy! The adventurers must fight there way into the City Gates to safety. The road up the hill the Cryptinth is a long one and the Feral are relentless in their assault. Something tonight seems to have them particularly fired up and angry.
 outcomes: 
+  - The PCs fight their way to the Tavern inside the City Gates of Cryptinth
+  - The Feral keep them outside of town and attempt to take them all captive as they aren’t known travelers in the lands
 
+ 
 
 number_of_cast_members: 
 Roles: 
@@ -61,19 +64,9 @@ running_notes: This module starts the game and sets the mood for the weekend. As
 
 
 
- **Requirements:** Friday Night 
-
- 
 
 
-
- 
-
-**Outcomes**: (1) The PCs fight their way to the Tavern inside the City Gates of Cryptinth
-
-(2) The Feral keep them outside of town and attempt to take them all captive as they aren’t known travelers in the lands
-
- 
+**Outcomes**: 
 
 **Rumors:** “This is a call for aid to the Heroes or Elysia! Something sinister is afoot in the shadows of Moutesque. We have our own share of problems with the Feral lurking in the forests outside of Cryptinth. STICK TO THE ROADS ON YOUR WAY HERE AND DO NOT TRAVEL AT NIGHT ALONE!!! Make sure you bring Silver weapons….. but please do not carry them openly in the city walls of Cryptinth. I shall post the laws of our city very soon. This expeditionary force will rendezvous ￼on the 2nd of June 623. You may use our city of Cryptinth as your forward base as the city of Moutesque is not habitable to anyone besides the mages of Obilvions Edge.”
 

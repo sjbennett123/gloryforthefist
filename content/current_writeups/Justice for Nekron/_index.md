@@ -10,7 +10,7 @@ weight: 2
 plotline: 
 requirements: 
   - Chaos is a Ladder has been ran
-description: A Speaker of Nekron and a Blade of Nekron were killed In the early hours of the morning on a walk. They saw the Lycan flee into the town so they have rounded up suspects and want help finding the Killer.
+description: A Speaker of Nekron and a Blade of Nekron were killed In the early hours of the morning on a walk. They saw the Lycan murderer flee into the town so they have rounded up suspects and want help finding the Killer.
 synopsis: > 
   Early in the morning, just after sunrise, a Speaker of Nekron and a Blade of Nekron were killed outside of the City Walls on a walk. A traumatized Follower of the “Children of the Stars” saw the Lycan who slayed them flew into the City Gates. With help of Hakkens Blade, they have gathered up the 5 suspects they believe might be. It is upto the players now to play Jury and Executioner now. The Speaker Issac Tempest will be the one rounding up the PCs and explaining the situation. The traumatized Follower will be present but will side with whatever the players choose is the Guilty party as they only saw a Lycan and not the human form. 
 

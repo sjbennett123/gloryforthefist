@@ -37,10 +37,8 @@ costuming:
 makeup:
 props: Star of Nekron Medalion
 ---
-
-•	You feel the 15% “Silver Import” taxes VERY fair. This is your “bonus pay” you pocket from your dealings as your position as “Advisor” Anyone who disagrees is wrong and should be subject to the 15% Tax
-•	You feel the Guilds are the fair and independents are a huge issue
-•	You want to aid the people of Cryptinth with Silver goods BUT you serve another master in the Star of Nekron. Your Taxes you make are funded to the Star
-•	The Lord Reeve is a very cunning Dark Elf, he seems to be onto the Star of Nekron but hasn’t said anything. Just a feeling you have in your gut
-•	You know Corin Stellin is a good tradesman and smart businessman. But his profit margins are unacceptable. You want to find a way to bury him, somehow
-•	If the players help you, your payment is 15 gold and access to your wares over the market and more “rare wares”
+- You feel the 15% “Silver Import” taxes VERY fair. This is your “bonus pay” you pocket from your dealings as your position as “Advisor” Anyone who disagrees is wrong and should be subject to the 15% Tax.  You feel the Guilds are the fair and independents are a huge issue.
+- You want to aid the people of Cryptinth with Silver goods BUT you serve another master in the Star of Nekron. Your Taxes you make are funded to the Star
+- The Lord Reeve is a cunning Dark Elf, and seems to be onto the Star of Nekron but hasn’t said anything. 
+- You know Corin Stellin is a good tradesman and smart businessman but you find his profit margins to be unacceptable. You want to find a way to bury him, somehow.
+- If the players help you, your payment is 15 gold and access to your wares over the market and more “rare wares”.

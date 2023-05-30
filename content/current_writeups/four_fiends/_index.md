@@ -22,7 +22,7 @@ They follow the Green Star of Hope which appeared over Moutesque and Cryptinth r
 
 The “Speakers of Nekron” are the spiritual leaders who guide the followers to focusing all their “hate” and “disillusionment” into pure energy and give it up to Nekron whom they believe is a profit that will “Deliver them a Paradise from Elysian suffering” 
 
-The cult structure is very simple: Nekron is above all, the Speakers of Nekron guide the way, the Blade of Nekron protect them, and the Followers are known as Children of the Stars
+The cult structure is simple: Nekron is above all, the Speakers of Nekron guide the way, the Blade of Nekron protect them, and the Followers are known as Children of the Stars
 
 One of the blessings Krotis-Gul gives to his “true” followers is the Immunity to Charm and Enslavement because theyvalue of free will above all.
 
@@ -35,4 +35,4 @@ To do this, he intends to creat eupon 4 powerful “Fiends'' to do his bidding a
 - Hydrosus the Drowned (Water), 
 - Tal’Deth the Cloudstrider (Air) 
 
-Seeing some of Valdricks troops left behind in Elysia after the Crystal Barrier, he began searching for the Key to the Dark Tower of Montesque. When he discovered the location of the original, someone had beaten him to it but a note was left with very specific instructions on how to get a “One Time Access Key” to the Tower. To gain access to this key, Draven approached Valdricks forces and offered them a return to their master if they helped him gain the Key Copy. After some discussion of the terms, Valdricks forces allied themselves with Draven until the deal was done.
+Seeing some of Valdricks troops left behind in Elysia after the Crystal Barrier, he began searching for the Key to the Dark Tower of Montesque. When he discovered the location of the original, someone had beaten him to it but a note was left with specific instructions on how to get a “One Time Access Key” to the Tower. To gain access to this key, Draven approached Valdricks forces and offered them a return to their master if they helped him gain the Key Copy. After some discussion of the terms, Valdricks forces allied themselves with Draven until the deal was done.
