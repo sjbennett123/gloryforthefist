@@ -42,4 +42,8 @@ quantity: 4
 
 
 
-Special Notes: When the Agony Box is engaged the Agonized Spirits are severely weakened. Their Carrier Attack of Drain Life is gone, the damage they swing is cut to 10 Magic, they lose access to their Focus ability for their spells. This makes the Agonized Spirits much more manageable. 
+When the Agony Box is engaged the Agonized Spirits are severely weakened.
+
+- Drop their carrier attack (drain life),
+- Lose the Focus ability
+- Cut their damage in half (from 20 Magic to 10 magic).

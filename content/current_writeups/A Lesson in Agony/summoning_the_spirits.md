@@ -1,3 +1,0 @@
----
-title: summoning the spirits
----

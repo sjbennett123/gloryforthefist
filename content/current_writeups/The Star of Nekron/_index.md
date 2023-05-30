@@ -42,13 +42,9 @@ rumors: |
  
 
   ~Kyumiri Cryptinth
-
   High Lord Reeve of Cryptinth
-
   Adopted son of former Duke Ryldinmar
-
   Warden of Hakken’s Blade
-
   Defender of Cryptinth”
 
 hook: A “Speaker” of the “Children of the Stars” come into town to pass out pamphlets for the “Children of the Stars” meeting soon
@@ -59,6 +55,6 @@ scenes:
     ig:  Small Unmarked Common Building Edge of Town
     flee_point: Town
 
-running_notes: This module is the introduction to the Star of Nekron cult for the Four Fiends of Elysia Plotline. The “Children of the Stars” as they call themselves, follow the Green Star of Hope which appeared over Moutesque and Cryptinth recently. Once enough faith in the “Green Star” has been raised, the Star of Nekron will appear in an area and collect all energy they siphon to the cause. The cultist will refer to the “Green Eyed One” as their patron “Spirit” that will return Elysia to “Balance” of pressed they will only utter the name “Krotis-Gul” The cover story they have is he was a Warrior of Elysia some almost 40 years ago who disappeared into the Fae Realm and has been seen recently as to return. It sounds like they are kinda crazy about their devotion in this hero but they are 100% in their belief in it. One of the blessings Krotis-Gul gives to his “true” followers is the Immunity to Charm and Enslavement. This is the value of Free-Will above all…
+running_notes: This module is the introduction to the Star of Nekron cult for the Four Fiends of Elysia Plotline. 
 
 ---

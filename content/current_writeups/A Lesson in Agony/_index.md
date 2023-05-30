@@ -29,27 +29,20 @@ rumors: |
  
 
    ~Kyumiri Cryptinth
-
    High Lord Reeve of Cryptinth
-
    Adopted son of former Duke Ryldinmar
-
    Warden of Hakken’s Blade
-
    Defender of Cryptinth”
 
 hook: Solomon Zeneth comes to the Tavern and finishes his accounts of Moutesque (The Dark Tower Calls). Then without wasting time, he leads a crew of adventurers into Moutesque.
 scenes: 
   - 
-    oog: 
+    oog: Module Building
     ig: Obsidian Black Chamber
     flee_point: Door to the black chamber back to the town of Moutesque.
 
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
 transformations: All Extra Planar/Fae up
-running_notes: This module is the first actual module in Moutesque for the weekend. The Agony Chamber is a ritual room the Oblivion’s Edge used to channel ancient magics. The room significantly weakens spirits when someone is incapacitated with Agony to channel with them. If a PC puts their hand in the box, they are stricken with incomprehensible Agony. While their hand remains in the box they are under the effects of a Taint Blood (no in game skills may be used) that isn’t able to be purified. They cannot speak other than grunts and screams. By doing so, the PC channels that agony and it weakens the spirits to drop their carrier attack (drain life), loss of the Focus ability, and cut their damage in half (from 20 Magic to 10 magic). This removes one PC from the combat but dramatically puts the favor to the players if they do the requirement. If the PC is attacked and takes Body damage, the effects are broken and the Box is sealed for 30 seconds before it can be used again so the PCs must defend the one channeling the Agony Box. The Agonized Spirits will rese 2 times each till all are defeated.
+running_notes: This module is the first actual module in Moutesque for the weekend.  Using the Agony Box removes one PC from the combat but dramatically shifts the balace of power towards the adventurers.  The Agonized Spirits reset 2 times each utill all are defeated.
 
 
 ---
