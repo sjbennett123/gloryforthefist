@@ -1,0 +1,1 @@
+He tells them they have 1 hour to stop Demitri Revendreth or the tower will be torn open!
