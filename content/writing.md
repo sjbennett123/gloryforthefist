@@ -351,6 +351,7 @@ Use the setting that exists if at all possible. Don't create new setting if an e
   - Almost
   - Just
   - Will
+  - essentially
 
 - Props that are not detailed. Notes that don't have the text.
 
