@@ -11,10 +11,11 @@ plotline:
 requirements:
   - The Lord Reeves Charge has been ran
   - after dusk (around 8:30 pm.)
-description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The sixth target is the Oblivion's Edge Library
+description: >
+  Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The sixth target is the Oblivion's Edge Library
 synopsis: The Eldritch Golem serves as the Puzzle Master, if they kill him the Module is locked!!! The Armor Golems defend the Library to their dying breath. One Floor 2 they will Reset twice. 
 
-but once the Golem is defeated and stands aside, the module will open up a “door” to the underground Library
+  but once the Golem is defeated and stands aside, the module will open up a “door” to the underground Library
 outcomes: 
   - The PCs reclaim the Library, defeat the door puzzle and Oblivion’s Edge restores it.
   - The PCs fail to reclaim the Library/Door Puzzle or they come back later a respawn.
@@ -87,7 +88,6 @@ running_notes:
 
 
  **Running Notes**: This module is the One of 7 in a chain to reclaim Moutesque. These are the final two modules of it. The Oblivion’s Edge Wraith is a fallen Mage of the Order, they are the field commander these modules.. The Library will be outside with 2 massive Rope Lights. There will be 2 levels of the Library andhe Followup module to this will be outside with the Ropelights too but will be more in a perfect Square to rep a Graveyard with multiple waves of monsters where the Library is a more enclosed battle with a odd layout.
-
 
 
 
