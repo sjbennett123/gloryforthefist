@@ -43,7 +43,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: 
-running_notes: This module is the One of 7 in a chain to reclaim Moutesque. 5 of these modules should be ran Saturday afternoon and the final 2 after reset on Saturday night. The Oblivion’s Edge Wraith is a fallen Mage of the Order, they are the field commander these modules. The Undead Bar Patron’s should use Alchemy aggressively. 
+running_notes: This module is the One of 7 in a chain to reclaim Moutesque. 5 of these modules are ran Saturday afternoon and the final 2 after reset on Saturday night. The Oblivion’s Edge Wraith is a fallen Mage of the Order, they are the field commander these modules. The Undead Bar Patron’s use Alchemy aggressively. 
 
 
 ---
