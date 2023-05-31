@@ -8,7 +8,7 @@ reviewer:
 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule:
+schedule: saturday early evening
 weight: 
 plotline: 
 requirements: 
@@ -75,7 +75,6 @@ Abilities: Read and Write, Herbal Lore, Read Magic, Healing Arts
 Transform: Lvl 8 Chaos Elemental
 Killing Blow Active: Yes, but will only attack if attacked first or protecting other members of the cult
 Motivations: Draw as many people into the Children of the Stars, Get as much donations as possible, Get people to put “faith” in the cause so the Star grows in power
-
 
 
 

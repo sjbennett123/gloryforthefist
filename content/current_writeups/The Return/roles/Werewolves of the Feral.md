@@ -52,6 +52,7 @@ costuming: Grey Fur Tabbard
 props: Glowing Eyes
 descriptive_phrase: mangy hunched humanoid wolf. 
 
+reset: The Feral spawn every 5 minutes upon death. To simulate this, when “Dead” take your 5-minute death count (enjoy the rest lol) and then as you “Resurrect” walk out of site and Respawn, if there are other Feral to revive with do that. MAKE THE PLAYERS HUNT YOU!!!! When you revive, Howl to signify another Feral has “Returned”
 ---
 
 (Brown Werebears, Black Werepanthers)

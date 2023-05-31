@@ -12,7 +12,7 @@ cascade:
 plotline: Reforge Foereaver
 requirements: Open for Business module has been ran
 
-description: Balor had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes. The shard is in a room with snoring past a room of black horned monsters. The players can aquire this shardof Foereaver by going on a special run of the Mausoleam of Fallen heroes. 
+description: A vision is given to Kilgorn that the Catacomb spirits are calling out to him. Foereavers core is waiting to be found since the Orcs are gone.
 
 synopsis:   The Mausoleum of Fallen Heroes is now open! Balor Ironleaf has had a vision of a piece of the artifact weapon Foereaver in the Dungeon just past “just past a room of black horned monsters” (Floor 3) in a room with loud snoring. Balor offers a reward to the players after the opening of the Mausoleum and for them retrieving the shard of Foereaver.
 
@@ -45,7 +45,7 @@ scenes:
     oog: Mod Shack - Mountain Giants monsters start out sleeping. The players can stealth in and take the shard of foereaver and leave if they choose or fight the Giants. If they grab the Shard and run, they can escape. If they engage they will receive the Magic Item Ring of the Champion from of the 5 Giants. This room is pays homage to the final fight where Faeolin Ironleaf fell fighting the True Giant.
     ig: Mausoleum HIDDEN ROOM 
     flee_point: Mod Shack Door
-running_notes: This module will scale in its difficulty with how the players engage the Mausoleum itself. . Be careful with your PC group you pull for this about Floor 3 since the Black Unicorns have 3 Spellstrike Death’s and can deliver their 4 block as Magic.
+running_notes: This module will scale in its difficulty with how the players engage the Mausoleum itself. Be careful with your PC group you pull for this about Floor 3 since the Black Unicorns have 3 Spellstrike Death’s and can deliver their 4 block as Magic. Kilgorn  is a player character played by 
 magic_items:
   - 
     name: Ring of the Champion
