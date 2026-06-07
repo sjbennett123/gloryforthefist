@@ -1,7 +1,6 @@
 ---
 title: R.O.U.S. 
 Layout: module
-plotline: The Rat Pack
 author: Brittney Perry
 reviewer: Scott Bennett
 schedule: randoms

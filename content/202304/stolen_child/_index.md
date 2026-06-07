@@ -15,7 +15,6 @@ synopsis: >
   He followed the kidnappers into the wilderness surrounding Stonewood and to a cave with a small entrance. After pausing for breath, he realized that he ran into a fight with no weapons and no backup. Reluctantly, he doubled back to town with the hope of gathering a party to help rescue his son. While the father sought help, the child was killed.  When the PCs enter the cave, they are set upon by the Tarrasch Pawns, then the Bishop. The Bishop will flee when there is a chance of being defeated. Each Black Pawn will give a silver, each White Pawn a gold, the bishop multiple gold. If the Tarrasch win the fight, someone is marked by the Tarrasch in blood and the rest are left for dead/ or are stabilized/robbed/etc. The Bishop will rob the PCs of their magic items and keep them on his person. 
 
 
-number_of_cast_members: 
 outcomes: 
   - The PCs go to the cave and lose to the Tarrasch Pawns and Bishop, they are left for dead or stabilized, robbed, and left in the cave. 
   - The PCs go to the cave and kill all the Tarrasch Pawns and find the child dead. They were able to protect the father and can help the father bury his child. 

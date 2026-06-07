@@ -9,13 +9,12 @@ Layout: role
 motivation: Feed dead bodies
 tactics: These rats are tied together by the tail. They will fight what ever is in front of them.
 
-movement: Slow, must move as a unit.
 speech: None
 
 body: 50
 Abilities: Rips from Pin/ Bind
 introduction: These huge rats have grown together compacted in the dark now are a furious and diseased mass. All they know is hunger and pain.
-movement: The Rat King can move, but will move as a unit. 
+movement: The Rat King can move, but will move slowly as a unit. 
 Costuming:
   - Brown or Gray Tabard,  
   - Rat Masks OR Rat Makeup

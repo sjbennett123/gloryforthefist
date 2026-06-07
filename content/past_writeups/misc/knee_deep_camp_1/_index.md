@@ -10,7 +10,7 @@ weight:
 plotline: Orcamedies Special
 requirements: Know Your Enemy has been ran
 
-tagline:  Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it 'til the end, push it! 
+tagline:  Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it \'til the end, push it! 
 
 description: The Bomb Shards have to be charged and the Bloody Fist are doing so but stopping these rituals wont be as easy as originally thought….
 synopsis: The Bloody Fist are preparing for their grand design of The Orcamedes Special to come to fruition. There are 10 sites of Stonewood Trees they need to use a small portion of the latent energy store in the Stonewood Tree to charge the Bomb Shards. 
@@ -30,12 +30,6 @@ makeup:
 treasure: Production Item, Components, Coins
 
 
-rumors: | 
-  There has been a sudden influx of celestial energy in the area as of the last few days. I am uncertain of what these energies are yet but I shall investigate them . It could be something with the Leylines but it feels more tied to the land with celestial energy, very concerning for me as a Celestial Formalist. I shall return with what I find out at the market gathering upcoming.
-  
-  Stay Safe,
-  
-  Magnus Kane of the Rygal Order
 
 hook: Magnus Kane enters town to inform the adventurers of his observing of a ritual site setup on his patrols and how he thinks these sites will be utilized with the Bomb.
 scenes: 
@@ -55,5 +49,10 @@ rumors: |
   Your Friend in the Darkness, 
 
   ~Magnus Kane, Arch-Wizard of Celestial Magic of the Rygal Order
----
 
+  There has been a sudden influx of celestial energy in the area as of the last few days. I am uncertain of what these energies are yet but I shall investigate them . It could be something with the Leylines but it feels more tied to the land with celestial energy, very concerning for me as a Celestial Formalist. I shall return with what I find out at the market gathering upcoming.
+  
+  Stay Safe,
+  
+  Magnus Kane of the Rygal Order
+---

@@ -4,7 +4,6 @@ title: "Fury of the Makers Hand"
 Layout: module
 weight: 5
 schedule: saturday early afternoon
-description: Grinder fight up path fight to Bomb Site 
 author: Chris Colland
 reviewer: Mary Courtney
 tagline: One day the tides will turn, one day the fields will burn, one day the seas will churn, the fury of our makers hand! 

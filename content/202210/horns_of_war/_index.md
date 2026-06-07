@@ -3,7 +3,6 @@ title: "Horns of War"
 schedule: saturday
 weight: 1
 
-description: "Horns of War"
 Layout: module
 author: Chris Colland
 reviewer: Scott Bennett

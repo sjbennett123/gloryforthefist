@@ -4,7 +4,6 @@ Layout: module
 weight: 1
 schedule: friday night
 
-description: A Nightmare
 author: Chris Colland
 reviewer: Scott Bennett
 description: The Chosen one of Morumbria begins having terrible dreams. This is a precursor to the module "Ritual of Fire"

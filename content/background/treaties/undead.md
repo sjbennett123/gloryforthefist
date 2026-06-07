@@ -1,6 +1,5 @@
 ---
 title: "Treaties on Undead"
-date: 2022-11-10T10:33:21-05F00
 draft: false
 ---
 

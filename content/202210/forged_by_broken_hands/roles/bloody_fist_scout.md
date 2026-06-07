@@ -4,11 +4,11 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
+quantity: 3
 introduction: >
   You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead. 
 
   Scouts provide the intelligence and reconnaissance of the Bloody Fist but you are very expendable by nature. You are the lowest rank but this is mostly due to your age, as you grow in size and are battle hardened, you will be graduated to the Grunts if you aren’t a weakling.
-reset: 3 times each.
 body: 40
 defenses: 
   - Resist Poison x3
@@ -38,8 +38,8 @@ search: Loot is above you unless you see an impressive magic item then tell your
 killing_blow: If you down PCs leave them to succumb to their wounds. Kidnap when you can if the person is of value.
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
-reset: The NPCs will rest 2 times upon death and come from other parts of the Lumbermill to defend. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. 
+reset: Once all enemies are killed in the main room of the Forge, they will regroup outside and come back in as a group to investigate the “noises” as their 1 reset to simulate another wave
 ---
 
-
+The Scouts will be looking through the Forge for secrets of Dwarven metallurgy
 

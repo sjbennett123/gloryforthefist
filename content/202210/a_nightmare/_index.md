@@ -6,7 +6,6 @@ draft: false
 weight: 1
 schedule: friday
 
-description: A Nightmare
 author: Chris Colland
 reviewer: Scott Bennett
 description: "The Chosen one of Morumbria begins having terrible dreams."
