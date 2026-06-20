@@ -1,5 +1,5 @@
 ---
-title: "Current Writeups"
+title: "Valkaz Strikes Back - April 2023"
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
