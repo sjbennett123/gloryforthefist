@@ -6,11 +6,11 @@ draft: false
 
 **Version**:  1.2
 
-**Objective**:  This playtest expands racial abilities and opens them up to purchase and use for all races at an increased cost. The primary purpose of this is to facilitate a broader range of character concepts and role-play otions to all NERO players
+**Objective**:  This playtest expands racial abilities and opens them up to purchase and use for all races at an increased cost. The primary purpose of this is to facilitate a broader range of character concepts and role-play options to all NERO players
 
 **Secondary Objective**: Secondary benefits of this playtest are the elimination of racial restrictions and disadvantage. This also serves to expand the viable options for players and characters in the future. 
 
-**Summary**:  The Races of Tyrra each ossess natural tendencies and attributes, in NEOR these are represented by traits, the traits a character has determine the skills that are easier to learn for that character. Each race also receives a featured skill, most often a weapon that comes naturally to that race. The traits and features that are associated with each race are found on table 2. Table 1 lists all available racial skills, as well as two costs. One lower cost for races that have the same trait as the category of the skill, and another higher cost, for characters without hte trait. Characters may oly purchase one racial skill per level, and oly skills who lowest cost is 4 build points or less can be purchased multiple times.
+**Summary**:  The Races of Tyrra each ossess natural tendencies and attributes, in NEOR these are represented by traits, the traits a character has determine the skills that are easier to learn for that character. Each race also receives a featured skill, most often a weapon that comes naturally to that race. The traits and features that are associated with each race are found on table 2. Table 1 lists all available racial skills, as well as two costs. One lower cost for races that have the same trait as the category of the skill, and another higher cost, for characters without the trait. Characters may only purchase one racial skill per level, and only skills who lowest cost is 4 build points or less can be purchased multiple times.
 
 **Note**: This playtests removes all restrictions and benefits related to race listed in the Nero 9'th edition rulebook. Body point changes, build discounts, and skill purchase requirements; they are all considered removed when using this playtest. 
 
@@ -142,7 +142,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-This skill allows the character to harves their own "materials" to agment productinm, They need not furnish silver ot recive the bonus levels.
+This skill allows the character to harves their own "materials" to agment productinm, They need not furnish silver ot receive the bonus levels.
 
 Grand Master
 
@@ -316,7 +316,7 @@ Races with this feature have a natural skill with 2 handed weapons of all types.
 
 ### Mentalist
 
-This Feature grants all the abilities listed in the Ninth edition NERO rulebook under Mentalist. In addition, a character with this skill may expend his powers for the day to act as an inspiration spell on a friendly target, it is activated with 3 seconds of role-lay and the phrase " I invoke inspiration", it is then delivered by tough only. It counts as a character's one use of hte inspiration effect, as if it was the spell.
+This Feature grants all the abilities listed in the Ninth edition NERO rulebook under Mentalist. In addition, a character with this skill may expend his powers for the day to act as an inspiration spell on a friendly target, it is activated with 3 seconds of role-lay and the phrase " I invoke inspiration", it is then delivered by tough only. It counts as a character's one use of the inspiration effect, as if it was the spell.
 
 ### Crossbow Mastery 
 
