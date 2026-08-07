@@ -7,5 +7,4 @@ content/current_writeups/modules_to_ingest.lnk
 content/current_writeups/current_writeups_lightweight_site.lnk
 .netlify
 *.docx
-public/*
-!public/_redirects
+public/
