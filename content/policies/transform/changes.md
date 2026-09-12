@@ -1,13 +1,10 @@
 ---
-title: changes to do 
+
+title: Changes to Do
 ---
 
-We need to make a note in transform revision about: 
+We need to add a note to the transform revision about:
 
--hunter innate silver aura buy table
-
-- elementals being healed by their type
-
-
-
-Misspelled polar larp website
+- Hunter innate silver aura buy table
+- Elementals being healed by their type
+- Misspelled Polar LARP website

@@ -1,27 +1,27 @@
 ---
+
 title: "Writing"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
 ---
 
-- If you have an idea that you just want to get off your chest submit it [here](https://forms.gle/j3n8CiwL9dvjQNsL9). 
-- Use the standard writeup format that we all are using for your writeups. 
-- Don't submit too much at once for review finish one thing at a time. 
-- Once you are confident with your work we will ingest it into the website get it printed up. 
+- If you have an idea that you just want to get off your chest, submit it [here](https://forms.gle/j3n8CiwL9dvjQNsL9).
+- Use the standard write-up format that we all use for your write-ups.
+- Don't submit too much at once for review; finish one thing at a time.
+- Once you are confident with your work, we will add it to the website and get it printed.
 
-## Parts of Writeups
+## Parts of Write-ups
 
-All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that.
+All of the write-ups need to be written in a similar way to this. If there is a change to the format that we need to make, we can discuss it, but all modules will need to adapt to use it.
 
-to set up on your local computer follow these steps. [Website Howto]({{< ref "/website_howto" >}})
+To set this up on your local computer, follow these steps: [Website How-to]({{< ref "/website_howto" >}}).
 
-Confirm that your code between the --- parses at https://www.yamllint.com/
+Confirm that your code between the --- parses at <https://www.yamllint.com/>
 
-**if you get errors these are the most common issues**
+**If you get errors, these are the most common issues:**
 
-*mapping values are not allowed in this context* --     you have a colon in the value section for the yaml.
-    
+*Mapping values are not allowed in this context* -- you have a colon in the value section of the YAML.
 
 ### Plotline Overview
 
@@ -33,11 +33,11 @@ layout: plotline_overview
 
 ```
 
-Similar to module overview it will pull the roles underneath it. 
+Similar to the module overview, it will pull the roles underneath it.
 
 #### Title
 
-This needs to match the plotline name in 
+This needs to match the plotline name.
 
 ### Module Overview
 
@@ -92,119 +92,118 @@ running_notes:
 
 ---
 ```
-If there is something that you are not using don't populate it the system will handle it. 
 
-
+If there is something that you are not using, don't populate it; the system will handle it.
 
 #### Title
 
-A distinctive title for your module. Something that can be talked about around the shack that evokes the feel of your module. 
+A distinctive title for your module. It should be something that can be talked about around the shack and that evokes the feel of your module.
 
-*This is bad "Crab People 3" or "Sneaking Module".* 
+*This is bad "Crab People 3" or "Sneaking Module".*
 
 #### Brief/Description
 
-**Enter this as description in your code.** 
+**Enter this as description in your code.**
 
-This is a one or two sentence description of the module. Don't put any mystery in here be as simple and direct as possible. 
+This is a one- or two-sentence description of the module. Don't put any mystery in here; be as simple and direct as possible.
 
-*This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved".* 
+*This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved".*
 
-*This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"*
+*This is good: "The adventurers try to find a buried treasure but are attacked by the Crab People."*
 
 #### Schedule
 
-Friday, Saturday Random,Townsfolk or unsorted. If this is left blank it will go to unsorted. 
+Friday, Saturday, Random, Townsfolk, or unsorted. If this is left blank, it will go to unsorted.
 
 #### Weight
 
-will need tinkered with so that it shows up in the list in a reasonable place. Higher weights go to the bottom. 
+This will need to be tinkered with so that it shows up in the list in a reasonable place. Higher weights go to the bottom.
 
 #### Plotline
 
-The name of the plotline that this relates to. 
+The name of the plotline that this relates to.
 
 #### Requirements
 
-The conditions that need met for the module to be ran. If the module needs run at night or must be ran after another module.
+The conditions that need to be met for the module to run, such as whether the module needs to run at night or after another module.
 
 #### Background
 
-Stuff that leads up to the module. Often you will have bits of lore that the runner should know and would get tripped up on. 
+Information that leads up to the module. Often, you will have bits of lore that the runner should know and might otherwise get tripped up on.
 
 #### Synopsis
 
-The meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. 
+The meat and potatoes of the write-up. Be as verbose as you can, and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the write-up will make it really shine, but you will need to spell it out here.
 
 #### Outcomes
 
-The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle.
+The things that can come from the module. Think about things such as how the players can lose and how they might not follow what you have planned. This section is really important when you have a bunch of modules that you string together or a pitched battle.
 
 #### Hook
 
-This is how the players get on the module. All modules need a hook of some sort even if it's the players find an "Adventure Card" in the woods or the players tell the game master that they are going to "The Forgotten City".
+This is how the players get into the module. All modules need a hook of some sort, even if it is the players finding an "Adventure Card" in the woods or telling the game master that they are going to "The Forgotten City."
 
 #### Page
 
-If the module doesn't outwardly contain any combat then marking as a "Page" module is a good idea. Put some notes on where violence can break out so that the NPC's know how to deal with it.
+If the module doesn't outwardly contain any combat, marking it as a "Page" module is a good idea. Add some notes about where violence can break out so that the NPCs know how to deal with it.
 
 #### Number of Cast Members
 
-Give a range. The fewer cast members that CAN run a module the better don't get too ambitious and write a module that requires 10-15 NPC's. Often you will have "mooks" that will be able to be added to a scene to flesh it out. Do the work before the event and optimize your design so that it uses less resources from the backend 
+Give a range. The fewer cast members who can run a module, the better. Don't get too ambitious and write a module that requires 10-15 NPCs. Often, you will have "mooks" who can be added to a scene to flesh it out. Do the work before the event and optimize your design so that it uses fewer resources from the backend.
 
 #### Roles
 
-These are the different roles that the cast members will be playing for the encounter. Each role will be given the module sheet and the role card. Remember that the Hook needs a role card too.
+These are the different roles that the cast members will play for the encounter. Each role will be given the module sheet and the role card. Remember that the hook needs a role card, too.
 
 #### Props
 
-These are the props that are needed for the module to run. Before the event we will check to make sure that we have all these things in the NPC Shack and if we don't have them we will either make them or change the module.  If special props are needed for the encounter, make it as easy as possible to use them. Have checklists to make sure you get all the props with a description of the props. Also have notes about what props are essential and which props are optional for the encounter to do down successfully.
+These are the props that are needed for the module to run. Before the event, we will check to make sure that we have all these things in the NPC Shack. If we don't have them, we will either make them or change the module. If special props are needed for the encounter, make them as easy as possible to use. Have checklists to make sure you get all the props, along with descriptions of them. Also, have notes about which props are essential and which are optional for the encounter to be successful.
 
-#### Tags and Treasure 
+#### Tags and Treasure
 
-Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about.
+List any tags that are needed for the encounter. Generally, you will divide the treasure among the different roles; if this is not the case, mark it down. Remember that the treasure for a module is often the MOST important thing for the players, even though it can be easy to forget about.
 
 #### Scenes
 
-List out all of the scenes that will be used in the module. If there is a cave with 5 rooms write out 5 scenes. Detail any setup that is needed. Detail both the Out of Game setup that is needed as well as what the scene is in the game. Possibly give a description that the runner can read as "Box Text". Don’t detail “the Tavern” or “The Town” as a scene. It is assumed that part of the module will interact with the players that are away from the module area due. Set the scene and be clear about boundaries. Often you will be using things that don't mean what they say they mean. 
+List all of the scenes that will be used in the module. If there is a cave with five rooms, write out five scenes. Detail any setup that is needed. Detail both the out-of-game setup and what the scene is in the game. If appropriate, provide a description that the runner can read as "box text." Don’t detail “the Tavern” or “the Town” as scenes. It is assumed that part of the module will interact with players who are away from the module area. Set the scene and be clear about boundaries. Often, you will be using things that don't mean what they say they mean.
 
 #### Flee Point
 
-Every module will need a way for someone to get out and get back to town. Detail both what the way out is Out of Game ie "The Door to the Module Shack" and in game "The entrance to the cave that leads back to the surface". If there is not a way out then you will want to make it very clear that there is no escape. 
+Every module will need a way for someone to get out and get back to town. Detail both what the way out is out of game, such as "the door to the Module Shack," and in game, such as "the entrance to the cave that leads back to the surface." If there is not a way out, make it very clear that there is no escape.
 
 #### Non-Standard Effects
 
-Anything that does not conform to the NERO rules will go here. These deviations will be detailed at the start of the module.
+Anything that does not conform to the NERO rules goes here. These deviations will be detailed at the start of the module.
 
 #### Rules Clarifications
 
-What rules are heavily used on the encounter that would do with some clarification. 
+What rules are heavily used in the encounter and would benefit from clarification?
 
 #### Craftsman Information
 
-What information do you give to people that have craftsman skills. 
+What information do you give to people who have craftsman skills?
 
 #### Transformations
 
-Do transforms go up? Which ones?
+Do transformations go up? Which ones?
 
 #### Running Notes
 
-This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.
+This is the guidance that you would give a runner. Often, the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.
 
 #### Rules Clarifications
 
-Most people that play NERO haven’t' read the rules. They are just playing it by what they see and they reference the PDF when they get home. To help keep the game from being anarchy we go over the rules that are immediately important when they come up on our encounters. For instance if you are going to be using a bunch of monsters with waylay go over the waylay rules at the start of the encounter. Calling a hold for odd effects pre module if done every module would be standard and would feel less like a verbal bashing if done consistently. 
+Most people who play NERO haven’t read the rules. They are playing based on what they see, and they reference the PDF when they get home. To help keep the game from becoming anarchy, we go over the rules that are immediately important when they come up in our encounters. For instance, if you are going to use a bunch of monsters with waylay, go over the waylay rules at the start of the encounter. Calling a hold for odd effects before the module, if done for every module, would be standard and would feel less like a verbal bashing if done consistently.
 
 ---
 
-If you think that a bit of information might be useful, put it in the write-up. -- One of the things that I often see if people stopping me when I do the read through of the write-up to give some information about the setting or the encounter. Put that in the write-up.
+If you think that a bit of information might be useful, put it in the write-up. One of the things that I often see is people stopping me during the read-through of the write-up to give me information about the setting or the encounter. Put that information in the write-up.
 
-When writing a module try to ensure that the basics are handled well before you get "Crazy" monsters all have cards and are costumed etc.
+When writing a module, try to ensure that the basics are handled well before you add "crazy" elements. Make sure all monsters have cards and costumes, etc.
 
-When you are doing a writeup many small details that seem superfluous are just the thing that is needed to make the thing shine. The standard format is just the bare minimum for the thing to be usable. Try to capture as much of your vision in your writing as you can. The best writeup is like the writer being there explaining the plan to you.
+When you are doing a write-up, many small details that seem superfluous are exactly what is needed to make it shine. The standard format is just the bare minimum for the work to be usable. Try to capture as much of your vision in your writing as you can. The best write-up is like having the writer there to explain the plan to you.
 
-Read the write-up aloud before giving it the thumbs up. The cast will be reading it aloud you don't want to look like an asshole. 
+Read the write-up aloud before giving it the thumbs-up. The cast will be reading it aloud, and you don't want to look unprepared.
 
 ### Role
 
@@ -245,7 +244,7 @@ reset:
 
 #### Layout
 
-#### introduction 
+#### introduction
 
 #### motivation
 
@@ -279,13 +278,13 @@ reset:
 
 ---
 
-If there is something that you are not using don't populate it the system will handle it. 
+If there is something that you are not using, don't populate it; the system will handle it.
 
-Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
+Often, there are parts where the cast needs to add their own little something to a role. Give them some guidance so that they can be more confident in their performance.
 
-Try to give the cast some guidance on making the characters come alive. What do you say exactly how do you say it. What mannerisms will make the characters work. 
+Try to give the cast some guidance on making the characters come alive. What exactly do you say, and how do you say it? What mannerisms will make the characters work?
 
-Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
+Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/).
 
 ### National Monster Card
 
@@ -306,7 +305,7 @@ Descriptive_Phrase:
 Type:
 APL:
 Movement: 
-Inteligence: 
+Intelligence: 
 Society: 
 Motivation: 
 armor: 
@@ -335,25 +334,25 @@ reset:
 
 ## Writing Tips
 
-Always remember that the cast is playing too. -- This goes contrary to the adage that the only the Player Characters are "customers" and the npc's are there to entertain the customers. The truth of it is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "Agency" to do things. 
+Always remember that the cast is playing, too. This goes contrary to the adage that only the player characters are "customers" and the NPCs are there to entertain them. The truth is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "agency" to do things.
 
-Use the setting that exists if at all possible. Don't create new setting if an existing bit will do. We must build on each other's work. 
+Use the existing setting whenever possible. Don't create a new setting if an existing one will do. We must build on each other's work.
 
 ## Reviewing Tips
 
-- You don't need to correct anything if it's not broken. 
-- First priority is spelling / grammar. 
-- Are there any props that are mentioned in the writeup but not in the list.
-- Can you visualize the module. 
-- Say nice things too remember they tried their best. 
-- Look for tentative language. 
-  - should 
+- You don't need to correct anything if it's not broken.
+- The first priority is spelling and grammar.
+- Are there any props that are mentioned in the write-up but not in the list?
+- Can you visualize the module?
+- Say nice things, too; remember that they tried their best.
+- Look for tentative language.
+  - should
   - Almost
   - Just
   - Will
   - essentially
 
-- Props that are not detailed. Notes that don't have the text.
+- Props that are not detailed. Notes that don't include the text.
 
 ```yaml
 ---
@@ -364,17 +363,15 @@ author: Scott Bennett
 ---
 ```
 
-
-
 ## POLAR Event Directors Requirements
 
-1. You must work with your Review. 
-2. No non-standard effects. Anything you want to try to do that could be non-standard please reach out to Clinton Snyder or Donnie Leight and they will find a way to make it standard. 
-3. Your full event must be reviewed 2 weeks in advance before your event. Your event must have a minimum of 30 encounters. An encounter can be can be as simple as an NPC that Entertains multiple PCs at a time.
-4. Events should include 
+1. You must work with your reviewer.
+2. No non-standard effects. If you want to try something that could be non-standard, please reach out to Clinton Snyder or Donnie Leight, and they will find a way to make it standard.
+3. Your full event must be reviewed two weeks before the event. Your event must have a minimum of 30 encounters. An encounter can be as simple as an NPC who entertains multiple PCs at a time.
+4. Events should include:
    1. puzzles
    2. ciphers
    3. non-combat skill usage
    4. transform acquisition modules.
-5. Use of Donnie Leight's standard mod sheet. 
-   1. The mod sheet makes it easier for a shack person or anyone who has permission to run a mod for you can pick it up and set up and run quickly.
+5. Use Donnie Leight's standard mod sheet.
+   1. The mod sheet makes it easier for a shack person, or anyone who has permission to run a mod for you, to pick it up, set it up, and run it quickly.

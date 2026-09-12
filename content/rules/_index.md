@@ -1,9 +1,11 @@
 ---
+
 title: "Rules"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
 ---
+
 [PDF Single Pages](/nero_rulebook.pdf)
 
 [PDF Spreads](/nero_rulebook_spreads.pdf)
@@ -12,21 +14,21 @@ weight: 2
 
 ## Introduction
 
-I call upon chaos to create undead! Arise, my minions! Arise and slay them all!” The voice of the necromancer echoed like a funeral song through the cave, bouncing off the walls and ringing in our ears. We could not see her beyond the flickering light of our torch, and at first it seemed as though nothing had happened. I exchanged a few glances with my companions but found little confidence in their nervous expressions. Tightening my grip on my sword and drawing my shield closer to my chest, I strained my eyes to see into the pitch-black tunnel before me. Slowly, as though the noise was being dredged up from the heart of the cave, the soft sound of feet dragging along gravel and rocks being scratched sifted into our ears. I looked at my companions and saw looks of dismayed realization cross over their faces. The necromancer’s spell had worked.
+“I call upon chaos to create undead! Arise, my minions! Arise and slay them all!” The voice of the necromancer echoed like a funeral song through the cave, bouncing off the walls and ringing in our ears. We could not see her beyond the flickering light of our torch, and at first it seemed as though nothing had happened. I exchanged a few glances with my companions but found little confidence in their nervous expressions. Tightening my grip on my sword and drawing my shield closer to my chest, I strained my eyes to see into the pitch-black tunnel before me. Slowly, as though the noise was being dredged up from the heart of the cave, the soft sound of feet dragging along gravel and rocks being scratched sifted into our ears. I looked at my companions and saw looks of dismayed realization cross over their faces. The necromancer’s spell had worked.
 
-Too cowardly to handle us herself she had desecrated the bodies of the dead and reanimated them to serve her. If we had known any of these people in life, they were unrecognizable now. As they lurched slowly into the circle of light around us I heard a few of my comrades gasp in horror at their appearances, and I could hardly blame them. Decayed flesh hung off the bones of the undead, displaying their ivory white bones and the remains of their innards. Though their eyes had rotted away long ago they still seemed to see us through their empty sockets.
+Too cowardly to handle us herself, she had desecrated the bodies of the dead and reanimated them to serve her. If we had known any of these people in life, they were unrecognizable now. As they lurched slowly into the circle of light around us, I heard a few of my comrades gasp in horror at their appearances, and I could hardly blame them. Decayed flesh hung off the bones of the undead, displaying their ivory-white bones and the remains of their innards. Though their eyes had rotted away long ago, they still seemed to see us through their empty sockets.
 
-Gritting my teeth, I stepped forward, determined to get rid of these monsters. The undead nearest to me swung a stone mace at my chest, but I blocked it deftly with my shield and hacked him in two with a swipe of my sword. Undead were not difficult opponents, their brains are too rotted and maggot-ridden to direct their actions, but that was not what made them such terrifying opponents. While there were only a small handful of us in the cave, the undead could be as numerous as the necromancer desired. She only had to animate more of the corpses she had dredged up and send them in our direction. It was unlikely a single undead would fell one of us in combat, but a horde of them could overwhelm our party in no time. 
+Gritting my teeth, I stepped forward, determined to get rid of these monsters. The undead nearest to me swung a stone mace at my chest, but I blocked it deftly with my shield and hacked him in two with a swipe of my sword. Undead were not difficult opponents; their brains were too rotted and maggot-ridden to direct their actions, but that was not what made them such terrifying opponents. While there were only a small handful of us in the cave, the undead could be as numerous as the necromancer desired. She only had to animate more of the corpses she had dredged up and send them in our direction. It was unlikely a single undead would fell one of us in combat, but a horde of them could overwhelm our party in no time.
 
 I tried to conserve my energy, for the darkness hid just how many she had sent to assault us. Beside me my friends were doing the same, but it was clear we could not fight forever. The undead moved with uneven steps toward us with the tireless energy of the afterlife. I suddenly froze as I heard someone cry out in pain. Peering around wildly, I saw that one of the undead had managed to latch its claws into the left arm of our rogue, Ivan. He managed to fight it off before it did him any more harm, but it was clear his arm was too mangled to be of any use now.
 
 “Don’t worry, I’ll take care of him.” Erin, our healer, said before she swept quickly over to Ivan, who was cradling his arm unhappily against his chest. I had no time to thank her, for without Ivan holding one end of the line the undead were beginning to push us back. I managed to cut several more to pieces before one with a significant amount of muscle left undecayed on its form shoved me to the ground. My weapon clattered loudly onto the stone floor beside me and as I looked from it to my opponent I could see there would be no time to recover it before the undead would be upon me.
 
-“I call forth a flame bolt 20!” Shouted Kryssa, our celestial scholar, and I found myself sighing quietly with relief as the undead leering over me was incinerated by her spell. The stream of fire illuminated the cave briefly as it left her hands and I glimpsed a pale face glaring hatefully at me from across the room. As the room faded to darkness once more I was suddenly grasped with comprehension. It was the necromancer!
+“I call forth a flame bolt 20!” shouted Kryssa, our celestial scholar, and I found myself sighing quietly with relief as the undead leering over me was incinerated by her spell. The stream of fire illuminated the cave briefly as it left her hands and I glimpsed a pale face glaring hatefully at me from across the room. As the room faded to darkness once more I was suddenly grasped with comprehension. It was the necromancer!
 
-“She’s here, only a few yards away!” I cried, grabbing my sword and leaping to my feet. The sound of footsteps announced the necromancer had heard my call and, alarmed, began to flee. Determined not to let her escape I attacked her small army with renewed vigor. Anything my blade did not manage to slice in two was swiftly turnedto ash by Kryssa’s magic. Soon the undead lay at our feet, at peace once more. I lunged forward to pursue the cause of this mess but felt a hand firmly grasping my upper arm. Irritated, I swung around and found Kryssa holding onto me. 
+“She’s here, only a few yards away!” I cried, grabbing my sword and leaping to my feet. The sound of footsteps announced the necromancer had heard my call and, alarmed, began to flee. Determined not to let her escape I attacked her small army with renewed vigor. Anything my blade did not manage to slice in two was swiftly turned to ash by Kryssa’s magic. Soon the undead lay at our feet, at peace once more. I lunged forward to pursue the cause of this mess but felt a hand firmly grasping my upper arm. Irritated, I swung around and found Kryssa holding onto me.
 
-“We can’t leave those two behind,” She said, nodding at the other end of the tunnel, where Erin was still tending carefully to Ivan’s wound. “We wiped out everything she tried to throw at us,” the woman added reassuringly, “She won’t be coming back to bother the people around here again, because she knows we’ll be here waiting.”
+“We can’t leave those two behind,” she said, nodding at the other end of the tunnel, where Erin was still tending carefully to Ivan’s wound. “We wiped out everything she tried to throw at us,” the woman added reassuringly, “She won’t be coming back to bother the people around here again, because she knows we’ll be here waiting.”
 
 Still eager to chase down our foe, but seeing the sense in her words, I nodded and began to walk back to our other two comrades. The necromancer had escaped, but we were confident this was one village she would never torment again.
 
@@ -42,11 +44,11 @@ If the epic life is not your style, then you can play the part of a town merchan
 
 NERO is dedicated to the legendary days of high fantasy, while running a fun (and above all safe) game. We have fierce warriors, crafty scouts, powerful mages, loyal knights, and benevolent healers. There are smelly goblins, blood-chilling specters, evil necromancers, and villainous spies to fight, and your very own legends to create.
 
-## How NERO Works 
+## How NERO Works
 
-In NERO, a cast of non-player characters (NPCs) are used to set the tone and provide background for the player characters (PCs). They may serve important town functions (such as Guild leaders or high plot and action. Much of what happens at an event, however, is completely decided by the players.
+In NERO, a cast of non-player characters (NPCs) is used to set the tone and provide background for the player characters (PCs). They may serve important town functions, such as guild leaders, or drive high-level plot and action. Much of what happens at an event, however, is completely decided by the players.
 
-NERO uses padded weapons to simulate actual combat, and a magic system that uses packets made of fabric and bird seed to represent the hurling of spells. Mock (and sometimes real) armor and other costumes are used to enhance the atmosphere. 
+NERO uses padded weapons to simulate actual combat, and a magic system that uses packets made of fabric and bird seed to represent the hurling of spells. Mock (and sometimes real) armor and other costumes are used to enhance the atmosphere.
 
 There are many types of NERO events. The most common are day events, weekend events, and long events. Each type of event runs non-stop from start to completion. Day events start and end on the same day and may last for 8 or more hours. A day event is usually composed of a single scenario (module) and may be very linear in nature. Weekend events run from Friday night to Sunday morning/afternoon. Long events are any event that runs longer than a weekend event. The most common long event lasts for 4 days (Friday to Monday), but it is not unheard of for a long event to last for 9 or more consecutive days. Weekend and long events are composed of collections of modules with multiple plot-lines and bring to life a medieval town with all its inhabitants and intrigues. There is nothing to compare with the feeling of playing for 24 hours a day along with possibly hundreds of other players, each with their own desires, fears, and aspirations.
 
@@ -62,11 +64,11 @@ This book has many rules and requirements and for new players it can sometimes b
 
 **Body Contact:** NERO prohibits all body contact during combat. All combat must take place with NERO approved safe weapons, and certain parts of the body (head, groin, hands) are not allowed to be hit, even with these NERO safe weapons. This rule does not apply to packet delivered attacks, which may hit any part of the body.
 
-**Alcohol :** NERO absolutely forbids alcohol and illegal drugs at its events, and you are not permitted to use these off site and then come to the game drunk or high.
+**Alcohol:** NERO absolutely forbids alcohol and illegal drugs at its events, and you are not permitted to use these off-site and then come to the game drunk or high.
 
-**Hold :** If you hear someone yell “Hold!” stop everything you are doing and drop to one knee. Holds should only be called if there is a real need, and usually only for safety reasons. You cannot call a hold to check on a rule, or ask if someone knows that you hit them with a spell or ability, unless that rule or effect is so integral to the situation that it would affect every person involved in that situation.
+**Hold:** If you hear someone yell “Hold!” stop everything you are doing and drop to one knee. Holds should only be called if there is a real need, and usually only for safety reasons. You cannot call a hold to check on a rule, or ask if someone knows that you hit them with a spell or ability, unless that rule or effect is so integral to the situation that it would affect every person involved in that situation.
 
-**Sneaking :** If you wish to sneak into a building or tent (regardless of whether you are sleeping in that building or tent for the event), you must have a marshal present. This rule helps ensure that out-of-game items (the personal property of other players) are not accidentally taken if your character chooses to steal items from another player’s building or tent.
+**Sneaking:** If you wish to sneak into a building or tent (regardless of whether you are sleeping in that building or tent for the event), you must have a marshal present. This rule helps ensure that out-of-game items (the personal property of other players) are not accidentally taken if your character chooses to steal items from another player’s building or tent.
 
 Please follow these rules completely and report anyone who does not to a marshal.
 
@@ -76,47 +78,47 @@ A lot of what you will read in the upcoming pages may be confusing; there seems 
 
 ### A Basic Overview
 
-You, the player, will portray a character for the duration of the event. Your character has certain skills. Some of these are usable whenever you’d like (such as your skill in a specific weapon) and some are usable a limited number of times per day (like the ability to cast a spell). In order to learn more skills, or to be able to cast a large number of spells per day, you will have to gain experience. 
+You, the player, will portray a character for the duration of the event. Your character has certain skills. Some of these are usable whenever you’d like (such as your skill in a specific weapon) and some are usable a limited number of times per day (like the ability to cast a spell). In order to learn more skills, or to be able to cast a large number of spells per day, you will have to gain experience.
 
-You gain experience by attending events. The amount of experience you earn is based on whether you PC or NPC. If you PC you will receive a base amount of experience that you can then double in a number of different ways. You may turn in game money at the end of the event, perform a number of hours of NPC duty (if the chapter allows this), or the chapter may grant all PCs double experience just for attending the event. If you NPC the entire event you will receive the maximum possible amount of experience as a reward for your service.
+You gain experience by attending events. The amount of experience you earn is based on whether you are a PC or an NPC. If you are a PC, you will receive a base amount of experience that you can then double in a number of different ways. You may turn in game money at the end of the event, perform a number of hours of NPC duty (if the chapter allows this), or the chapter may grant all PCs double experience just for attending the event. If you NPC the entire event you will receive the maximum possible amount of experience as a reward for your service.
 
 Awarded Experience Points (XP) are then transferred into Build Points (BP). Build Points are what you use to buy new skills. Every 10 BP you earn increases your level. The amount of XP needed to earn a new Build Point increase each time your level increases, so the higher level you become, the slower you gain new skills.
 
 Your character must be one of the currently allowed races, such as Human, Elf, Dwarf, or Sarr. For a complete list of races and their advantages and disadvantages, see the Classes and Races section in this rule book.
 
-Your character also has a specific class which determines the number of BP that a skill will cost, the total number of Armor Points you can wear to start, and the number of body points that you gain per level. 
+Your character also has a specific class which determines the number of BP that a skill will cost, the total number of Armor Points you can wear to start, and the number of body points that you gain per level.
 
 Sometimes you will get into battles. When swinging a weapon, you will call out the amount of damage your weapon will do.
 
-A standard long sword does 2 points of damage. When you get hit, you will subtract from your Armor Points and your Body Points until you are at zero or below. Your opponent will do the same. 
+A standard long sword does 2 points of damage. When you get hit, you will subtract from your Armor Points and your Body Points until you are at zero or below. Your opponent will do the same.
 
-Spells may be cast during battles and they can affect the battle in many ways. You need to know the spells in order to get the most out of your NERO experience. Spells are represented by foam golf or tennis balls purchasable at most sporting good stores, or small cloth packets filled with birdseed that you can make yourself. You must say the specific words (incantation) associated with the spell (such as “With mystic force I web you!”) and hit your target with the spell aura for the spell to work.
+Spells may be cast during battles, and they can affect the battle in many ways. You need to know the spells in order to get the most out of your NERO experience. Spells are represented by foam golf or tennis balls purchasable at most sporting-goods stores, or small cloth packets filled with birdseed that you can make yourself. You must say the specific words (incantation) associated with the spell (such as “With mystic force I web you!”) and hit your target with the spell aura for the spell to work.
 
-You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status. 
+You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status.
 
 Now let’s look at a typical NERO weekend and see how some of these rules are applied.
 
 ## First Weekend Example of Play
 
-Here’s an example of a typical NERO weekend as experienced by a new player (You!): 
+Here’s an example of a typical NERO weekend as experienced by a new player (You!):
 
 Once you have your character established, you check in for a NERO event. You are given a small amount of starting money, tags representing your starting equipment, and a character card which lists your current skills and other pertinent information. You will get a new card for every event in order to keep this information accurate and up to date. This allows you, other characters, and the game marshals to keep track of your abilities should any disputes arise. You will also receive either tags for each of your abilities or a character skill sheet.
 
-You also have to get your weapon checked. Even players who attend every event must get their weapons checked each time. If your weapon is approved, you are given a safety tag that is attached to your weapon. If you do not have one already, you are given a cabin assignment. Once you have finished checking in to the event, you put on a white headband (signifying that you are out-of-game) and carry your bedding and other equipment to your room. You are then ready to get into your costume. 
+You also have to get your weapon checked. Even players who attend every event must get their weapons checked each time. If your weapon is approved, you are given a safety tag that is attached to your weapon. If you do not have one already, you are given a cabin assignment. Once you have finished checking in to the event, you put on a white headband (signifying that you are out-of-game) and carry your bedding and other equipment to your room. You are then ready to get into your costume.
 
-One thing you notice is that everyone in the NERO game wears a costume. The type of clothes you wear can also help with your Armor Points. If your costume looks like it fits the IG atmosphere you will be able to wear more armor.
+One thing you notice is that everyone in the NERO game wears a costume. The type of clothes you wear can also help with your Armor Points. If your costume looks like it fits the IG atmosphere, you will be able to wear more armor.
 
-The time that game begins will vary based on the chapter and the length of the event, but all weekend and longer events typically start between 9 pm and 11 pm Friday night. Prior to the start of game will be opening ceremonies where the weekend coordinators go over the chapter’s policies, camp rules, and any plot information that would be known by all characters.
+The time that game begins will vary based on the chapter and the length of the event, but all weekend and longer events typically start between 9 pm and 11 pm Friday night. Prior to the start of the game, there will be opening ceremonies where the weekend coordinators go over the chapter’s policies, camp rules, and any plot information that would be known by all characters.
 
 It’s Friday night and the town is buzzing. Guilds are having meetings, adventuring groups are planning strategy, the elves are having a ceremony, and the tavern is packed. Rumors of a zombie attack are floating about and the political situation doesn’t look too secure. Life could be easier—but it could also be boring. You adjust your boots, make sure your dagger is handy, and start walking at a leisurely pace over to the tavern, but only get a few steps before something jumps out at you. It’s a goblin! You can tell by the ugly green face. Goblins and other monsters are some of the Non-Player Characters in NERO. Members who want to play monsters get special benefits for that event but must do what the chapter hosting the event tells them.
 
-The goblin advances and swings his sword. You pull out your trusty dagger. Weapons in NERO are soft “boffer” weapons. They are basically PVC piping covered with foam rubber, with very soft ends. Injuries are very rare occurrences at NERO events—a game of little league baseball is more dangerous than a NERO combat. Players in NERO buy their equipment and weapons though we also provide instructions for making them. A dagger only does one point of damage while a long sword (which the goblin has) does two. The goblin knows this and smiles (or at least you think he does behind his goblin mask). What the goblin doesn’t know is that one of the skills you bought with your Build Points is a Critical Attack which allows you to do an extra point of damage. The battle begins. Each of you calls out what damage you are doing so the other player can keep track. “Two Normal!” yells the goblin. “Two Normal!” you reply, using your Critical Attack in the hopes of finishing off the goblin before he finishes you!
+The goblin advances and swings his sword. You pull out your trusty dagger. Weapons in NERO are soft “buffer” weapons. They are basically PVC piping covered with foam rubber, with very soft ends. Injuries are very rare occurrences at NERO events—a game of little league baseball is more dangerous than a NERO combat. Players in NERO buy their equipment and weapons, though we also provide instructions for making them. A dagger only does one point of damage while a long sword (which the goblin has) does two. The goblin knows this and smiles (or at least you think he does behind his goblin mask). What the goblin doesn’t know is that one of the skills you bought with your Build Points is a Critical Attack which allows you to do an extra point of damage. The battle begins. Each of you calls out what damage you are doing so the other player can keep track. “Two Normal!” yells the goblin. “Two Normal!” you reply, using your Critical Attack in the hopes of finishing off the goblin before he finishes you!
 
 The goblin lunges at your chest, but you jump aside just at the last moment! As he passes by, you jab at his back with your dagger. “Ow!” screams the goblin. “Dat hurt! Me no like you!” You grin and swing out again, just to tease and torment the creature.
 
 He advances. “Me now teach you lesson!”
 
-With a lightning quick thrust, he swings at your chest. You try to block with your dagger, but fail to bring your weapon up in time to block the attack... Your now ruined shirt tells you that it might be a good idea to be a bit more careful with this foe.
+With a lightning-quick thrust, he swings at your chest. You try to block with your dagger, but fail to bring your weapon up in time to block the attack... Your now-ruined shirt tells you that it might be a good idea to be a bit more careful with this foe.
 
 You make a mental note to find someone to teach you how to fight with a long sword as soon as possible.
 
@@ -124,9 +126,9 @@ You now have both taken two points of damage. Since you’ve never fought a gobl
 
 “Give up, smelly human?”
 
-“Never!” you reply, jumping in and taking the foul creature by surprise. His yelp of pain as your dagger slices his chest is very satisfying.. .but he’s still up!Perhaps running away might be a good option.
+“Never!” you reply, jumping in and taking the foul creature by surprise. His yelp of pain as your dagger slices his chest is very satisfying... but he’s still up! Perhaps running away might be a good option.
 
-The goblin senses your apprehension and follows with a flurry of attacks. You are able to block most of them, but one lands its target,cutting through your torn shirt and releasing a spray of blood. The goblin laughs triumphantly.
+The goblin senses your apprehension and follows with a flurry of attacks. You are able to block most of them, but one lands its target, cutting through your torn shirt and releasing a spray of blood. The goblin laughs triumphantly.
 
 That does it! This really sparks your anger and you lunge in like a mad man, hacking away at the green-skinned creature. This is more than he can take, and he falls to the ground. You stand there breathing heavily for a minute, and then you lean over him and search him.
 
@@ -136,7 +138,7 @@ Now that the fight is over you must mark (by removing tags or marking your chara
 
 If you die either in battle or by execution, your character can then be resurrected. See the section of the rule book dealing with Death for more information on what happens when your character dies.
 
-You walk into the bustling tavern. Some local bards are playing quietly in a corner. As you look around the tavern you are surprised to see the local Baron himself, sitting with the Magistrate and the Sheriff! They seem to be arguing over something and it must be important given how many other people are sitting nearby trying to pretend they’re not listening.You find a spot and sit. The gadabari tavern keeper dances over to you and brings you a drink for a silver piece. A woman sits nearby and pulls out a book and begins reading, by the glow of her hands, you can tell that she is a spell caster. You walk over. “Good evening,” you say. “Might you be a healer?” “Yes I am,” she replies. “I am Arcadia. Are you in need of help?”
+You walk into the bustling tavern. Some local bards are playing quietly in a corner. As you look around the tavern, you are surprised to see the local Baron himself sitting with the Magistrate and the Sheriff! They seem to be arguing over something, and it must be important, given how many other people are sitting nearby trying to pretend they’re not listening. You find a spot and sit. The gadabari tavern keeper dances over to you and brings you a drink for a silver piece. A woman sits nearby and pulls out a book and begins reading, by the glow of her hands, you can tell that she is a spell caster. You walk over. “Good evening,” you say. “Might you be a healer?” “Yes I am,” she replies. “I am Arcadia. Are you in need of help?”
 
 You tell her about your encounter with the goblin and ask if she can spare a Cure Light Wounds spell. She states that such a spell would cost three silver pieces.
 
@@ -148,7 +150,7 @@ You tell her about your encounter with the goblin and ask if she can spare a Cur
 
 You then have to adjust tags or mark your character skill sheet to reflect the fact that you have been healed and your missing body points have been restored.
 
-A warrior in chain mail then comes up to both of you. With her are a venerable mage and a rather shifty-looking individual. “Pardon me,” she states, “but we were just wondering if you’ve heard anything about a goblin treasure map. We’d be willing to pay for information that proves to be true.” You try not to show any reaction as she speaks about a rumor she had heard involving a map kept in a small box. Better find out more about these people before making any commitments. You introduce yourself and they do as well, and you all spend some time discussing your pasts and talking about other rumors and bits of decide information you have heard. You finally decide that they can be trusted and you suggest that you all go someplace where no one can overhear.
+A warrior in chain mail then comes up to both of you. With her are a venerable mage and a rather shifty-looking individual. “Pardon me,” she states, “but we were just wondering if you’ve heard anything about a goblin treasure map. We’d be willing to pay for information that proves to be true.” You try not to show any reaction as she speaks about a rumor she had heard involving a map kept in a small box. Better find out more about these people before making any commitments. You introduce yourself, and they do as well. You all spend some time discussing your pasts and talking about other rumors and bits of inside information you have heard. You finally decide that they can be trusted and you suggest that you all go someplace where no one can overhear.
 
 You travel to the mage’s cabin where you show the box to the shifty-eyed person, who turns out to be a “locksmith.” He smiles at the challenge and pulls out his tools.
 
@@ -166,15 +168,15 @@ Unless you are NPC’ing, you cannot play more than one character during an even
 
 ## Playtesting Rules
 
-Each NERO chapter abides by the rules listed in this book. Additionally, these rules can be modified and new rules added by official NERO play tests. The NERO International Office makes available an official list of rules that are being play tested on their website www.nerolarp.com. Each chapter must make available a list of the play tests that they are using, so that players attending events at a chapter can find out ahead of time which play tests will be in use.
+Each NERO chapter abides by the rules listed in this book. Additionally, these rules can be modified and new rules added by official NERO play tests. The NERO International Office makes available an official list of rules that are being play tested on their website <www.nerolarp.com>. Each chapter must make available a list of the play tests that they are using, so that players attending events at a chapter can find out ahead of time which play tests will be in use.
 
 ## Creating a Character History
 
 Creating a believable and fun character history is a significant key to enjoying a NERO event. Knowing your character’s persona can give you wide reaching role-playing possibilities. Written character histories are not required to play NERO but they will provide you with background and us with opportunities to give you plot.
 
-Once your history is finished, it should be submitted to your local Plot Committee for approval. They will use it to make your adventuring more interesting by tying your history into what you are doing now. 
+Once your history is finished, it should be submitted to your local Plot Committee for approval. They will use it to make your adventuring more interesting by tying your history into what you are doing now.
 
-Understand, however, that the committee has the right to overrule your choices if they would violate game rules or give your character too much of an advantage in the game. After all, you can’t just say that you’re the son of a famous king with superhuman abilities and a million gold pieces and expect us to allow it. 
+Understand, however, that the committee has the right to overrule your choices if they would violate game rules or give your character too much of an advantage in the game. After all, you can’t just say that you’re the son of a famous king with superhuman abilities and a million gold pieces and expect us to allow it.
 
 Avoid the clichés common in so many fantasy films and literature. And that includes thinking of a name for your character. Although we have yet to see a Conan or a Bilbo Baggins, we have had our share of Vlad Taltos, Rand al’Thors, Belgarions, Elrics, and Skeeves. What, do you think you’re the only person in the world to have read these books?
 
@@ -194,11 +196,11 @@ Be creative in your ideas and your presentation! Some players have written their
 
 ### Bad Character History Notes
 
-There are lots of problems with this history - first of all, it contains every hackneyed cliché overused in bad literature of this type. One or two may have been acceptable, but this is ridiculous. (And who names their kids Deathbringer Bloodblade Darkshadow, anyway?) Secondly, and perhaps more importantly, if this person has done all of these great heroic things, then why in the world is he entering game as a lowly second level character? 
+There are lots of problems with this history - first of all, it contains every hackneyed cliché overused in bad literature of this type. One or two may have been acceptable, but this is ridiculous. (And who names their kids Deathbringer Bloodblade Darkshadow, anyway?) Secondly, and perhaps more importantly, if this person has done all of these great heroic things, then why in the world is he entering game as a lowly second level character?
 
 Most character histories that are rejected fail because of that reason. Players write histories naming themselves as great heroes who can cast amazing spells and have written great learned treatises or have killed great monsters, but as a starting player in our game, they can’t afford to buy Read and Write or Weapon Proficiencies. What, did your character forget everything all of a sudden?
 
-A well fleshed-out and detailed character history need not be filled with adventure and excitement. Its primary purpose should be to establish your character’s personality - why does your character act and feel the way he or she does? 
+A well fleshed-out and detailed character history need not be filled with adventure and excitement. Its primary purpose should be to establish your character’s personality - why does your character act and feel the way he or she does?
 
 Think about your own life as a guideline. What is it in your past that has made you what you are today? What is your family like? Your schooling? Your friends? The types of places you have lived? Your jobs? After all, every experience you have shapes your personality.
 
@@ -206,7 +208,7 @@ Think about your own life as a guideline. What is it in your past that has made 
 
 *My name is Trin Hallison. I am the eldest son of Lorin and Frinda Hallison. I have two younger brothers and two older sisters. I was born in the mining city of Ironvale in the duchy of Ravenholt in the kingdom of Evendarr in 576. My father was the head cook of one of the mines in the area and my mother worked in the payroll department.*
 
-*They held different shifts so that at different times I was raised by both my father and my mother.* 
+*They held different shifts so that at different times I was raised by both my father and my mother.*
 
 *My father had served in the army of Westmarch under Goodwyn Northridge as a short swordsman I have many fine memories of afternoons spent with my father practicing sparring - I never could beat him! (I could, however, beat my younger brothers and sisters, and I gained even more experience playing with them). My mother knew a*
 
@@ -214,7 +216,7 @@ Think about your own life as a guideline. What is it in your past that has made 
 
 *At the young age of ten, while on a picnic with my family, I found a cave and began exploring. I soon was lost in the darkness and I was certain that every sound was a goblin or a troll out to get me. I spent a few hours crying in the darkness before I was discovered and ever since I have had a great fear of caves and extreme darkness even though I know my fears are unfounded. When Vandal Northridge became Baron of Westmarch, things changed a bit in Ironvale - the town guards became surlier and some of the nobles he appointed cared more for fattening their pockets than for the commoners whom they were supposed to be helping. I believe that all nobles in their hearts are the same even if they pretend to be caring. I would never work for nobility. When I was old enough, I became apprenticed to a local cooper, making barrels for the town. It was boring work but it brought in the money my family needed. It was during this time that I became fascinated with magic, for next door to the coopers’ was the local Healers’ Guild.*
 
-*The healers there noticed my interest in their activities, and one - a nice old lady named Hindy - often delighted me with her tales of adventures in Ashbury where she had fought many monsters in her younger days.* 
+*The healers there noticed my interest in their activities, and one - a nice old lady named Hindy - often delighted me with her tales of adventures in Ashbury where she had fought many monsters in her younger days.*
 
 *It was she who finally taught me how to perform first aid, and it was she who taught me my first spell.*
 
@@ -228,7 +230,7 @@ Think about your own life as a guideline. What is it in your past that has made 
 
 ### Good Character History Notes
 
-Notice how this history establishes a few character traits with which the player can have lots of fun—a dislike and mistrust of nobility, a fear of enclosed spaces and darkness, and a desire never to kill. Imagine the complications in game when his views and desires run up against situations which require him to confront his fears. 
+Notice how this history establishes a few character traits with which the player can have lots of fun—a dislike and mistrust of nobility, a fear of enclosed spaces and darkness, and a desire never to kill. Imagine the complications in game when his views and desires run up against situations which require him to confront his fears.
 
 This history also explains how he got the skills with which he will be entering the game: One Handed Edged, Healing Arts, First Aid, Read and Write, and a spell.
 
@@ -238,55 +240,55 @@ So go to it! Write an interesting character history and see how much more fun NE
 
 ### Character Profile Questions
 
-Use these questions as a way to help “flesh out” your character history. 
+Use these questions as a way to help “flesh out” your character history.
 
 **General**
 
-- Where and when were you born? 
-- Are you aware of your parent’s names? If so, what are they? 
-- What were their occupations? 
+- Where and when were you born?
+- Are you aware of your parent’s names? If so, what are they?
+- What were their occupations?
 - Do you know if they are alive or dead? If they are dead, how did they die?
 
 **Family**
 
-- Do you have any siblings? 
-- Are you aware of them, and if so, how did you get along as children? 
-- Do you know where they are now, and if so, how do you get along now? 
+- Do you have any siblings?
+- Are you aware of them, and if so, how did you get along as children?
+- Do you know where they are now, and if so, how do you get along now?
 - Where are your siblings and what are they like?
 
 **Your Past**
 
-- What was your childhood like? 
-- What were your parents’ childhoods like? 
+- What was your childhood like?
+- What were your parents’ childhoods like?
 - Where, how, and from whom did you learn your trade?
 
 **Ambitions**
 
-- What do you want out of life? 
-- What are your personal goals and ambitions? 
-- Is there anything about your life that you would change? 
-- What tempts you? Do you have any phobias? 
+- What do you want out of life?
+- What are your personal goals and ambitions?
+- Is there anything about your life that you would change?
+- What tempts you? Do you have any phobias?
 - Do you have any superstitions?
 
-**Profession**: 
+**Profession**:
 
-- Are you an adventurer, and if so, why? 
-- What would cause you to give up adventuring? 
-- Do you have any close friends? 
-- Do you have any enemies? 
+- Are you an adventurer, and if so, why?
+- What would cause you to give up adventuring?
+- Do you have any close friends?
+- Do you have any enemies?
 
 **Opinions**
 
-- What is your attitude about fighting and killing? How about mercenaries? 
-- What is your attitude about magic? How about mages? 
-- What do you think about necromancy? 
-- Do you think it is wrong to cast necromantic spells? 
-- What is your attitude towards theft and thieves in general? 
-- How about someone in your group who steals? 
-- How about someone who steals from your group, especially if they are a member? 
-- What is your opinion about Good and Evil? 
-- What is your attitude towards the law? 
-- How do you feel about nobility? 
+- What is your attitude about fighting and killing? How about mercenaries?
+- What is your attitude about magic? How about mages?
+- What do you think about necromancy?
+- Do you think it is wrong to cast necromantic spells?
+- What is your attitude towards theft and thieves in general?
+- How about someone in your group who steals?
+- How about someone who steals from your group, especially if they are a member?
+- What is your opinion about Good and Evil?
+- What is your attitude towards the law?
+- How do you feel about nobility?
 - What are your future plans?
 
 # Chapter 2 : The Basics
@@ -317,7 +319,7 @@ Rogues have a natural bent towards dexterity based skills, and the practice of a
 
 ### Scholar
 
-Scholars are adept at many mental skills and readily learn the magical arts. Scholars are even more limited in how many Armor Points they can use than Rogues. 
+Scholars are adept at many mental skills and readily learn the magical arts. Scholars are even more limited in how many Armor Points they can use than Rogues.
 
 **Body**: Start with 3 Body. Gain 1 Body every other level
 
@@ -341,11 +343,11 @@ Racial abilities help you to understand a race’s outlook on life. You must und
 
 Playing your race means knowing and understanding your races’ culture and society. Some races have their culture based on certain societies in our own world, some races are purely fantastic like the elves or hoblings and some are based on popular mythology or folklore. Other races such as the Biata have been created from scratch, creating a unique aspect to our game.
 
-It is important to understand that this rule book only gives you a brief description of your race’s society. More detailed information on your race’s culture can be found on the NERO International website www.nerolarp.com It is very important that you learn the culture and behavior of your race so that you seem like a part of that culture.
+It is important to understand that this rule book only gives you a brief description of your race’s society. More detailed information on your race’s culture can be found on the NERO International website <www.nerolarp.com> It is very important that you learn the culture and behavior of your race so that you seem like a part of that culture.
 
-If you wish to play a non-human race, you must wear the appropriate makeup to distinguish yourself. All exposed skin must be covered with the appropriate makeup. Any props (such as elf ears) must be worn at all times. 
+If you wish to play a non-human race, you must wear the appropriate makeup to distinguish yourself. All exposed skin must be covered with the appropriate makeup. Any props (such as elf ears) must be worn at all times.
 
-You cannot wear makeup to disguise yourself to appear as a race you are not, nor can you act in such a way as to mislead others as to your race. If you are not playing a barbarian or a gadabari, you cannot dress, talk and act like one. 
+You cannot wear makeup to disguise yourself to appear as a race you are not, nor can you act in such a way as to mislead others as to your race. If you are not playing a barbarian or a gadabari, you cannot dress, talk and act like one.
 
 NERO expects you to play your character’s race properly. Half-orcs should be slow witted, barbarians should act uncouth, and drae should shun the sunlight. Even though we strongly encourage everyone to avoid clichés and stereotypes when creating their character histories, you MUST abide by your racial characteristics. You cannot write your history to make you the “outsider” of your race and be the one barbarian who is a genius celestial caster, the one gadabari who is quiet and shy, or the one drae who likes to go sunbathing.
 
@@ -355,49 +357,47 @@ These role-playing rules are put in place to allow players to make assumptions a
 
 The following lists the basic NERO races (other than human). This is a very short overview. you play one of these races, you can find find a more thorough explanation for your particular race that will provide more background for your character on the NeroLarp.com website.
 
-The skills mentioned in the descriptions ahead are explained in greater detail in the “Skill Descriptions” on page 33. When reference is made to“Scholarly Skills” or “Stealth Skills,” it means only those skills listed under those categories in the Skill cost tables. (“Scholarly Skills” for example includes Read and Write and Read Magic.) Note that if you are playing a nonhuman, you should buy your racial skills as soon as possible. After all, how can you possibly role-play your race properly if you don’t have the basic skills and abilities that help to define that race? If you reach 5th level or so and still haven’t purchased your skills, other members of your race should treat you as inferior or look at you with pity because you cannot resist sleep or break a charm. 
+The skills mentioned in the descriptions ahead are explained in greater detail in the “Skill Descriptions” on page 33. When reference is made to“Scholarly Skills” or “Stealth Skills,” it means only those skills listed under those categories in the Skill cost tables. (“Scholarly Skills” for example includes Read and Write and Read Magic.) Note that if you are playing a nonhuman, you should buy your racial skills as soon as possible. After all, how can you possibly role-play your race properly if you don’t have the basic skills and abilities that help to define that race? If you reach 5th level or so and still haven’t purchased your skills, other members of your race should treat you as inferior or look at you with pity because you cannot resist sleep or break a charm.
 
-The next section of this book lists the various races other than human. If playing a human, you are free to devise any sort of personality you wish without any benefits or disadvantages 
+The next section of this book lists the various races other than human. If playing a human, you are free to devise any sort of personality you wish without any benefits or disadvantages
 
 #### Racial Comparison Chart : Table 2.1
 
-| Race            | Advantages            | Disadvantages |
+| Race | Advantages | Disadvantages |
 | --------------- | --------------------- | ---- |
-| **Barbarian**   |  +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
-| **Biata**       | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
-| **Drae**        | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
-| **Dwarf**       | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |
-| **Elf**         | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -1 Body Point<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
-| **Gadabari**    | Gadabari Hex/Remove Gadabari Hex: 2BP | None |
-| **Half Ogre**   | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
-| **Half Orc**    | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
-| **Hobling**     | Resist Poison: 4BP<br />Half cost for Pick Locks<br />Half cost for Arm/Disarm Traps<br />Hobling Dodge: 12BP, once<br /> | -1 Body Point to Start<br />Cannot be a fighter<br />Cannot use two handed weapons<br /> |
-| **Human**       | None | None |
+| **Barbarian** | +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
+| **Biata** | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
+| **Drae** | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| **Dwarf** | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |
+| **Elf** | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -1 Body Point<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| **Gadabari** | Gadabari Hex/Remove Gadabari Hex: 2BP | None |
+| **Half Ogre** | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| **Half Orc** | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| **Hobling** | Resist Poison: 4BP<br />Half cost for Pick Locks<br />Half cost for Arm/Disarm Traps<br />Hobling Dodge: 12BP, once<br /> | -1 Body Point to Start<br />Cannot be a fighter<br />Cannot use two handed weapons<br /> |
+| **Human** | None | None |
 | **Mystic Wood Elf** | Break Charm: 2BP<br />Resist Charm: 3BP<br />-1 Cost for Craftsman<br /> | Must buy skill form table3.5 at each level |
-| **Sarr**        | Resist Poison: 4BP<br />Scenting Ability<br /> | Cannot use any blunt or any ranged weapons |
-| **Scavenger**   | Resist Poison: 4BP<br />Scenting Ability<br /> | Double cost for Scholarly Skills |
-
-
+| **Sarr** | Resist Poison: 4BP<br />Scenting Ability<br /> | Cannot use any blunt or any ranged weapons |
+| **Scavenger** | Resist Poison: 4BP<br />Scenting Ability<br /> | Double cost for Scholarly Skills |
 
 ### Barbarian
 
 Barbarians come from nomadic tribes and are unused to “civilized” society. They are a very superstitious lot and may often perform unusual small ceremonies to rid themselves of their “curse.” (“Oh-oh! Seven hoblings just crossed path! Bad luck! Now I must tie string around finger and walk backwards for an hour!”) This is not to imply that barbarians have to be stupid—merely uncultured and somewhat primitive. In order to be identifiable as barbarians, you should talk poorly, dress in furs and leathers, and otherwise look primitive. Barbarian tribes (usually named after animals) are often very competitive and not too friendly.
 
-Barbarian tribes are very earth friendly and in fact, celestial magic was unheard of by barbarians until the more “civilized” beings began moving into their area. As such, barbarians distrust celestial magic and consider it “not natural.” Barbarians fear and distrust celestial magic and will dislike having celestial protective spells cast upon them. This distrust only applies to Celestial Defensive spells, and does not apply to Celestial Magic Items. It should be noted that there are some characters that refuse to use Celestial Magic Items for role-play reasons of their own. This “Celestial Abstinence” is not required by the rules in any way. All players are encouraged to role-play their characters in any way that they consider fun. 
+Barbarian tribes are very earth friendly and in fact, celestial magic was unheard of by barbarians until the more “civilized” beings began moving into their area. As such, barbarians distrust celestial magic and consider it “not natural.” Barbarians fear and distrust celestial magic and will dislike having celestial protective spells cast upon them. This distrust only applies to Celestial Defensive spells, and does not apply to Celestial Magic Items. It should be noted that there are some characters that refuse to use Celestial Magic Items for role-play reasons of their own. This “Celestial Abstinence” is not required by the rules in any way. All players are encouraged to role-play their characters in any way that they consider fun.
 
 When a barbarian reaches the age of 18, he or she will ask the tribe leader for a Task of Adulthood. This task must require an extreme amount of bravery and challenge and may take many years to accomplish. Only when the task is completed will the barbarian be considered a true member of the tribe. Barbarians who switch tribes are likewise required to perform such a task.
 
-Barbarians are strong and thus start off with two extra body points. They have to pay double for all Scholarly skills. They can also buy the skills Barb arian Slay, and Detect Celestial Magic which, once a day, will allow the barbarian to determine whether an item has any celestial magic present upon 
+Barbarians are strong and thus start off with two extra body points. They have to pay double for all Scholarly skills. They can also buy the skills Barb arian Slay, and Detect Celestial Magic which, once a day, will allow the barbarian to determine whether an item has any celestial magic present upon
 
 ### Biata
 
 According to legend, biata are descended from a barbarian tribe, but they do not act or look like barbarians. They have large upturned feathery eyebrows and often grow feathers in their hair and claws on their fingers as well. (The claws are decorative in nature and cannot be used as weapons.)
 
-Biata tend to be very orderly in their philosophy of life—they always act with a purpose. They will not do things “on a whim” and are always working towards some goal. To other races, this tends to make them seem like extremists—either very good or very evil—but even the most evil biata will have his or her own code of ethics and will never act erratically or randomly. This also makes the biata seem very stubborn. 
+Biata tend to be very orderly in their philosophy of life—they always act with a purpose. They will not do things “on a whim” and are always working towards some goal. To other races, this tends to make them seem like extremists—either very good or very evil—but even the most evil biata will have his or her own code of ethics and will never act erratically or randomly. This also makes the biata seem very stubborn.
 
-They are also very secretive about the origins of their race and will treat all other races as “outsiders” rarely worthy of complete trust. It is said that biata were formed through magical mating of a gryphon and a human (or perhaps a barbarian). The Gryphon barbarian tribe was made up entirely of biata and until the last Great Celestial Change in 590, all biata looked like humans. Having celestial protective spells cast upon biata causes great discomfort. Most will refuse to sleep behind Wards and will not use celestial magic items. All players are encouraged to role-play their characters in any way that they consider fun. 
+They are also very secretive about the origins of their race and will treat all other races as “outsiders” rarely worthy of complete trust. It is said that biata were formed through magical mating of a gryphon and a human (or perhaps a barbarian). The Gryphon barbarian tribe was made up entirely of biata and until the last Great Celestial Change in 590, all biata looked like humans. Having celestial protective spells cast upon biata causes great discomfort. Most will refuse to sleep behind Wards and will not use celestial magic items. All players are encouraged to role-play their characters in any way that they consider fun.
 
-**Mentalist**: Biata, like stone elves, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a biata can remove role-playing insanity based on memories or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember events forgotten due to a Forget elixir or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured. In order to use this role-playing skill, you must touch the other person and concentrate completely by either staring into each other’s eyes or by both of you having your eyes closed. You cannot perform any other in game skill while role-playing this. Any biata who simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” in the chapter on Special Abilities. 
+**Mentalist**: Biata, like stone elves, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a biata can remove role-playing insanity based on memories or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember events forgotten due to a Forget elixir or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured. In order to use this role-playing skill, you must touch the other person and concentrate completely by either staring into each other’s eyes or by both of you having your eyes closed. You cannot perform any other in game skill while role-playing this. Any biata who simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” in the chapter on Special Abilities.
 
 Biata can buy the skills Break Charm , Resist Charm , and Resist Sleep. Biata cannot learn Read Magic.
 
@@ -417,13 +417,13 @@ Drae can buy Resist Sleep and Resist Charm . They can also buy the Archery skill
 
 Elves are long-lived people with pointed ears. That may be the only thing all the elven races have in common!
 
-All elves can buy the skills Resist Sleep and Resist Charm . They have one less Body Point than a human character of the same class and level. They can buy the Ar chery skill at half cost (round up), but they cannot use Two Handed Blunt weapons or Two Handed Swords. 
+All elves can buy the skills Resist Sleep and Resist Charm . They have one less Body Point than a human character of the same class and level. They can buy the Ar chery skill at half cost (round up), but they cannot use Two Handed Blunt weapons or Two Handed Swords.
 
 There are many varieties of elves. The most common are:
 
 #### Amani Elf
 
-Amani elves are descendants of Quentari elves. Many years ago, a political rift developed in Quentari and many of the elves movedto the Ash Forest (or the “Amani” forest in their language) in the Duchy of Ashbury in Evendarr to start anew. Since then, they have spread all over the continent. 
+Amani elves are descendants of Quentari elves. Many years ago, a political rift developed in Quentari and many of the elves movedto the Ash Forest (or the “Amani” forest in their language) in the Duchy of Ashbury in Evendarr to start anew. Since then, they have spread all over the continent.
 
 Amani elves are friendlier and more down-to-earth than their Quentari cousins. They get along much better with other races but still do not socialize a great deal with them. Even though they socialize with other races, they rarely marry any other than their fellow Amani elves. An Amani who falls in love with another race is not shunned from the society, but is obviously not treated with the same degree of respect by his or her fellow Amani elves.
 
@@ -431,11 +431,11 @@ Amani elves are friendlier and more down-to-earth than their Quentari cousins. T
 
 Quentari elves come from the elven kingdom of Quentari. They consider themselves to be the most civilized race; all others are barbaric in comparison. To some degree this is true—they have the oldest culture, the greatest cities, and the most learned scholars. It is this attitude however that makes their living with other races a problem, as no one likes being seen as inferior. Quentari elves tend to be scholars, and it is rare to encounter a Quentari elf who does not know how to read and write. When fighting, they tend to prefer bows and short swords, but fighting is seen as a last resort when peaceful negotiations are unsuccessful.
 
-#### Stone Elf 
+#### Stone Elf
 
 Stone elves have whitish skin, upturned eyebrows, and pointed ears. Stone elves do not show emotions and as such are viewed by other races as humorless and intense. This is part of their culture as well as being part of their race. This restriction makes the stone elves very hard to role-play—if you cannot keep a straight face when told a funny joke, you should not be playing a stone elf.
 
-They have a natural affinity for celestial magic and make excellent celestial casters. Although there are of course healers in their society, most stone elf casters are celestial. 
+They have a natural affinity for celestial magic and make excellent celestial casters. Although there are of course healers in their society, most stone elf casters are celestial.
 
 **Mentalist**: Stone elves, like biata, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a stone elf can remove role-playing insanity based on emotions or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember memories lost to Forget elixirs or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured.
 
@@ -453,7 +453,7 @@ The wild elf society places an emphasis on hunting and tracking skills.
 
 Dwarves are sturdy individuals who live in mountainous regions. Dwarves in NERO are not necessarily short (remember that all players and monsters are the same size as the person playing them), but taller players should think twice about playing a dwarf. In-game, the rumor is that dwarves are the small cousins of hill giants, and so to the giants, they were seen as short.
 
-Dwarves tend to be friendly but secretive. They all have beards, although many females prefer a long goatee. Their race enjoys and appreciates good craftsmanship, especially in weapons, armor, and jewelry. Because they live so much longer than humans, they tend to dislike the humans’ faster paced lifestyles (but they generally like the food). 
+Dwarves tend to be friendly but secretive. They all have beards, although many females prefer a long goatee. Their race enjoys and appreciates good craftsmanship, especially in weapons, armor, and jewelry. Because they live so much longer than humans, they tend to dislike the humans’ faster paced lifestyles (but they generally like the food).
 
 Dwarves have an extreme hatred of trolls who often attack and take the dwarven caves for themselves. Their history is very lengthy but is mostly comprised of stories and legends of great dwarven heroes. Some of these stories can take many hours or even days to tell completely, and no self-respecting dwarf would consider telling an abridged version.
 
@@ -477,9 +477,9 @@ Half ogres are not human/ogre hybrids, but rather are a race that closely resemb
 
 Half ogres are very tough fighters and they know it. It is very rare for a half ogre to show any fear. They are usually first to run into battle and will almost never run away. However, they have an innate fear of undead and will have to summon up a ton of courage to fight any zombie, skeleton or vampire that comes their way.
 
-Half ogres tend to see the world in simple ways. What good is writing if you can’t fight with it? They think most of the other races are spoiled and live too fancily. Half ogres would rather spend their money on new weapons and armor than on fancy homes, fancy food, or fancy clothes. Half ogres think that the concept of nobility is the most ridiculous idea “civilized” society has to offer. In the half ogre tribes, the tribal leaders are the best fighters. In fact, half ogres are constantly fighting among themselves for dominance. 
+Half ogres tend to see the world in simple ways. What good is writing if you can’t fight with it? They think most of the other races are spoiled and live too fancily. Half ogres would rather spend their money on new weapons and armor than on fancy homes, fancy food, or fancy clothes. Half ogres think that the concept of nobility is the most ridiculous idea “civilized” society has to offer. In the half ogre tribes, the tribal leaders are the best fighters. In fact, half ogres are constantly fighting among themselves for dominance.
 
-If a half ogre sees another, it is likely that they will fight to establish who is dominant. The fight is never to the death but only until one of the half ogres acknowledges the other’s superiority. There is never any cheating nor are there sneak attacks in this sort of battle; there is great honor at stake in the half ogre community. 
+If a half ogre sees another, it is likely that they will fight to establish who is dominant. The fight is never to the death but only until one of the half ogres acknowledges the other’s superiority. There is never any cheating nor are there sneak attacks in this sort of battle; there is great honor at stake in the half ogre community.
 
 They start with two extra Body Points and must pay double for all Scholarly skills see Table 3-2 on page 30. Half Ogres may purchase the skill Strong-arm once.
 
@@ -487,13 +487,13 @@ They start with two extra Body Points and must pay double for all Scholarly skil
 
 Half orcs may have at one time been human/orc hybrids but have now evolved into a race of their own. They have green skin and protruding lower fangs or teeth. They are a strong people, but tend to be less intelligent and should role-play difficulty in understanding complicated subjects. Because of this Orcish Society is primitive and brutal. Orcish culture is based on the concepts of might makes right. They would rather die in combat than of old age, and would never be seen running from a battle unless the situation was completely overwhelming. Scholars are very respected among the Half Orcs as wise-ones and healers, and the harming of one can carry dire consequences.
 
-The half orc society is clan-based, where families and blood relations are regarded as most important. Individual half orcs may leave the family to adventure with other races in order to gain in strength and earn a name for themselves. Half Orcs reach maturity quickly, and most are capable of using a weapon at age 4. 
+The half orc society is clan-based, where families and blood relations are regarded as most important. Individual half orcs may leave the family to adventure with other races in order to gain in strength and earn a name for themselves. Half Orcs reach maturity quickly, and most are capable of using a weapon at age 4.
 
 Half orcs start with two extra Body Points. They must pay double for all Scholarly skills see Table 3-2 on page 30. Half Orcs may purchase the skill Strong-arm once.
 
 ### Hobling
 
-Hoblings are peaceful people and generally are smaller than average. They have furry feet and hands, as well as bushy sideburns and eyebrows. 
+Hoblings are peaceful people and generally are smaller than average. They have furry feet and hands, as well as bushy sideburns and eyebrows.
 
 Hoblings love working with their hands and as such are often craftsmen. They are friendly and cheerful and have a great sense of humor, and quite often use their charisma to their advantage. Hoblings do not generally like adventure even though they love the treasure that can come from adventuring. Their treasure will be spent on fine food, good clothes, and a high standard of living. Their love of living well means that most Hoblings are business people first. The thought of doing something for free is appalling to them, and although to some this appears to be mere laziness, Hoblings consider this common sense. They are completely honest in their business deals however and always keep to their promises once made—however, you’d better read any contract with a hobling very carefully, as they know all the loopholes. They make excellent spies as long as the money keeps coming in.
 
@@ -503,7 +503,7 @@ Hoblings begin with one less Body Point. Hoblings cannot be fighters and cannot 
 
 Mystic Wood elves are an eccentric race originally from the Mystic Woods in Northern Evendarr. They are not really elves but were called that by the people who first encountered them. Mystic Wood elves have elven ears but also small horns on their foreheads. Popular theory holds that they are descended from elven-satyr/nymph hybrids, but this has never been proven. Mystic Wood elves hate (or at the very least find distasteful) all forms of enslavement, from slavery and kidnapping to magical charms and alchemical controls. For example, a Mystic Wood elf that finds a Charm elixir will probably destroy it. They may also attempt to break charms they find on others.
 
-Mystic Wood elf society is organized into 3 major clans, and these clans are viewed as family by the Mystic Wood elf. Mystic Wood elves hold oaths to be extremely important. Mystic Wood elves have two names, their “road” name which they commonly use, and their “real” name which they usually only share with their most trusted friends outside the Mystic Wood elven community. Mystic Wood elves have a remarkably high tolerance for alcohol and love travel and adventure. For them, getting there is not half the fun, it’s all the fun. 
+Mystic Wood elf society is organized into 3 major clans, and these clans are viewed as family by the Mystic Wood elf. Mystic Wood elves hold oaths to be extremely important. Mystic Wood elves have two names, their “road” name which they commonly use, and their “real” name which they usually only share with their most trusted friends outside the Mystic Wood elven community. Mystic Wood elves have a remarkably high tolerance for alcohol and love travel and adventure. For them, getting there is not half the fun, it’s all the fun.
 
 Mystic Wood elves are natural born artisans and can buy the Craftsman (other) skill for 2 build points instead of the 3 build that it costs other races. For each level attained, a Mystic Wood elf must buy at least one skill from “Magic Skills,“ Table 3-2 or ”Trades and Crafts,” Table 3-3 on page 30 Mystic Wood elves can also buy Resist Charm for 3 build and Break Charm for 2 build. As they are not elves, Mystic Wood elves do not lose 1 body and can use Two Handed weapons.
 
@@ -515,9 +515,9 @@ Sarr are curious, loyal, independent, and extremely proud.Tradition is highly va
 
 Sarr will form attachments with adventuring groups, but they will also strike out on their own in search of adventure when the urge hits them. Do not think that Sarr are cute little fluffy house cats; they are some of the fiercest warriors of all the races. They never forget an enemy and always seek revenge no matter how long it takes.
 
-Sarr must wear makeup to appear as one of the large hunting cats. The bottom of the nose should be dark. Whiskers, stripes or spots may be added if appropriate. If you play a black panther Sarr, you must wear a prosthetic cat nose, cat ears, or other additions to make it clear to all that you are not a drae. 
+Sarr must wear makeup to appear as one of the large hunting cats. The bottom of the nose should be dark. Whiskers, stripes or spots may be added if appropriate. If you play a black panther Sarr, you must wear a prosthetic cat nose, cat ears, or other additions to make it clear to all that you are not a drae.
 
-**Scenting**: Sarr have superior scenting abilities, and as such may detect an alchemical substance or disease on an item if they spend three seconds inspecting it. This racial skill does not allow them to tell what kind of alchemical substance or disease is present. 
+**Scenting**: Sarr have superior scenting abilities, and as such may detect an alchemical substance or disease on an item if they spend three seconds inspecting it. This racial skill does not allow them to tell what kind of alchemical substance or disease is present.
 
 Sarr may buy the skill Resist Poison. Sarr cannot use Bows, Crossbows, One Handed Blunt weapons, Staves, Thrown Weapons, or Two Handed Blunt weapons. The only Small Weapon allowable is a dagger or hatchet. All weapons must be edged.
 
@@ -537,7 +537,7 @@ There are a few traits that these animalistic humanoids share just from being an
 
 In addition to playing various races, it is fun to play a character from an unusual culture as well. The in-game guides to the various countries and duchies of the NERO world can give you some ideas. The more cultures we have in the game, the richer the role-playing experience.
 
-You might also wish to create your own culture. However, understand that you should be very careful about what you say in-game about your culture; because you may end up having to take it all back if the Plot Committee says no. You must make sure that nothing in your concept of this culture violates NERO policies, rules, or the in-game history! 
+You might also wish to create your own culture. However, understand that you should be very careful about what you say in-game about your culture; because you may end up having to take it all back if the Plot Committee says no. You must make sure that nothing in your concept of this culture violates NERO policies, rules, or the in-game history!
 
 You cannot be a traveler from another planet or from the future or from a modern democratic society; the basic concepts of medieval society should still exist. Use the current countries as described in your chapter’s Player’s Guide as a guideline.
 
@@ -573,8 +573,7 @@ There are three Standard States that someone at a NERO event can be in.  These a
 
 2. IG: In game and completely visible to those around you (Yes, you can try to hide in bushes, etc... but you actually have to hide.)
 
-3. Spirit: In game and a spirit 
-
+3. Spirit: In game and a spirit
 
 Alternate States (such as flying, burrowing, invisible, etc.) are not possible.
 
@@ -587,8 +586,6 @@ Bathhouses or similar facilities are out-of-game. You may not however run into o
 As a courtesy you can sleep in a cabin out-of-game. However if someone has a real reason to pull you back into game, you may be disturbed. For Example, if you have an important game item that half the players are looking for, then a marshal may come by looking for it. If you have done something to anger another group, or even a bunch of monsters, then you may not run off and put your cabin out-of-game to avoid the consequences. A marshal will likely be involved and you will be presented with several options, such as; you are at the mercy of the injured parties or you may opt to fight, at which point combat could commence. In such cases, you will be given only as much preparatory time as you would have actual warning, again decided by the marshal.
 
 You cannot go out-of-game in the middle of a combat unless you have a medical reason.
-
-
 
 ## Life and Death
 
@@ -644,7 +641,7 @@ If the character is being actively guarded by companions, however, it is another
 
 If anyone strikes you during the count or knocks your weapon away, then the Killing Blow is interrupted and fails to kill the person.
 
-Please note that even though there is a three- count for Killing Blows, the Killing Blow only counts as one strike. 
+Please note that even though there is a three- count for Killing Blows, the Killing Blow only counts as one strike.
 
 A Killing Blow must be administered to the torso of the victim; an arm, leg, or shoulder is not sufficient. Likewise, the blow cannot be struck on a moving target. If you have Waylaid someone, you must wait for the body to come to rest before you can deliver the Killing Blow.
 
@@ -656,7 +653,7 @@ Once a Killing blow has been given to you, you are dead and should begin your de
 
 When your character dies and their body dissipates (after the point at which a Life spell will no longer work) you must become a spirit.
 
-You must drop all in game items, put on a white headband and head immediately and directly to your chapter’s resurrection point (usually the Healers’ Guild) to register your death. The spirit is completely invisible to the world around it and may not interact in any manner with other characters (no noises, no charades . . . nothing!). Spirits travel only as fast as the player walks—no running to the Healers’ Guild. 
+You must drop all in game items, put on a white headband and head immediately and directly to your chapter’s resurrection point (usually the Healers’ Guild) to register your death. The spirit is completely invisible to the world around it and may not interact in any manner with other characters (no noises, no charades . . . nothing!). Spirits travel only as fast as the player walks—no running to the Healers’ Guild.
 
 It is impossible to burn or otherwise completely destroy the body before the five minute Life spell requirement is used up. There can be no effects that can accelerate the destruction of the body of a PC except for the specific exceptions outlined in the Formal Magic System. We know this doesn’t make complete in-game sense but this rule is to prevent every single kill from turning into a “Let’s burn the body!” situation.
 
@@ -666,15 +663,15 @@ Spirits are resurrected in Extended Earth Circles created through Formal Magic. 
 
 A spirit can reject a specific healer but stay in the Circle waiting for another person to perform the resurrection. The rejected healer will be aware that the spirit is refusing to resurrect under his or her guidance but will not be able to tell which healer the spirit is “requesting” or waiting for.
 
-The spirit is not aware of any character plans to resurrect in specific circles based on the means of death. Thus you cannot say to your friends “If I resurrect in Bristol, that means that Enemy X killed me; and if I resurrect in Wildwood, that means Enemy Y.” 
+The spirit is not aware of any character plans to resurrect in specific circles based on the means of death. Thus you cannot say to your friends “If I resurrect in Bristol, that means that Enemy X killed me; and if I resurrect in Wildwood, that means Enemy Y.”
 
 The spirit will normally go to the closest Extended Earth Circle of Power to resurrect. No in-game knowledge is necessary for your spirit to find the “closest” Earth Circle. This includes Circles that your character has never seen in game. A spirit can choose to go to a different Circle than the closest one if the closest Circle is hostile, but the character, once resurrected, will not be aware of this decision. The Player, not the character, determines “hostility”. This is a fine point at best, but it means that out-of-game knowledge is used when deciding whether to resurrect at a given circle. For example, let’s suppose your character dies and a Forget poison is used. When your body dissipates, you go to the Earth Circle. When you get there, you see your character’s killer hiding behind the cabin where the Earth Circle is located. You decide to resurrect elsewhere because the circle is “hostile” to you. This is allowed and is well within the rules. As a matter of fact, no one in the game, not even a marshal, can require another player to justify why they decided that a particular circle is “hostile”. It’s an out-of-game decision made by the player, and can be made for no reason at all. The decision to resurrect elsewhere can even be made after the resurrection has started. Of course, once the resurrection is finished it’s too late.
 
-If your character decides to go to another Circle other than the designated in-game Circle during a weekend event, you must go to the resurrection point out of-game to record the death and let them know what you are planning. You may be required to stay out-of-game for a period of time to represent the amount of time it would take for your spirit to travel to the next closest Extended earth Circle and for your body to then travel back. It is impossible to tell how someone died from looking at their spirit so at this point determining the method of death is not possible. 
+If your character decides to go to another Circle other than the designated in-game Circle during a weekend event, you must go to the resurrection point out of-game to record the death and let them know what you are planning. You may be required to stay out-of-game for a period of time to represent the amount of time it would take for your spirit to travel to the next closest Extended earth Circle and for your body to then travel back. It is impossible to tell how someone died from looking at their spirit so at this point determining the method of death is not possible.
 
-Many resurrections are performed by a character who tells a story about the events of what occurs during the five minutes and the person receiving the resurrection may choose to have their character believe that story, or any other as they prefer. Each and every story should abide by NERO rules and any problems should be reported to a Marshal. 
+Many resurrections are performed by a character who tells a story about the events of what occurs during the five minutes and the person receiving the resurrection may choose to have their character believe that story, or any other as they prefer. Each and every story should abide by NERO rules and any problems should be reported to a Marshal.
 
-At the end of the resurrection, the player must say “I reform one, I reform two, I reform three”. There is nothing that will successfully affect a resurrecting body during this three count. The last three seconds are considered part of the time in which the spirit “cannot interact with the world around it” and hence nothing will affect the character. You cannot begin any three count, including a killing blow, upon a resurrecting body until after the resurrection count is over. 
+At the end of the resurrection, the player must say “I reform one, I reform two, I reform three”. There is nothing that will successfully affect a resurrecting body during this three count. The last three seconds are considered part of the time in which the spirit “cannot interact with the world around it” and hence nothing will affect the character. You cannot begin any three count, including a killing blow, upon a resurrecting body until after the resurrection count is over.
 
 A newly resurrected character has his or her maximum Body Points and will awake from resurrection without any game possessions at all but clothed. All remaining spells and elixirs that were present on the character will be gone, including Gadabari Hex and Enslavement.
 
@@ -688,7 +685,7 @@ After that, there is a chance of dying permanently and not coming back.
 
 When you show up at the earth Circle to resurrect, a Marshal will update your Death Total and then will ask you to choose from the Bag of Chance.
 
-In the bag will be ten stones. There will be one Death Stone for each time you have died beyond the two free resurrections. In addition, there will be a number of Life Stones put into the bag so that the total number of stones is always ten. If you choose a Life Stone, then you can successfully be resurrected. 
+In the bag will be ten stones. There will be one Death Stone for each time you have died beyond the two free resurrections. In addition, there will be a number of Life Stones put into the bag so that the total number of stones is always ten. If you choose a Life Stone, then you can successfully be resurrected.
 
 If you pick a Death Stone, then your character has permanently died. At this point, your character’s body reforms exactly where it dissipated. The body will remain there until someone finds it and takes it.
 
@@ -863,7 +860,7 @@ Advancement Chart Body Points per class per level: Table 2-4b
 | 59    | 122     | 62            | 42      |
 | 60    | 124     | 63            | 43      |
 
-#### 
+####
 
 # Chapter 3 :  The Skill System
 
@@ -891,44 +888,44 @@ You should not be fooled into thinking that your personal skill equates to the c
 
 The level of ability represented by the skill bought can be considerably different from that of your average player. It represents a skill that has required hours of practice a day for months to gain. When such an individual is faced with a person totally unskilled in weapon use, they would strike the person down with ease. The player’s skill may be somewhat less than that of the character, however, so the restrictions are used to simulate the skills.
 
-Similarly, the proficiency system represents a level of skill that the player might never obtain. We use it as a way to artificially give a player’s character, no matter what his or her real world skill, an advantage over another whose character is not as skilled. It allows a player of indifferent skill to defeat or hold their own against a player of much greater skill. 
+Similarly, the proficiency system represents a level of skill that the player might never obtain. We use it as a way to artificially give a player’s character, no matter what his or her real world skill, an advantage over another whose character is not as skilled. It allows a player of indifferent skill to defeat or hold their own against a player of much greater skill.
 
 This is, after all, a fantasy. A person should be able to acquire skills that allow their character to do things that they themselves could not do in real life.
 
 ## Spell Slots
 
-There are special rules for spell aquisition that are unlike most other skills in the game. When you purchase a 1st level spell form the skill list, what you are actually buying is the ability to memorize and cast one 1st level spell. This is known as a spell slot. 
+There are special rules for spell acquisition that are unlike most other skills in the game. When you purchase a 1st-level spell from the skill list, what you are actually buying is the ability to memorize and cast one 1st-level spell. This is known as a spell slot.
 
-You may memorize any 1st level spell and store it in that slow. Only one 1st level spell may be stored there at any time. Once that spell as been cast, the slot will become empty and will remain that way until the next limited or standard rest, or until it is refilled by other means. 
+You may memorize any 1st-level spell and store it in that slot. Only one 1st-level spell may be stored there at any time. Once that spell has been cast, the slot will become empty and will remain that way until the next limited or standard rest, or until it is refilled by other means.
 
-If you have several spell slots of a given level, you  can fill them with any combination of spells (of the appropriate level ) that you know. 
+If you have several spell slots of a given level, you can fill them with any combination of spells (of the appropriate level) that you know.
 
-You must buy spell slots in a proportial pyramid fashion. If you wish to buy a spell slot of a particular level, then you must have two spell slows of the level below. 
+You must buy spell slots in a proportional pyramid fashion. If you wish to buy a spell slot of a particular level, then you must have two spell slots of the level below.
 
-In other words, you must have a minimum of one spell slow difference between any adjoining levels and a maximum of two spell slots difference. If you wish to buy your first 2nd level spell slot, you must have at least 1st level spell slots already, but you many not have these. 
+In other words, you must have a minimum of one spell-slot difference between any adjoining levels and a maximum difference of two spell slots. If you wish to buy your first 2nd-level spell slot, you must have at least 1st-level spell slots already, but you may not have more than these.
 
-Once you have purhsased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine now the pyramid being an obelisk with broad suppord and a pointed top( like the washington monument)
+Once you have purchased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine the pyramid as an obelisk with broad support and a pointed top, like the Washington Monument.
 
-You may buy more than four spell slots for a level but there must always be at least as many spell slots below that level in order to support the new amount. Futter the pyramid must constantly building, which means that the level above must have only one less than the amount you are buying. In other words, to buy a fifth 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
+You may buy more than four spell slots for a level but there must always be at least as many spell slots below that level in order to support the new amount. Furthermore, the pyramid must constantly be built, which means that the level below must have at least as many slots as the amount you are buying. In other words, to buy a fifth 2nd-level spell slot, you must have a fifth 1st-level spell slot and a fourth 3rd-level spell slot.
 
 ### Example of  Spell Pyramid Rules
 
-Enchanto the mage has a 3rd level spell slot two 2nd level spell slots and three 1st level spell slots hist pryamid is fine (figure 3-1)
+Enchanto the mage has one 3rd-level spell slot, two 2nd-level spell slots, and three 1st-level spell slots. His pyramid is fine (Figure 3-1).
 
-He wants ot learn a 4th level slot eventually he must build the foundation of the pyramid so it can support a 4th level spell. First he buys another 1st levwe3l slot then and other 2nd level slot. He must next purchase another 3rd level slot (figure 3-2)
+He wants to learn a 4th-level slot. Eventually, he must build the foundation of the pyramid so it can support a 4th-level spell. First, he buys another 1st-level slot and then another 2nd-level slot. He must next purchase another 3rd-level slot (Figure 3-2).
 
 Now his pyramid is ready for the new spell level imagine the pyramid as needing the proper support for the 4th level spell has been made by making sure that ereare two 3rd level spell slots below. (the foundation for the wto 34d elvel slots was made when he had three 2nd level otys and so on down the line) He can buy his first 4th level spell slot (figure 3-3)
 
-If Enchanto wants to buy a 5th level slow, he can do so without having ot buy any more 1st level slots because four is the maximum required. He must support the f5th level slot buy buying 
+If Enchanto wants to buy a 5th-level slot, he can do so without having to buy any more 1st-level slots because four is the maximum required. He must support the 5th-level slot by buying
 
---- FINISH THIS NIGHTMARE --- 
+--- FINISH THIS NIGHTMARE ---
 
 ## Skill Costs
 
-Below and on the following pages are the charts listing the Build Point costs fo skills Each skill ahs four cost columns assocaited with it 
+Below and on the following pages are the charts listing the Build Point costs for skills. Each skill has four cost columns associated with it:
 
 - **F** Fighter
-- **R** Rouge
+- **R** Rogue
 - **S** Scholar
 - **T** Templar
 
@@ -936,9 +933,9 @@ All Classes may buy any skill, they just may need to pay more Build Points.
 
 ### Prerequisites
 
-When buying skills you should be aware of prerequisites as well. For instance to buy weapon proficiency, you must first have a weapon skill to be proofiinit in and four critical attack skills. To learn how to cast Celestial spells, you must first know the skills to Read and Write and Read Magic. 
+When buying skills you should be aware of prerequisites as well. For instance to buy weapon proficiency, you must first have a weapon skill to be proofiinit in and four critical attack skills. To learn how to cast Celestial spells, you must first know the skills to Read and Write and Read Magic.
 
-A good way to design your character is to imagine them at a higher level and work backwards. Figure out which skills you would like to have and how many Build Points you will have to spend for the skills. Try it with different classes to see which costs the least. 
+A good way to design your character is to imagine them at a higher level and work backwards. Figure out which skills you would like to have and how many Build Points you will have to spend for the skills. Try it with different classes to see which costs the least.
 
 ## Production Skills
 
@@ -946,11 +943,11 @@ To create game items such as Weapons, Armor, Potions, Scrolls, Traps, Alchemical
 
 ## Skill Descriptions
 
-Skills listed with a * can be bought multiple times to improve or increase the skill. 
+Skills listed with a * can be bought multiple times to improve or increase the skill.
 
---- Fix this just put it in the description 
+--- Fix this just put it in the description
 
-### Alchemy 
+### Alchemy
 
 # Chapter 4 Magic
 
@@ -986,7 +983,7 @@ If the attack targets the thrown/dropped item directly, such as Shatter or Destr
 
 ### Touch-Casting
 
-Touch-casting is performed by holding a packet and placing it against the target you wish to affect. The obvious advantage to this is that there is no chance of missing and wasting the effect. In such a case, the effect recipient may choose to “accept” the effect, thus letting it past their Spell Defenses such as Shield Magic or Elemental Shield. The recipient must be conscious to “accept” an effect without triggering the Spell Defences. You may never “accept” a thrown effect. The decision to accept an effect through touch-casting is made immediately after the effect is cast. This is to prevent a caster from tricking an unsuspecting victim. 
+Touch-casting is performed by holding a packet and placing it against the target you wish to affect. The obvious advantage to this is that there is no chance of missing and wasting the effect. In such a case, the effect recipient may choose to “accept” the effect, thus letting it past their Spell Defenses such as Shield Magic or Elemental Shield. The recipient must be conscious to “accept” an effect without triggering the Spell Defences. You may never “accept” a thrown effect. The decision to accept an effect through touch-casting is made immediately after the effect is cast. This is to prevent a caster from tricking an unsuspecting victim.
 
 The recipient of a touch-cast effect can always refuse the effect by saying “refused.” This will use up the effect, but have no effect whatsoever on the recipient. Whenever attempting to touch-cast, you must abide by all NERO safe conduct rules.
 
@@ -1050,8 +1047,6 @@ Is necromancy evil? Not every person on Tyrra thinks so—in fact, it is accepte
 
 There are twelve main elemental planes which exist across powerful dimensional boundaries. The world of Tyrra is made up of the combination of these elements and their intersections. Please see the Tyrran Cosmology document at NeroLarp.com for more information, but it is important to note here that each of the twelve elemental planes has an associated damage type: a power it uses to harm opponents. These planes and their associated damage types are as follows:
 
-
-
 | Plane    | Damage Type |
 | -------- | ----------- |
 | Life     | Essence     |
@@ -1066,8 +1061,6 @@ There are twelve main elemental planes which exist across powerful dimensional b
 | Air      | Lightning   |
 | Fire     | Fire        |
 | Water    | Ice         |
-
-
 
 ## Illegal Skills and Powers
 
@@ -1172,7 +1165,7 @@ This spell snares the victim’s arms, binding them straight to its sides. The v
 Celestial: No    ,Scroll: No
 Earth: Yes       ,Potion: Yes
 Manifold: No
-Duration: Indefinate
+Duration: Indefinite
 ```
 
 This spell gives the recipient five extra Body Points. These points are the first Body Points lost to damage. This spell cannot be used to revive an unconscious person or harm an undead.
@@ -1224,7 +1217,7 @@ This spell will deal 30 points of body damage to the target. It does not affect 
 Celestial: No           ,Scroll: No
 Earth: Yes             ,Potion: Yes
 Manifold: Yes
-Duration: Indefinate
+Duration: Indefinite
 ```
 
 This spell will infect the recipient with a debilitating disease. The infection is not contagious, but makes the target unable to run. The spell Purify Blood will not cure someone under the effects of this spell. This spell might not be effective against creatures with no metabolism.
@@ -1374,7 +1367,7 @@ This spell only works on a corpse that has not previously been animated and will
 
 ### Cure Critical Wounds
 
-*I call upon the earth to cure crtical wounds 30.*
+*I call upon the earth to cure critical wounds 30.*
 
 ```
 Celestial:No           :: Scroll: No
@@ -1458,7 +1451,7 @@ This spell will restore up to 10 points of body damage but never more than a cha
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will cause the victim to take double damage from all attacks that would affect them. It can be removed by a Remove Curse or a Dispel Magic. The damage taken is doubled before any Spell Defenses are applied. The Curse effect does not lower a creature’s Threshold, nor does it make the creature affected by additional attacks that would not normally affect it.
@@ -1484,10 +1477,10 @@ I grant you the power of a delayed endow.
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
-This spell endows the recipient with the ability to do two extra points of damage for one swing if it hits the target. The total damage must be announced while swinging. Once called the spell is used up whether the blow was successful or not. Unlike a normal Endow the recipient may choose when to use a Delayed Endow. The recipient may also expend this spell to rip form Pin as per the monster ability. Delayed endow ill not benefit creatures that have Superhuman Strenght greater than +1 and will only add +1 to a creature with +1 strength. The spell may be stacked iwth other Blade Effects(maximum three spells total)
+This spell endows the recipient with the ability to do two extra points of damage for one swing if it hits the target. The total damage must be announced while swinging. Once called the spell is used up whether the blow was successful or not. Unlike a normal Endow the recipient may choose when to use a Delayed Endow. The recipient may also expend this spell to rip form Pin as per the monster ability. Delayed endow ill not benefit creatures that have Superhuman Strength greater than +1 and will only add +1 to a creature with +1 strength. The spell may be stacked with other Blade Effects(maximum three spells total)
 
 ### Desecrate
 
@@ -1497,10 +1490,10 @@ This spell endows the recipient with the ability to do two extra points of damag
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
-The recipient is protected against all non-ranged atacks from living creatures. ranged attacks (such as spells missle weapons and gas globes) can affect the recipient. this spell will remain in effect as long as the subject's hands are crossed on their chest and they do not recieve any body damage. I f you are unsure if an attacker is living or not you will affected by them. YTou may not call a Hold or otherwise go out of game to asertain their status. the cahracter with a Desecrate active may use no game abilities ecept touchcasting on themselves. Attempting to pick up an item will distrupt the spell.
+The recipient is protected against all non-ranged atacks from living creatures. ranged attacks (such as spells missile weapons and gas globes) can affect the recipient. this spell will remain in effect as long as the subject's hands are crossed on their chest and they do not receive any body damage. I f you are unsure if an attacker is living or not you will affected by them. you may not call a Hold or otherwise go out of game to asertain their status. the character with a Desecrate active may use no game abilities except touchcasting on themselves. Attempting to pick up an item will distrupt the spell.
 
 ### Destroy
 
@@ -1552,7 +1545,7 @@ Celestial:Yes           :: Scroll: Yes
  Duration: Instant
 ```
 
-This spell will dispel all active non-formal magical effects on a given creature or object unless specifically noted by the spell description. A Shield Magic or Reflect Magic will protect all  ther spells on a person from a Dispel Magic, but will be used up in the process. A Dispel Magic potion isn’t stopped by a Shield Magic or a Reflect Magic, and will dispel those spells and all others spells active upon the drinker.
+This spell will dispel all active non-formal magical effects on a given creature or object unless specifically noted by the spell description. A Shield Magic or Reflect Magic will protect all other spells on a person from a Dispel Magic, but will be used up in the process. A Dispel Magic potion isn’t stopped by a Shield Magic or a Reflect Magic, and will dispel those spells and all others spells active upon the drinker.
 
 ### Displacement
 
@@ -1562,7 +1555,7 @@ This spell will dispel all active non-formal magical effects on a given creature
 Celestial:Yes           :: Scroll: No
  Earth:No              ::Potion No
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell grants the caster, and only the caster, a shield against the first effect that hits them. It may not be cast upon another target. This will always be the first protective spell lost if it is appropriate to defend against an attack and will be used before a Shield Magic, Elemental Shield, Magic Armor or any other automatic protective effect, though a Formal Magic Cloak or Bane can be used before a Displacement. The caster may choose to accept a touch cast effect under the protection of this spell. When struck by an appropriate attack the defense is automatically triggered. Displacement cannot be Imbued via Formal Magic Cantrip, placed into a Magic Item of any kind (including a Spell Store item), or by any other means transferred to someone else to cast. The proper call for this defense is “Phase.”
@@ -1601,7 +1594,7 @@ This spell allows the caster to affect a target with a bolt of magical fire, ice
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell allows the recipient to do five extra points of damage for one swing if the blow is successful. The spell is used up whether the blow is successful or not. Unlike an Endow, the recipient may choose when to use an Elemental Blade. The recipient must announce the total damage while swinging. This damage will not set anything alight, freeze it, turn it to stone, etc. The extra damage comes from the spell’s eldritch effect, and its bonus can added fully to damage done by creatures with Superhuman Strength. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64, but the spells will only work one at a time. It does not allow you to hurt a monster that can only be damaged by magical weapons. When using this spell, you may call out “Fire, Ice, Lightning or Stone” as a damage type. The user of the spell chooses the type of damage done. The damage type is chosen when the damage is added to the weapon blow.
@@ -1614,7 +1607,7 @@ This spell allows the recipient to do five extra points of damage for one swing 
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell protects the recipient from the next effect with the word “elemental” in the verbal. It is then immediately used up. When used, the call is “Elemental Shield.”
@@ -1630,7 +1623,7 @@ Celestial:No           :: Scroll: No
  Duration: Instant
 ```
 
-This spell allows the caster to transfer one detrimental effect from the target to the caster. The effects this spell may transfer to the caster are Disease, Curse, Paralyze, Silence, Sleep, Taint Blood, Weakness, Wither Limb, Drain, Drain Life, Feeblemind, Hallucinoid, Intoxicant, Nausea, Paralyze, and Vertigo. No effect not on this list may be transferred using Empathic Healing. The caster cannot use spell protectives or combat abilities like Dodg e or Phase to negate the effect upon them. If the effect is not inflicted upon the caster because of immunity to the effect, a formal magic defense, or a magical item, then the spell fails. The caster must take the effect or use a racial resist for the spell to succeed. The caster must begin the duration of the negative effect they take upon themselves from the point they take the effect not when it was originally cast on the one they removed it from.
+This spell allows the caster to transfer one detrimental effect from the target to the caster. The effects this spell may transfer to the caster are Disease, Curse, Paralyze, Silence, Sleep, Taint Blood, Weakness, Wither Limb, Drain, Drain Life, Feeblemind, Hallucinoid, Intoxicant, Nausea, Paralyze, and Vertigo. No effect not on this list may be transferred using Empathic Healing. The caster cannot use spell defenses or combat abilities like Dodge or Phase to negate the effect upon them. If the effect is not inflicted upon the caster because of immunity to the effect, a formal magic defense, or a magical item, then the spell fails. The caster must take the effect or use a racial resist for the spell to succeed. The caster must begin the duration of the negative effect they take upon themselves from the point they take the effect not when it was originally cast on the one they removed it from.
 
 ### Enchanted Blade
 
@@ -1640,7 +1633,7 @@ This spell allows the caster to transfer one detrimental effect from the target 
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell allows the recipient to use the “Magic” weapon type against one opponent for the one battle, in the manner of a Critical Attack page 35 The recipient may choose when to use the Enchanted Blade, and must announce the total damage of the swing while saying “Magic” instead of “Normal” or “Silver.” The spell may be stacked with other Endow/Blade spells (maximum three spells total), but the spells will only work one at a time. Enchanted Blade will have no effect with a Damage Aura or Magic Aura.
@@ -1653,7 +1646,7 @@ This spell allows the recipient to use the “Magic” weapon type against one o
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell endows the recipient with the ability to do three extra points of damage on the next swing, if it hits the target. The total damage must be announced while swinging. Once called, the spell is used up whether the blow was successful or not. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64 , but the spells will only work one at a time. It does not allow you to hurt a monster that can only be damaged by magical weapons. Endow will not benefit creatures that have Superhuman Strength greater than +1, and will only add one to a creature with +1 strength.
@@ -1679,7 +1672,7 @@ This spell causes any hand-held itemto burst into fire for 5 seconds, dealing 20
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 When this spell is cast on an existing circle of power or ward it will allow the circle or ward to act as a prepared hearth for the caster for the school this spell was cast from. The prepared hearth will last as long as the circle or ward if they are not already extended through formal magic. If they are already extended through formal magic this spell will last for five days. The extended hearth is only dispelled if the circle or ward is destroyed, a Dispel Magic will not suffice. When cast the caster must place an individually recognizable stylized “H” up on the door or wall or within the center of the circle obviously indicating that a hearth is in affect, the “H” is OOG the way a “W” is for a ward. If the effect is dispelled the “H” must be removed. A player must confirm their “H” is still present before using an extended hearth. A player may cast this spell from both schools of magic in order to have the effect of the hearth for both schools. If they do this the “H” must reflect this to them. Multiple characters can have this effect active on the same area, but each Extended Hearth must have its own “H” which must be recognizable by the player who cast it and distinct fromany others. This spell cannot be thrown.
@@ -1731,7 +1724,7 @@ I grant you the power of a <fire, ide, lightning or stone> shield.
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell grants a shield to fire, ice, lightning, or stone as determined by the caster at the time of casting. This will nearly always be the first protective spell lost if it is appropriate to defend against an attack and will be used before a Shield Magic, Elemental Shield, Magic Armor or any other automatic protective effect other than Displacement which still comes before this spell. This spell will defend against packet delivered attacks and weapon delivered attacks as long as the damage or effect type is appropriate. For combined effects such as Enflame where the spell is both a fire attack and another effect this spell will protect against both. A player may have only a single casting of this spell upon them if another casting is placed upon them it will replace the prior one. When struck by an appropriate attack the spell automatically goes off the target may not choose to accept the spell and save this protection for later. This protective will be set off prior to any more general protective such as a Shield Magic. The caster may choose to accept a touch cast effect under the protection of this spell. When used, the call is “<fire, ice, lightning, stone> Shield.”
@@ -1913,14 +1906,14 @@ This spell does 30 points of eldritch lightning damage to the victim.
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 A Magic Armor spell will protect the recipient from the next single strike by a NERO-safe weapon or any attack with the word “physical” in the verbal. The recipient must state “Magic Armor.” The attack and the Magic Armor will then be expended. This does not protect against a Killing Blow or a fall, nor does it work against any traps other than weapon traps. A Magic Armor will be blown even if the amount of damage called is “zero.”
 
-### Magic Missle
+### Magic Missile
 
-*I call fourth a magic missle 5.*
+*I call fourth a magic missile 5.*
 
 ```
 Celestial:Yes           :: Scroll: Yes
@@ -1991,7 +1984,7 @@ This spell will root the target’s right foot in place. The target may pivot th
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell protects the recipient from the next attack with the word “poison” in the verbal. It is then immediately used up. It will not protect against ingested elixirs. When used, the call is “Poison Shield.”
@@ -2030,7 +2023,7 @@ This spell instantly refits armor to its full value This spell only works on act
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will reflect the next spell cast at the recipient back upon the caster, after which it is used up. The recipient must say “Reflect Magic” to inform the caster that the spell was returned. The original caster is still the caster of the spell. This spell lasts until used up or Dispelled, and cannot be used in conjunction with a Shield Magic. If you have a Reflect Magic active, you may still “accept” spells that are touchcast. You cannot “accept” thrown spells. See"Spell Disruption" on page 46 for more details. Reflect Magic will only work on spells delivered via packet, Glyph (See the Formal Magic section for more details), or Spell Strike.
@@ -2160,7 +2153,7 @@ This spell causes all of the target’s Withered limbs to become usable and rest
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will remain in effect as long as the subject’s hands are clasped overhead and they do not receive any body damage. The recipient is protected against all non-ranged attacks from undead creatures. Ranged attacks (such as spells, missile weapons, and gas globes) can affect the recipient. If you are unsure if an attacker is undead or not, you will be affected by them. You may not call a Hold or otherwise go out of game to ascertain their status. The character with a Sanctuary active may use no game abilities except touchcasting on themselves. Attempting to pick up an item will disrupt the spell.
@@ -2186,7 +2179,7 @@ This spell may be cast upon any weapon or shield or any item up to a shield in s
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell gives the recipient five extra Armor Points. These extra points are the first Armor Points lost due to damage.
@@ -2199,7 +2192,7 @@ I call fourth mystic power to shield magic.
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will cancel the next spell cast at the recipient, including beneficial spells, after which it is used up. You must say “Shield Magic” immediately when this spell is used. Shield Magic will only work on spells delivered via packet, Glyph (See the Formal Magic section for more details), or Spell Strike. Shield Magic cannot be used in conjunction with a Reflect Magic. If you have a Shield Magic active, you may still “accept” spells that are touch-cast. You cannot “accept” thrown spells. See "Spell Disruption" on page 46 for more details.
@@ -2251,7 +2244,7 @@ The victim of this spell cannot talk and cannot cast any spell. The victim must 
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will allow the recipient to use the weapon type silver against one opponent in the manner of a critical attack. It will not confer any additional damage. The target may choose to end the effect at any time but cannot reactivate it without using another casting of the spell. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64 , but the spells will only work one at a time.
@@ -2303,7 +2296,7 @@ This spell deals 25 points of eldritch stone damage to the victim.
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will introduce impurities into the victim’s blood. The victim is left extremely weak, and unable to fight or move faster than normal walking speed. The victim becomes unable to use any game skills. This spell might not function against creatures with no metabolism. This spell can be removed by a Purify Blood spell or a Dispel Magic spell.
@@ -2381,7 +2374,7 @@ This spell magically seals a single room or an entire building. The object affec
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell will curse the victim to do 5 points less damage with every swing (minimum damage being zero, of course). This spell does not actually reduce a creature’s strength. It affects all weapon damage in the same way, whether the weapon is used with one hand or two hands. This spell lasts until removed with a Remove Weakness or a Dispel Magic. Multiple Weakness effects do not stack.
@@ -2407,14 +2400,10 @@ This spell snares the arms of its victim, binding them straight to its sides, an
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This spell causes the target’s limb to become aged and infirm. The limb may be specified by the caster (right or left leg or arm). You can have up to four Wither Limb spells upon you at a time. No weapon may be wielded by that limb nor may the limb be used for locomotion or spell casting. If a leg is withered you must kneel down (unless you can’t due to a medical reason), you may not hop on the remaining leg. Only an arm or leg can be thus withered. Tentacles or similar appendages are considered arms for this purpose. The head, tongue, or any other such organ do not count as limbs. A Dispel Magic will remove all active Wither Limb spells. If the caster does not specify, or if the spell is received from a potion or carrier attack, then it is the target’s choice as to which currently un-withered limb becomes withered. If all your limbs are withered, call “got it.” See "Stacked Effects" on page 47.
-
-
-
- 
 
 ## Common Formal Magic Spells
 
@@ -2440,7 +2429,7 @@ Spirit Link magically attaches an item to a spirit, thus making it unstealable. 
 
 ### Spirit Mark
 
-Used to mark a particular person’s spirit. The mark is always present on the spirit’s body, in the location and with a design as decided by the original Formal Magic caster. This mark can be covered by normal means. 
+Used to mark a particular person’s spirit. The mark is always present on the spirit’s body, in the location and with a design as decided by the original Formal Magic caster. This mark can be covered by normal means.
 
 ### Vengeance
 
@@ -2448,9 +2437,9 @@ Causes a retributive strike of pure magical damage to any being inflicting a kil
 
 ## Formal Magic Components
 
-In order to cast a spell from a Formal Magic scroll, one must also have the Formal Magic Components. These components are represented in-game by a tag with a description of the item and its level and type. Some chapters also provide the actual prop itself. If your chapter does not, it can only increase your role-playing fun if you were to provide your own props. 
+In order to cast a spell from a Formal Magic scroll, one must also have the Formal Magic Components. These components are represented in-game by a tag with a description of the item and its level and type. Some chapters also provide the actual prop itself. If your chapter does not, it can only increase your role-playing fun if you were to provide your own props.
 
-Formal Magic Components may be found as treasure in a module, on an NPC, or randomly in the woods. 
+Formal Magic Components may be found as treasure in a module, on an NPC, or randomly in the woods.
 
 Any character can tell if they are looking at a formal component automatically. To identify the level and type of components (i.e. P4 or C1) you must possess one level of the formal magic skill of either school.
 
@@ -2464,7 +2453,7 @@ In order to use the powers of an Extended Circle, you must be Invested in that C
 
 In order to pass into or out of the Circle, you must be “recognized” by an invested member of the Circle. The invested member must clearly gesture, touch, or name the subject creature and must state “the Circle recognizes you.” This is an out-of-game statement, so it can be made while Silenced. The effect is understood in-game by all who hear it.
 
-Upon being recognized, a person must immediately enter or exit the Circle. If the recognized person does not immediately act upon the recognition, then the recognition will expire. 
+Upon being recognized, a person must immediately enter or exit the Circle. If the recognized person does not immediately act upon the recognition, then the recognition will expire.
 
 Invested members may walk freely into or out of the Circle, since it is assumed that they “recognize” themselves. Invested members who are unconscious (or conscious, yet unwilling) will not pass through the Circle unless recognized by someone else. When using combat skills or spells, you must be completely inside or outside of the Circle of Power. For example, you cannot begin a spell incant inside the Circle, and then step out to throw your packet.
 
@@ -2480,7 +2469,7 @@ If the target is a person then the target tells the invested person which active
 
 Everyone who hears or observes the Identify call/process is aware of an identification taking place though they should attempt not to overhear the results. If you are Out of Game able to tell who the person performing the identification is, then you know who it is in game as well. If a transform is active and Identified, the school of it and the name of it are revealed, but neither the presence nor any information about a dormant transformation is revealed. You can prevent an Identification unless you’re helpless.
 
-The time to Identify is In Game. If you’re interrupted then you are interrupted (including if contact is broken by the subject). 
+The time to Identify is In Game. If you’re interrupted then you are interrupted (including if contact is broken by the subject).
 
 While there is no set order to presenting the information and you decide where to start, you must give out all the information you have with the chance of 3rd party interruption
 
@@ -2522,7 +2511,7 @@ This limitation on active magic items applies to both Unrestricted and Local Cha
 
 For only the purposes of Magic Item Slots, a character’s Spirit counts as a single magic item that can be made active as a whole.
 
-Only the following formal magic spells count for the purposes of this “item:” Enchant, Cloak (Minor), Bane (Minor), Spell Store, Protection Aura, Cloak, Bane, Expanded Enchantment, Spirit Link, Spirit Lock. All other Spirit targeting formal magic spells fall outside of the Magic Item Slot rules. Please note that Spirit Link and Spirit Lock do not cease to work on an item that has been made inactive. 
+Only the following formal magic spells count for the purposes of this “item:” Enchant, Cloak (Minor), Bane (Minor), Spell Store, Protection Aura, Cloak, Bane, Expanded Enchantment, Spirit Link, Spirit Lock. All other Spirit targeting formal magic spells fall outside of the Magic Item Slot rules. Please note that Spirit Link and Spirit Lock do not cease to work on an item that has been made inactive.
 
 A PC is always aware of all formal magic spells on their spirit, including, school, specific type, and duration as applicable.
 
@@ -2536,20 +2525,19 @@ Safety is NERO’s main concern. These rules are designed to give players the fe
 
 This is the single most important rule in this entire book. Read it and take it to heart.
 
-Anyone can call a hold in a fight if they see an unsafe situation happening or about to happen. “Hold!” should be yelled so that everyone in battle can hear it—otherwise, it may be followed by another flurry of swings. When a Hold is called, 
+Anyone can call a hold in a fight if they see an unsafe situation happening or about to happen. “Hold!” should be yelled so that everyone in battle can hear it—otherwise, it may be followed by another flurry of swings. When a Hold is called,
 
-1. Stay exactly where you are 
+1. Stay exactly where you are
 
 2. Drop to one knee (unless you can’t due to a medical reason)
 
 3. Do Not Move.
 
-
 Do not look around you or talk to people about anything not connected with the Hold. You can use this time to update your tags and remove any spells that you have cast. You can also pick up spell packets from the ground or from your pouch as long as you return to your original spot before the game is resumed.
 
 This is not a time to study someone and see if they are an NPC or a PC, nor is it a chance to look behind you and see if anyone is sneaking up on you. Please play fair and try not to gather information while the Hold is being sorted out. When the reason the Hold was called is resolved, then the person calling the hold should call a Lay-on. First, insure that everyone is ready to resume play, then call “3. . .2. . .1. . .Lay-on!”
 
-Hold can also be called for excessive zeal on the part of an opponent. The infraction should be reported to a marshal. Repeated complaints will get a player removed from combat. 
+Hold can also be called for excessive zeal on the part of an opponent. The infraction should be reported to a marshal. Repeated complaints will get a player removed from combat.
 
 Hold can also be called if anyone’s eyeglasses are knocked off.
 
@@ -2569,11 +2557,11 @@ For example, to simulate a zombie rising from the ground, the NPC playing the zo
 
 Phase, Return and Resist. These abilities cause the counted action to be interrupted. The skill is used up, and the count is aborted and must be started again.
 
-A counted action such as breaking a binding effect (using “Rip From ...”), performing a Killing Blow, or going Gaseous requires the same number of seconds as the number of the count, or the duration of the count, whichever is the longest. This means that a Killing Blow requires at least 3 seconds to perform, no matter how fast the player says “Killing Blow 1, Killing Blow 2, Killing Blow 3”. 
+A counted action such as breaking a binding effect (using “Rip From ...”), performing a Killing Blow, or going Gaseous requires the same number of seconds as the number of the count, or the duration of the count, whichever is the longest. This means that a Killing Blow requires at least 3 seconds to perform, no matter how fast the player says “Killing Blow 1, Killing Blow 2, Killing Blow 3”.
 
-In the case of simultaneous, identical length counts, who ever started the count first “wins” it does not matter how fast you say it. Spell defenses such as Shield Magic do not interrupt a counted action. 
+In the case of simultaneous, identical length counts, who ever started the count first “wins” it does not matter how fast you say it. Spell defenses such as Shield Magic do not interrupt a counted action.
 
-*For example, Cerik the vampire is turning gaseous. During the three count, he is hit with a Cure Light Wounds spell. He takes the damage from the spell but it is not enough to destroy him, so he can continue his three count.* 
+*For example, Cerik the vampire is turning gaseous. During the three count, he is hit with a Cure Light Wounds spell. He takes the damage from the spell but it is not enough to destroy him, so he can continue his three count.*
 
 *Example two: Cerik gets hit with a Destroy Undead spell. This would destroy him, so he uses his Phase skill. The use of that skill has interrupted his three count, so the Gaseous Form skill has been used up, and unless he has that skill twice, he cannot attempt it again.*
 
@@ -2609,7 +2597,7 @@ During NERO combat you must never come into physical contact with your opponent.
 
 ## Legal Targets
 
-Legal targets include the entire body except the head, neck, throat, hands from the wrist out, and the groin. A player observed to be hitting restricted areas repeatedly is subject to disciplinary action. 
+Legal targets include the entire body except the head, neck, throat, hands from the wrist out, and the groin. A player observed to be hitting restricted areas repeatedly is subject to disciplinary action.
 
 You may not intentionally block a hit with an illegal target.
 
@@ -2621,7 +2609,7 @@ If you do not have the skill to use a weapon you are carrying, or if you are pre
 
 ## Swinging your weapon
 
-The NERO combat system is an honor system. Each player trusts that the person whom he is hitting is correctly counting his or her hits. “But I’m an evil thief.” You still have to count your hits. The NERO combat system relies on all players being honest in real life even if their character is a nefarious liar. Remember, even the NPCs are there to have fun, albeit by dying in a good clean fight. 
+The NERO combat system is an honor system. Each player trusts that the person whom he is hitting is correctly counting his or her hits. “But I’m an evil thief.” You still have to count your hits. The NERO combat system relies on all players being honest in real life even if their character is a nefarious liar. Remember, even the NPCs are there to have fun, albeit by dying in a good clean fight.
 
 NERO is a fantasy game with a fantasy combat style. The normal rules of armed combat don’t apply as they are geared toward doing all the things we strive to prevent, i.e. injure your opponent. So because of this some compromises must be made in realism.
 
@@ -2647,7 +2635,7 @@ Shields do not protect the owner from any kind of trap other than a weapon trap,
 
 ### Shield Bashing
 
-Shield Bashing is the intentional use of a shield to gain physical out-of-game advantage over an opponent. Shield Bashing is a serious a violation of NERO safety rules—it is similar to Charging. The potential for injury is great. Excessive use of Shield Bashing will result in warnings and possible loss of the Shield skill. 
+Shield Bashing is the intentional use of a shield to gain physical out-of-game advantage over an opponent. Shield Bashing is a serious a violation of NERO safety rules—it is similar to Charging. The potential for injury is great. Excessive use of Shield Bashing will result in warnings and possible loss of the Shield skill.
 
 Shields cannot be used with two handed weapons. You may not wield a weapon with the hand or arm holding the shield. Also your shield arm may not have any other items or weapons attached to it. Tucking a dagger behind your shield arm would negate your ability to use the shield.
 
@@ -2695,21 +2683,19 @@ Weapon blows are dealt with nero safe hand held boffers, and thrown boffers. Arr
 
 ## Effects Types
 
-In addition to delivery methods, there are also effect types which change what protects you from the damage or effect. Once you take the effect, it is the same no matter what the effect type. 
+In addition to delivery methods, there are also effect types which change what protects you from the damage or effect. Once you take the effect, it is the same no matter what the effect type.
 
 **Arcane**: Effects delivered this way are created from raw magical energies. They are not blocked by regular spell defenses. The same casting rules apply as spells except you do not need the ability to speak.
 
 **Magic**: Magic Deliverance is a non verbal way of casting spells. The same casting rules apply as spells except you do not need the ability to speak.
 
-**Elemental**: Effects and damage delivered elementally are created from elemental energy rather than a spell, so must be blocked by an elemental shield. Elemental effects can be removed by dispel magic. 
+**Elemental**: Effects and damage delivered elementally are created from elemental energy rather than a spell, so must be blocked by an elemental shield. Elemental effects can be removed by dispel magic.
 
-**Physical**: Physical attacks represent an actual physical force such as a glob of ooze to form a Physical Web, a big rock to form a Physical Stone Bolt, or a burst of wind to cause a Physical Repel. 
+**Physical**: Physical attacks represent an actual physical force such as a glob of ooze to form a Physical Web, a big rock to form a Physical Stone Bolt, or a burst of wind to cause a Physical Repel.
 
 **Poison**: Effects delivered as poison are stopped by Poison shields. They represent a monster with poisoned claws, fangs, or spittle.
 
 **Spell**: Effects delivered as spell are blocked by a Shield Magic.
-
- 
 
 ## Calling Weapon Damage
 
@@ -2729,7 +2715,7 @@ A Weapon’s Type determines the nature of the weapon. There are four weapon typ
 
 ### Damage Type
 
-Some creatures may take an increased or decreased amount of damage from certain damage types. The valid Damage Types are variable and up to the local plot team or as granted by effects within these rules so long as the call does not duplicate a game effect. 
+Some creatures may take an increased or decreased amount of damage from certain damage types. The valid Damage Types are variable and up to the local plot team or as granted by effects within these rules so long as the call does not duplicate a game effect.
 
 The most common damage types are the thirteen core elements (fire, water, order, chaos, etc.) and the Effect Types listed above. The only Effect Types which may not be used as a Damage Type are "Magic" or "Spell". To Specify a Carrier Attack as a magical effect you must use the "Arcane" Effect Type.
 
@@ -2745,11 +2731,11 @@ In addition, you cannot use the “toss and grab ” method on any item to avoid
 
 For the purposes of spells that target the item itself (such as Shatter), an item is still considered under a player’s control until it comes to a complete rest on the ground out of the player’s grasp
 
-## Special Abilities 
+## Special Abilities
 
 There are many creatures in the NERO world that have special abilities or powers. The effects of these are described below.
 
-Some monsters are represented by multiple NPCs. These are either organisms that can divide into many segments, or are larger than man sized. In some cases, these creatures will be affected differently by battle magic spells. The spell may only affect one of the creature’s segments. A spell such as Pin may only affect the segment it hits, allowing the creature to pivot around the affected part. Once again, the monster should have documentation describing any special allowances it may have. 
+Some monsters are represented by multiple NPCs. These are either organisms that can divide into many segments, or are larger than man sized. In some cases, these creatures will be affected differently by battle magic spells. The spell may only affect one of the creature’s segments. A spell such as Pin may only affect the segment it hits, allowing the creature to pivot around the affected part. Once again, the monster should have documentation describing any special allowances it may have.
 
 Occasionally, a monster’s abilities may change from event to event or even during an event! This can be the result of many things, from mutation to strange magics to a new tribe moving into the area.
 
@@ -2761,7 +2747,7 @@ These attacks represent monsters’ abilities to generate ranged attacks such as
 
 ### Base Claws/Body Weaponry
 
-Monsters with this ability can strike with large claws or fists. The phys-reps will always be covered in red duct or kite tape; however, you cannot tell the difference between claws and real weapons unless you can actually see the red tape. The claws cannot be Fumbled, Shattered, or Destroyed. The NPC cannot call a Hold to pull out claws. Consider the claws retractable. 
+Monsters with this ability can strike with large claws or fists. The phys-reps will always be covered in red duct or kite tape; however, you cannot tell the difference between claws and real weapons unless you can actually see the red tape. The claws cannot be Fumbled, Shattered, or Destroyed. The NPC cannot call a Hold to pull out claws. Consider the claws retractable.
 
 ### Control Undead
 
@@ -2769,7 +2755,7 @@ Some undead creatures can control other less powerful undead in the area, making
 
 ### Curse of Transformation
 
-Some monsters (notably werewolves and vampires) have the ability to curse their victims so that they will turn into versions of themselves under appropriate circumstances. Werewolves can turn their victims into werewolves who will then change on the next full moon (and every full moon thereafter). Vampires can turn their victims into lesser vampires. These curses cannot be resisted as per spirit targeting formal rules. The character is usually not dead when they are afflicted with a Curse of Transformation. Once Cursed, when the appropriate circumstances are met,the character will transform into a lesser form of the master who Cursed the character. All life and death rules are still in effect - the player will enter her death count when she is reduced to -1 body points, she will have 5 minutes to receive a Life spell, the Life spell may or may not cure the “Curse”. You will always receive a card that states the additional abilities of your curse that you will then carry with your character card at all times. 
+Some monsters (notably werewolves and vampires) have the ability to curse their victims so that they will turn into versions of themselves under appropriate circumstances. Werewolves can turn their victims into werewolves who will then change on the next full moon (and every full moon thereafter). Vampires can turn their victims into lesser vampires. These curses cannot be resisted as per spirit targeting formal rules. The character is usually not dead when they are afflicted with a Curse of Transformation. Once Cursed, when the appropriate circumstances are met,the character will transform into a lesser form of the master who Cursed the character. All life and death rules are still in effect - the player will enter her death count when she is reduced to -1 body points, she will have 5 minutes to receive a Life spell, the Life spell may or may not cure the “Curse”. You will always receive a card that states the additional abilities of your curse that you will then carry with your character card at all times.
 
 ### Drain
 
@@ -2787,7 +2773,7 @@ For example, Drina gets Feared by a vampire. She runs screaming around a corner 
 
 ### Infection
 
-Some creatures have the ability to infect helpless victims with material that will turn the person into a version of the creature. Unlike a werewolf or vampire curse, this is only a physical transformation of the victim’s body. Players will be told of specific triggers if necessary. Victims will lose all memory of their former lives, and the player must follow the commands they are given by the Monster Master until the character is slain. 
+Some creatures have the ability to infect helpless victims with material that will turn the person into a version of the creature. Unlike a werewolf or vampire curse, this is only a physical transformation of the victim’s body. Players will be told of specific triggers if necessary. Victims will lose all memory of their former lives, and the player must follow the commands they are given by the Monster Master until the character is slain.
 
 The character may then be killed and then given a Life spell and be cured of the infection. If the player dies the spirit may then proceed to the Healers’ Guild to be resurrected as normal. Infection is done just as a Killing Blow, with a count of “I infect you 1, I infect you 2, I infect you 3.”
 
@@ -2807,7 +2793,7 @@ This ability functions as Spell Strike but is stopped by a Magic Armor or Parry 
 
 ### Spell Strike
 
-A few powerful magical creatures have the ability to generate spell effects in their weapons. The spell effects are just as the spell, except that they are delivered with a weapon strike instead of a spell packet. As with any weapon strike, all weapon safety rules must be followed. The spells are still subject to spell defenses as a normal spell. This ability does not require Body contact. When this power is used, the player will call “Spell Strike <Effect>” and will deliver a NERO-safe hit. The skill can still be used even when silenced, but the effect is recognizable to all who hear it. 
+A few powerful magical creatures have the ability to generate spell effects in their weapons. The spell effects are just as the spell, except that they are delivered with a weapon strike instead of a spell packet. As with any weapon strike, all weapon safety rules must be followed. The spells are still subject to spell defenses as a normal spell. This ability does not require body contact. When this power is used, the player will call “Spell Strike <Effect>” and will deliver a NERO-safe hit. The skill can still be used even when silenced, but the effect is recognizable to all who hear it.
 
 The spell portion of a Spellstrike is only stopped by defenses that would stop the attack if it were delivered by packet. Therefore, Magic Arm or, although it stops “the next single strike by a NERO Safe weapon” , does not stop a Spellstrike. Since a Spellstrike is weapon-delivered, the user must have the in-game skill to wield the weapon in order to use the Spellstrike.
 
@@ -2819,7 +2805,7 @@ Any creature with superhuman strength can do more damage with any particular wea
 
 ### Vampire Charm
 
-Vampires can charm a person if they can maintain eye contact for 10 seconds. More powerful Vampires can deliver packet attack Vampire Charms as well. This power does not require body contact. If you are charmed by a Vampire, then you must obey all commands the Vampire gives you. These commands are absolute and are much more powerful than a Charm spell; if a vampire tells you to commit suicide, you will do so unquestioningly. Spell defenses appropriate to the delivery type can be used to stop a packet-delivered Vampire Charm. The racial skill Resist Charm will protect the character from this effect. The effect lasts five minutes. This effect is stronger than Calm/ Calm Animal Charm /Charm Animal, Shun/ Shun Animal, or Fear. The most recent Control Undead, Vampire Charm or Enslavement effect will take precedent if there is a conflict. See Table 5-6 on page 64.
+Vampires can charm a person if they can maintain eye contact for 10 seconds. More powerful Vampires can deliver packet attack Vampire Charms as well. This power does not require body contact. If you are charmed by a Vampire, then you must obey all commands the Vampire gives you. These commands are absolute and are much more powerful than a Charm spell; if a vampire tells you to commit suicide, you will do so unquestioningly. Spell defenses appropriate to the delivery type can be used to stop a packet-delivered Vampire Charm. The racial skill Resist Charm will protect the character from this effect. The effect lasts five minutes. This effect is stronger than Calm/ Calm Animal Charm /Charm Animal, Shun/ Shun Animal, or Fear. The most recent Control Undead, Vampire Charm, or Enslavement effect will take precedence if there is a conflict. See Table 5-6 on page 64.
 
 ### Special Defenses and Vulnerabilities
 
@@ -2843,7 +2829,7 @@ Creatures with this ability are not subject to Disruption for one or more of the
 
 ### Gaseous Form
 
-Creatures that are forced into gaseous form when they are killed drop their possessions. Creatures which voluntarily turn into gaseous form while still “alive” can bring their possessions with them. Creatures that turn gaseous will drop any other creatures being carried at that time. While they are in this form they are immune to all attacks except Ar cane Solidify. They may only move at a normal walking rate. They cannot speak or move objects. Creatures in Gaseous Form still appear as they normally do. Voluntarily Turning gaseous or solidifying is a three counted action.
+Creatures that are forced into gaseous form when they are killed drop their possessions. Creatures which voluntarily turn into gaseous form while still “alive” can bring their possessions with them. Creatures that turn gaseous will drop any other creatures being carried at that time. While they are in this form, they are immune to all attacks except Arcane Solidify. They may only move at a normal walking rate. They cannot speak or move objects. Creatures in Gaseous Form still appear as they normally do. Voluntarily Turning gaseous or solidifying is a three counted action.
 
 ### Harmed by <damage type or effect>
 
@@ -2859,11 +2845,11 @@ Many creatures have immunities to some spells or effects. Creatures must call �
 
 ### Immune to <Type> Weapons
 
-Several types of creatures require special weapons (for example, silver or magic) to damage them. Normal weapons will do no damage, but the special weapon will do full damage. These creatures will tell you “ No effect” if your damage is not affecting them.
+Several types of creatures require special weapons (for example, silver or magic) to damage them. Normal weapons will do no damage, but the special weapon will do full damage. These creatures will tell you “No effect” if your damage is not affecting them.
 
 ### Mind Abilities
 
-Some creatures can perform mental abilities such as “mind melds.” These abilities are all completely role-playing in nature. Generally speaking, a creature with this ability can instill or remove roleplaying insanity or otherwise “cure” mental damage. This ability can not be used to tell if another player is telling the truth or to counteract forget-it poisons or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” the contact or be cured. In order to use this role-playing skill, the players must be touching each other and be concentrating completely by either staring in each other’s eyes or having their eyes closed. You cannot perform any in-game skills while role-playing this.
+Some creatures can perform mental abilities such as “mind melds.” These abilities are all completely role-playing in nature. Generally speaking, a creature with this ability can instill or remove roleplaying insanity or otherwise “cure” mental damage. This ability cannot be used to tell if another player is telling the truth, to counteract forget-it poisons, or to otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” the contact or be cured. In order to use this role-playing skill, the players must be touching each other and be concentrating completely by either staring in each other’s eyes or having their eyes closed. You cannot perform any in-game skills while role-playing this.
 
 ### Natural Armor
 
@@ -2871,7 +2857,7 @@ Some monsters have a skin that acts like armor. It can be refit in sixty seconds
 
 ### No Metabolism
 
-Some monsters lack a metabolism. The standard definition is as follows: Imm une to Death, Disease, Drain, Drain Life, First Aid, Life, Nausea, Paralyze, Poisons, Sleep, Taint Blood, Waylay, Wither Limb.
+Some monsters lack a metabolism. The standard definition is as follows: Immune to Death, Disease, Drain, Drain Life, First Aid, Life, Nausea, Paralyze, Poisons, Sleep, Taint Blood, Waylay, and Wither Limb.
 
 ### Non-Corporeal Form
 
@@ -2909,15 +2895,15 @@ A creature with this skill can rise back up after five minutes of semi-death. In
 
 Some creatures can open a rift to another plane to allow for entrance or exit or open a Gate to another place. This is a three counted action unless a fully represented gate prop is used. Some of these creatures also have the power to abduct others and force them to rift or gate out against their will. Rip from Pin/ Bind/Web/Confine
 
-Some creatures can rip free from binding spells. This is a three-count action with the phrase “I rip free one, I rip free two, I rip free three.” While the creature is doing the three-count, it is vulnerable to attack and a Killing Blow begun prior to the Ripping. While ripping free, the creature may not use any skill requiring movement, such as Dodge. A creature with the skill Rip from Pin/Bind/Web/Confine can only use this skill upon itself, never upon others. 
+Some creatures can rip free from binding spells. This is a three-count action with the phrase “I rip free one, I rip free two, I rip free three.” While the creature is doing the three-count, it is vulnerable to attack and a Killing Blow begun prior to the Ripping. While ripping free, the creature may not use any skill requiring movement, such as Dodge. A creature with the skill Rip from Pin/Bind/Web/Confine can only use this skill upon itself, never upon others.
 
 ### Solidify
 
-This skill forces a gaseous form to become immediately solid. It is packet delivered with the verbal “<delivery type> Solidify.” Note that the creature may still turn gaseous again. 
+This skill forces a gaseous form to become immediately solid. It is packet delivered with the verbal “<delivery type> Solidify.” Note that the creature may still turn gaseous again.
 
 ### Suicide Ability
 
-Some creatures have the ability to destroy themselves if they are captured. This ability may be the equivalent of a Killing Blow or it may cause the creature to instantly dissipate and seek resurrection. 
+Some creatures have the ability to destroy themselves if they are captured. This ability may be the equivalent of a Killing Blow or it may cause the creature to instantly dissipate and seek resurrection.
 
 ### Threshold
 
@@ -2965,9 +2951,9 @@ In order to search a cabin, you MUST have a marshal present. We cannot overempha
 
 The marshal does not have to actually be right next to you (after all, how can you sneak with someone else tagging along beside?), but the marshal must be within sight somewhere.
 
-Once you have managed to successfully open the door, the marshal will then check the marshal’s notes that will be affixed to the inside of the door. These notes will list any magic spells that may be active in, or on, the cabin, which character cast these spells upon the cabin, who is invested in any Circles of Power that are in the cabin, who is invested in the cabin’s Ward (if one is present), and any other things that the local chapter requested be placed on the Marshal’s Notes. 
+Once you have managed to successfully open the door, the marshal will then check the marshal’s notes that will be affixed to the inside of the door. These notes will list any magic spells that may be active in, or on, the cabin, which character cast these spells upon the cabin, who is invested in any Circles of Power that are in the cabin, who is invested in the cabin’s Ward (if one is present), and any other things that the local chapter requested be placed on the Marshal’s Notes.
 
-You must actually search the cabin yourself. The marshal will not simply look at the notes and go and retrieve items for you. Do not take any items marked “personal” or any items stored under a bed. In-game items may not be put under a bed. When you leave the cabin, you must show all items you have taken to the marshal. Only game items can be stolen! The marshal will return non-stealable items. The marshal is also there to make sure that you properly disarm any traps that may be on the door or window. Destroying property such as window screens or door hinges is not allowed. 
+You must actually search the cabin yourself. The marshal will not simply look at the notes and go and retrieve items for you. Do not take any items marked “personal” or any items stored under a bed. In-game items may not be put under a bed. When you leave the cabin, you must show all items you have taken to the marshal. Only game items can be stolen! The marshal will return non-stealable items. The marshal is also there to make sure that you properly disarm any traps that may be on the door or window. Destroying property such as window screens or door hinges is not allowed.
 
 Remember you can search anywhere in a cabin except for bags marked personal or behind dividing curtains or under beds. However, not everything in gameplay is stealable, so always talk to a Rules Marshal if you have any questions or concerns.
 
@@ -2975,9 +2961,9 @@ Remember you can search anywhere in a cabin except for bags marked personal or b
 
 Tyrra can be an unsafe place, so it’s always a wise idea to guard your valuables. There may be places in-game where you can buy or rent a lock for your cabin. Some of these places will also install it for you for a small fee. Of course, these locks can be picked by a good thief, but at least it will slow the rascal down. You can also buy or make traps for your cabin. Each trap must be accompanied by the trap’s item tag see Traps & Locks below.
 
-It is a smart idea to take your personal items and put them under your bed. Any items placed under the bed are considered to be out of play, so don’t cheat and put game items there. If you like, put a dividing curtain up in your cabin, and place all the beds and your personal items behind it. Put any game items in front of the divider. 
+It is a smart idea to take your personal items and put them under your bed. Any items placed under the bed are considered to be out of play, so don’t cheat and put game items there. If you like, put a dividing curtain up in your cabin, and place all the beds and your personal items behind it. Put any game items in front of the divider.
 
-If you are sleeping in-game during the night, make sure that your bed is in front of any dividing curtain or barrier you have put up. 
+If you are sleeping in-game during the night, make sure that your bed is in front of any dividing curtain or barrier you have put up.
 
 Any special security precautions you take must be entered on the marshal’s notes sheet in the holder on your cabin door. Make any appropriate entries there, with the spell labels and/or trap cards necessary. That way anyone marshaling a thief through your cabin can dole out any damage that the villain may take. If no precautions have been entered on the marshal’s notes, then there is nothing protecting the cabin in-game!
 
@@ -2997,19 +2983,19 @@ There are 7 different types of traps each with different building parameters.
 
 A weapon trap is a trap which contains a weapon on a spring mounted mechanism. These traps cost 1 Production Level per 2 points of damage with a minimum damage of 2 and a maximum damage of 40. Weapon traps may be reset by anyone with the Disarm /Arm Traps skill without paying the cost to rebuild them. These traps must be mounted to a door, wall or inside a large chest to be effective. If not mounted to a heavy, stable object of this sort, they cannot be set with enough force to be effective. You cannot attach these traps to a body.
 
-The mounted weapon must be any standard NERO-safe boffer weapon. This is the only trap that can be blocked, Parried, Dodged or stopped by the Magic Arm or spell.
+The mounted weapon must be any standard NERO-safe buffer weapon. This is the only trap that can be blocked, Parried, Dodged or stopped by the Magic Arm or spell.
 
 #### Massive Mechanical Traps
 
-Massive mechanical traps represent collapsing ceilings, rockfalls, giant scythes, and other such contraptions. They are completely immovable. They have a minimum size of 3” by 3” by 3”. Anyone struck by any part of the trap when it goes off takes the full damage of the trap. Massive mechanical traps must be rebuilt after they are set off; they cannot be reset. 
+Massive mechanical traps represent collapsing ceilings, rockfalls, giant scythes, and other such contraptions. They are completely immovable. They have a minimum size of 3” by 3” by 3”. Anyone struck by any part of the trap when it goes off takes the full damage of the trap. Massive mechanical traps must be rebuilt after they are set off; they cannot be reset.
 
 These cost 1 Production Level per 4 points of damage with a minimum damage of 16 and a maximum damage of 80. Massive mechanical traps are usually represented with pillows, plastic trash bags filled with newspapers, and other soft items. Whoever is touched by the phys-rep will take the complete damage from the trap.
 
 #### Fire / Acid Traps
 
-A fire or acid trap represents a trap which sprays a burning or caustic liquid in a 5 foot radius measured from the center of the trap phys-rep. Anyone inside this radius when it detonates takes the full damage of the trap plus the additional effects listed below. 
+A fire or acid trap represents a trap which sprays a burning or caustic liquid in a 5 foot radius measured from the center of the trap phys-rep. Anyone inside this radius when it detonates takes the full damage of the trap plus the additional effects listed below.
 
-In addition to a trigger and detonating mechanism, there must also be a physical representation for the oil / acid “container.” The required size of this container is 216 cubic inches. The detonation mechanism must be attached to the container. The radius effect is measured out from this container. 
+In addition to a trigger and detonating mechanism, there must also be a physical representation for the oil / acid “container.” The required size of this container is 216 cubic inches. The detonation mechanism must be attached to the container. The radius effect is measured out from this container.
 
 The damage from fire traps can be negated by Cloak vs Fire or Guardian of the Four (Fire.)
 
@@ -3031,7 +3017,7 @@ A gas trap is rated at the Production Level used to make it. To make a gas trap 
 
 Remember that the trap must contain both a trap card and the gas poison tag. Gas which is contained in a Gas trap cannot be removed, reused, or “salvaged,” under any circumstances.
 
-Multiple Cause Damage gases can be placed into a single gas trap up to the limit of the level of the trap but no other gases can be “stacked” to increase their damage potential or mix their effects. 
+Multiple Cause Damage gases can be placed into a single gas trap up to the limit of the level of the trap but no other gases can be “stacked” to increase their damage potential or mix their effects.
 
 These traps have a 5’ radius. Anyone inside this area when the trap goes off will be affected as if they had been struck by a gas poison of the same name. The effects of any gas trap, even traps with multiple gases, will be blocked by a Poison Shield or the skill Resist Poison. If two or more traps have the same trigger, then they are all set off together and one Poison Shield or Resist Poison will block them all.
 
@@ -3081,7 +3067,7 @@ Traps that have an area effect have their effect area measured from the center o
 
 #### Disarming Traps
 
-Traps may be disarmed by any method that does not permanently destroy the trap. For example, popping a battery clip off would represent disarming a spring. 
+Traps may be disarmed by any method that does not permanently destroy the trap. For example, popping a battery clip off would represent disarming a spring.
 
 Permanent damage is defined as any damage that cannot be fixed by the marshal within ten minutes with no tools.
 
@@ -3103,7 +3089,7 @@ If there is a dispute over a rules interpretation by one or more players, then a
 
 If you wish to appeal a Marshal’s ruling, you can speak to an Adjudicator. When dealing with a NERO Marshal or other representative, you can help yourself and your case considerably by staying calm. Present your case and once the ruling is made, play along with it. Your marshal may be aware of something you have missed, or may be making a decision based on what was intended by the rule. If you feel the marshal’s judgment was incorrect, you can bring the ruling to adjudication later. Don’t dwell on it in the meantime or it will spoil your enjoyment of the rest of the game. You should also try not to nitpick details of a situation. You should understand and follow the intent of the rules. Play fair and be considerate of everyone’s enjoyment of the game. You will be taken more seriously and be respected by those who have to deal with you. Arguing the specific wording of a rule or taking advantage of a misprint can look like manipulation of the rules for your benefit and will not win you any friends in the long run.
 
-Marshals are appointed positions only. Generally, marshals remain in game play as their characters but are able to step in and make judgments if needed. Anyone impersonating a marshal will be subject to immediate disciplinary action, as are marshals who attempt to marshal themselves or their friends in game play. 
+Marshals are appointed positions only. Generally, marshals remain in game play as their characters but are able to step in and make judgments if needed. Anyone impersonating a marshal will be subject to immediate disciplinary action, as are marshals who attempt to marshal themselves or their friends in game play.
 
 Marshals are never allowed to marshal themselves through an encounter, and a marshal should never marshal his or her adventuring group if at all possible. If a marshal appears biased, it ruins the credibility of the marshal to give fair judgments in future decisions.
 
@@ -3145,7 +3131,7 @@ Example – Joseph is 10th level with 106 build. He goes to an event in another 
 
 - Don’t play in a style that detracts from the fun of the event, or anyone’s chance to have fun at an event.
 
-### Staff, Marshals, etc...
+### Staff, Marshals, etc
 
 - Abide by the expectations that apply to all NERO participants.
 
@@ -3163,7 +3149,6 @@ Example – Joseph is 10th level with 106 build. He goes to an event in another 
 
 - Uphold the authority of your staff, and do not overrule them without careful investigation.
 
-
 ## Code of Conduct
 
 NERO expects its members to act responsibly as adults, to respect other players, and abide by the NERO rules and policies.
@@ -3180,7 +3165,7 @@ If there is a dispute over a rules interpretation between players, a Marshal sho
 
 If you feel a Marshal’s ruling was incorrect or unfair, you may bring this to the attention of an Adjudicator.
 
-Do not nitpick on the details of the situation - understand and follow the intent of the rules. If you play fair and be considerate of everyone else’s enjoyment of the game, your comments will be taken more seriously and will be better respected. 
+Do not nitpick on the details of the situation - understand and follow the intent of the rules. If you play fair and be considerate of everyone else’s enjoyment of the game, your comments will be taken more seriously and will be better respected.
 
 NERO will remove any member who NERO suspects is intoxicated or high.
 
@@ -3210,11 +3195,11 @@ A Page should never be struck with a weapon or claw. In order to attack a page, 
 
 ### Smoking
 
-Smoking is only permitted in designated smoking areas. Generally, you are discouraged from smoking in public areas because of consideration for the other players, for fire safety regulations, and because it takes away from the medieval feel of the games. 
+Smoking is only permitted in designated smoking areas. Generally, you are discouraged from smoking in public areas because of consideration for the other players, for fire safety regulations, and because it takes away from the medieval feel of the games.
 
 ### Torches and Flames
 
-The rules on torches and flames vary based on the campsite’s rules. 
+The rules on torches and flames vary based on the campsite’s rules.
 
 Generally speaking, torches are not allowed. No open flames are allowed in cabins, including candles (although candle lanterns and oil lanterns are fine). In any event, flames are never to be left unattended.
 
@@ -3256,17 +3241,17 @@ Wear Extra Armor: The skill wear extra armor adds 5 wear points per purchase to 
 
 Costume Bonus: Any player will be awarded five wear points simply for being fully in costume with their entire visible costume fully fitting with the in game atmosphere see “Costumes” on page 121. A marshal must be consulted to see if your costume warrants the bonus. You should do this at every chapter you go to as some chapters have different criteria to make this decision.
 
-The maximum Wear total a player can have is 40 (45 with good costuming), no effect can augment this bonus higher by any means. Armor points granted by the spell “Shield” are considered Armor but do not count toward your Wear Point total. 
+The maximum Wear total a player can have is 40 (45 with good costuming), no effect can augment this bonus higher by any means. Armor points granted by the spell “Shield” are considered Armor but do not count toward your Wear Point total.
 
 *Example, Mandrake the scholar has 10 base wear points, he purchases Wear extra armor and now has 15 wear points. His costume is reviewed by a marshal and is given the 5 wear points for costuming. So he can now wear up to 20 Armor points.*
 
 ## Physical Armor
 
-The Physical Armor Types are Leather, Chain Mail, and Plate. Table 7-6 shows the value of each Armor Type for each Body Location. Each location is worth one point for leather, two points for chain, and three points for plate except the chest and back which are worth three times as much since they cover a larger area. 
+The Physical Armor Types are Leather, Chain Mail, and Plate. Table 7-6 shows the value of each Armor Type for each Body Location. Each location is worth one point for leather, two points for chain, and three points for plate except the chest and back which are worth three times as much since they cover a larger area.
 
 A suit of armor may be rejected at any point on grounds of safety for such things including, but not limited to; protrusions, sharp edges, and unsafe materials.
 
-Characters may select the armor type to use at each separate body location, making it easier for players to create their own personalized armor. Each location is considered covered in armor if at least three quarters of the entire area is covered. Locations with overlapping armor types count as the higher type. 
+Characters may select the armor type to use at each separate body location, making it easier for players to create their own personalized armor. Each location is considered covered in armor if at least three quarters of the entire area is covered. Locations with overlapping armor types count as the higher type.
 
 A Suit of Armor is evaluated by adding the armor point value for each body location covered.
 
@@ -3302,7 +3287,7 @@ Restringing involves at least 3 seconds of role-play. No physical representation
 
 To Fire, the Bow must be held in front of the archer at arm’s length and must be aimed at the target when the packet is thrown. The archer must take the packet out of the quiver, touch the packet to the hand holding the bow, then throw. The packet must be thrown in the normal flight path of an arrow fired from the bow. It cannot be thrown overhead or around corners. It cannot be “flicked.” The damage call must be completed before throwing the packet.
 
-The hand throwing the arrow (yellow packet) is the hand that concerns Proficiencies. Master Proficiencies carry over to archery. 
+The hand throwing the arrow (yellow packet) is the hand that concerns Proficiencies. Master Proficiencies carry over to archery.
 
 All Vorpal Poisons, Enchanted Blade, Silver Aura and Elemental Blade spells work normally. Vorpal tags are to be taped to the bow, not the packet.
 
@@ -3314,7 +3299,7 @@ Real bows and arrows are not permitted.
 
 **Spears**: One handed spears can only be used to perform thrusting attacks and can never be thrown. A character hit by any part of a spear other than the 8 inch head takes no damage.
 
-**Two handed weapons**: Two handed weapons must be used with both hands at all times. If you lose the use of one arm (as from a Wither Limb effect), then you cannot wield the weapon at all.
+**Two-handed weapons**: Two-handed weapons must be used with both hands at all times. If you lose the use of one arm (as from a Wither Limb effect), then you cannot wield the weapon at all.
 
 ## Weapon Safety Checks
 
@@ -3338,17 +3323,17 @@ Some weapons can be strengthened to withstand two or more Destroy or Shatter spe
 
 Weapon combat is a large part of the NERO game. Because of NERO’s reliance on weapons, proper weapon construction is necessary to insure safe yet semi-realistic combat.
 
-The guidelines in this section cover making a boffer weapon and choosing a latex or other manufactured weapon for play in the NERO game.
+The guidelines in this section cover making a buffer weapon and choosing a latex or other manufactured weapon for play in the NERO game.
 
 ### Pre-made weapons
 
-There are a number of manufactured weapons that fall into the NERO guidelines for safety. If you purchase a pre-made weapon, it is your responsibility to determine the type of construction that was used. You must know what type of core the weapon has and what type of foam was used. Latex weapons are not required to have a thrusting tip, and may never be used for thrusting, stabbing or poking. Latex and boffer swords are available for sale and many can be used for NERO combat resolution. A current list of approved vendors and styles for latext weapons as well as latex weapon construction guidelines can be found online at www.nerolarp.com 
+There are a number of manufactured weapons that fall into the NERO guidelines for safety. If you purchase a pre-made weapon, it is your responsibility to determine the type of construction that was used. You must know what type of core the weapon has and what type of foam was used. Latex weapons are not required to have a thrusting tip, and may never be used for thrusting, stabbing or poking. Latex and buffer swords are available for sale and many can be used for NERO combat resolution. A current list of approved vendors and styles for latext weapons as well as latex weapon construction guidelines can be found online at <www.nerolarp.com>
 
 ### Make Your Own
 
-You may also choose to make your own boffer or latex foam weapons. Making a weapon can range from very simple to very hard depending on the materials you choose and the design of your weapon. The following sections walk through the construction of a very simple weapon, but also provide information about some advanced materials you can try later on. It is highly recommended that you build a simple weapon for you first attempt.
+You may also choose to make your own buffer or latex foam weapons. Making a weapon can range from very simple to very hard depending on the materials you choose and the design of your weapon. The following sections walk through the construction of a very simple weapon, but also provide information about some advanced materials you can try later on. It is highly recommended that you build a simple weapon for you first attempt.
 
-There are a number of weapons that fit within a medieval fantasy setting that are not mentioned here. NERO allows creativity in developing new weapons but all must be approved before use. Experimental weapon types must conform to the basic standards of safety. You should check with the marshals before and during construction so that you do not end up wasting time and materials on a weapon that will not be allowed in the game, even so it still may not pass in all NERO chapters. 
+There are a number of weapons that fit within a medieval fantasy setting that are not mentioned here. NERO allows creativity in developing new weapons but all must be approved before use. Experimental weapon types must conform to the basic standards of safety. You should check with the marshals before and during construction so that you do not end up wasting time and materials on a weapon that will not be allowed in the game, even so it still may not pass in all NERO chapters.
 
 ### Weapon Parts
 
@@ -3364,7 +3349,7 @@ This is the section of the weapon that is above the grip of the weapon. Blade/Sh
 
 #### Head
 
-Some weapons, such as a polearm, hammer, or spear, have an additional element(s) added to the weapon. The head(s) extend outwards from the shaft, must be a minimum of 6 inches in length along the shaft, must be made of open cell foam, and must be at least 1 inch thick or thicker. Each head can be a maximum of 2 cubic feet. The head must be positioned near the top of the weapon. 
+Some weapons, such as a polearm, hammer, or spear, have an additional element(s) added to the weapon. The head(s) extend outwards from the shaft, must be a minimum of 6 inches in length along the shaft, must be made of open cell foam, and must be at least 1 inch thick or thicker. Each head can be a maximum of 2 cubic feet. The head must be positioned near the top of the weapon.
 
 #### Crossguard
 
@@ -3414,7 +3399,7 @@ There are five main parts to all maces, axes and hammers: the pommel, grip, shaf
 
 ### Polearms/Spears
 
-There are five main parts to all polearms and spears: the pommel,grip, shaft, head and thrusting tip. The thrusting tip is often incorporated into the head of polearms in order to reduce the tendency for it to shear off on a swing, and the thrusting tip for a spear should be incorporated into the head of the spear. Spears may only be used for thrusting. Spears and polearms may both have a crossguard incorporated into the design. 
+There are five main parts to all polearms and spears: the pommel,grip, shaft, head and thrusting tip. The thrusting tip is often incorporated into the head of polearms in order to reduce the tendency for it to shear off on a swing, and the thrusting tip for a spear should be incorporated into the head of the spear. Spears may only be used for thrusting. Spears and polearms may both have a crossguard incorporated into the design.
 
 ### Staves
 
@@ -3422,7 +3407,7 @@ A staff is very simple to make, with whole of the core covered by foam, or you m
 
 ### Thrown Weapons
 
-Thrown rocks, throwing stars, thrown daggers, javelins and other thrown weapons may not contain a core of any sort. Rocks must be made of a 6”x 6”or larger piece of open cell foam, and can be covered with duct tape, kite tape or fabric. Throwing stars, daggers or axes may be made of closed cell foam with no core, and should be cut into the appropriate shape, with tips not less than 2” wide. All thrown weapons must be a minimum of 6” long and may be a maximum of 18” long. 
+Thrown rocks, throwing stars, thrown daggers, javelins and other thrown weapons may not contain a core of any sort. Rocks must be made of a 6”x 6”or larger piece of open cell foam, and can be covered with duct tape, kite tape or fabric. Throwing stars, daggers or axes may be made of closed cell foam with no core, and should be cut into the appropriate shape, with tips not less than 2” wide. All thrown weapons must be a minimum of 6” long and may be a maximum of 18” long.
 
 A javelin must be made of 3 feet of closed cell pipe foam with thrusting tips at both ends. A javelin may not include a core of any sort.
 
@@ -3430,7 +3415,7 @@ Thrown weapons may not be used in melee combat, they must be thrown. Since there
 
 ## Weapon Safety Guidelines
 
-Please see the NERO International Website www.nerolarp.com for the most updated information regarding weapon safety rules. There are several basic rules regarding weapon construction in NERO and they are as follows:
+Please see the NERO International Website <www.nerolarp.com> for the most updated information regarding weapon safety rules. There are several basic rules regarding weapon construction in NERO and they are as follows:
 
 - All weapons must all within the minimum and maximum length, grip and blade requirements for their weapon type.
 
@@ -3447,7 +3432,6 @@ Please see the NERO International Website www.nerolarp.com for the most updated 
 - All blade areas or areas of the weapon that may come in contact with another player must be protected with at least 5/8 inch weapons such as axes, hammers, maces, etc.
 
 - All weapons must be fairly rigid so as not to act as a whip when swung quickly. Under most circumstances, a weapon tip should not bend more than 6 inches from true when moderate force is applied to the tip and the grip is held level. Conversely, all weapons must also have some give to them when contact is made.
-
 
 ## Construction Materials
 
@@ -3478,7 +3462,6 @@ Ultralight cores include carbon fiber, kitespar tube, fiberglass tube, and wrapp
 
 - 0.745 inch: This core can be used for all two handed weapons. This type of core should not be used in weapons shorter than 54 inches.
 
-
 ### Closed Cell Foam
 
 This durable water resistant material is used in the construction of weapons in NERO. There are three types of closed cell foam that can be used for weapon construction: Pipe foam insulation, Pool Noodle, and Camp pad.
@@ -3497,10 +3480,9 @@ McMaster-Carr (a commercial tool company) and here is a list of part numbers:
 
 - Part #4530K163 is usable for .745” kite spar, 3/4” PVC.
 
-
 Pool noodle: Pool noodle is thicker than pipe insulation, and not all pool noodles fit PVC. You should bring measuring tape or a piece of pipe with you when you buy it.
 
-**Camp Pad:** This material is used to make more advanced, sculpted weapons. The average camp pad found in stores such as Walmart is 1/4” thick. To achieve the correct thickness you must laminate multiple pieces together with contact cement. Weapons made with this material are held up to more scrutiny. Visit www.nerolarp.com for specifications for sculpted weapons. You should not attempt to make your first weapon out of this material.
+**Camp Pad:** This material is used to make more advanced, sculpted weapons. The average camp pad found in stores such as Walmart is 1/4” thick. To achieve the correct thickness you must laminate multiple pieces together with contact cement. Weapons made with this material are held up to more scrutiny. Visit <www.nerolarp.com> for specifications for sculpted weapons. You should not attempt to make your first weapon out of this material.
 
 **Open Cell Foam:**This material is a less dense foam that is commonly used to stuff couches and pillows and is found in most fabric stores. This foam is used in the construction of thrusting tips, weapon heads and some thrown weapons. The foam should be easily squeezable and not too dense. Alternatively you can also use a car sponge found at hardware stores.
 
@@ -3529,7 +3511,7 @@ Weapon Dimensions
  Head : x”- x”
  Total Length : 34”- 58”
  Core Size PVC: 1/2" Ultralight x
- Grip 5” - 14” 
+ Grip 5” - 14”
 
 \---
 
@@ -3539,47 +3521,47 @@ Weapon Dimensions
  Head : x”- x”
  Total Length : 12”- 24”
  Core Size PVC: 1/2" Ultralight x
- Grip 1” - 8” 
+ Grip 1” - 8”
 
 \---
 
-**Arrow** Missle
+**Arrow** Missile
  Base Damage : 3
  Blade/Shaft : x” - x
  Head : x”- x”
  Total Length : 12”- ”
  Core Size PVC: x Ultralight x
- Grip x” - x” 
+ Grip x” - x”
 
 \---
 
-**Bolt** Missle
+**Bolt** Missile
  Base Damage : 3
  Blade/Shaft : x” - x
  Head : x”- x”
  Total Length : 12”- ”
  Core Size PVC: x Ultralight x
- Grip x” - x” 
+ Grip x” - x”
 
 \---
 
-**Javelin** Missle
+**Javelin** Missile
  Base Damage : 2
  Blade/Shaft : x” - x
  Head : x”- x”
  Total Length : 36”- 40”
  Core Size PVC: x Ultralight x
- Grip x” - x” 
+ Grip x” - x”
 
 \---
 
-**Throwing Dagger** Missle
+**Throwing Dagger** Missile
  Base Damage : 1
  Blade/Shaft : x” - x
  Head : x”- x”
  Total Length : 12”- 18”
  Core Size PVC: x Ultralight x
- Grip x” - x” 
+ Grip x” - x”
 
 \---
 
@@ -3589,7 +3571,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 12”- 26”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 6” 
+ Grip 1” - 6”
 
 \---
 
@@ -3599,7 +3581,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 12”- 26”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 6” 
+ Grip 1” - 6”
 
 \---
 
@@ -3609,7 +3591,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 12”- 26”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 6” 
+ Grip 1” - 6”
 
 \---
 
@@ -3619,7 +3601,7 @@ Weapon Dimensions
  Head : x”- x”
  Total Length : 12”- 26”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 6” 
+ Grip 1” - 6”
 
 \---
 
@@ -3629,7 +3611,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 27”- 34”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3639,7 +3621,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 27”- 34”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3649,7 +3631,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 27”- 34”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3659,7 +3641,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 27”- 34”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3669,7 +3651,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 35”- 46”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3679,7 +3661,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 35”- 46”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3689,7 +3671,7 @@ Weapon Dimensions
  Head : 6”- 18”
  Total Length : 35”- 46”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3699,7 +3681,7 @@ Weapon Dimensions
  Head : x”- x”
  Total Length : 35”- 46”
  Core Size PVC: 1/2" Ultralight .412,.505
- Grip 1” - 14” 
+ Grip 1” - 14”
 
 \---
 
@@ -3709,7 +3691,7 @@ Weapon Dimensions
  Head : 8”- 8”
  Total Length : 48”- 58”
  Core Size PVC: 3/4" Ultralight .505,.616
- Grip 1” - 30” 
+ Grip 1” - 30”
 
 \---
 
@@ -3719,7 +3701,7 @@ Weapon Dimensions
  Head : 44”- 18”
  Total Length : 60”- 72”
  Core Size PVC: 3/4" Ultralight 0.616
- Grip 1” - 36” 
+ Grip 1” - 36”
 
 \---
 
@@ -3729,7 +3711,7 @@ Weapon Dimensions
  Head : 32”- x”
  Total Length : 60”- 72”
  Core Size PVC: 3/4" Ultralight 0.616
- Grip 0” - 9” 
+ Grip 0” - 9”
 
 \---
 
@@ -3739,7 +3721,7 @@ Weapon Dimensions
  Head : 18”- 24”
  Total Length : 48”- 62”
  Core Size PVC: 3/4" Ultralight 0.616
- Grip 1” - 36” 
+ Grip 1” - 36”
 
 \---
 
@@ -3749,9 +3731,7 @@ Weapon Dimensions
  Head : x”- x”
  Total Length : 50”- 62”
  Core Size PVC: 3/4" Ultralight 0.616
- Grip 1” - 22” 
-
-
+ Grip 1” - 22”
 
 \---
 
@@ -3761,7 +3741,7 @@ Constructing a weapon requires time and patience, but it is not that hard once y
 
 In each of the steps, there will be a description of the materials and techniques.
 
-### Tools and materials:
+### Tools and materials
 
 Below is a list of tools and a list of materials you’ll need to make most weapons.
 
@@ -3787,7 +3767,6 @@ Below is a list of tools and a list of materials you’ll need to make most weap
 
 5. Carving knife
 
-
 ### 1. The core of the weapon
 
 After gathering your materials, the next step in creating a weapon is selecting an appropriate core for the type of weapon that you wish to make. You will need to do several things to prepare the core for weapon construction. First you will need to determine the length of the weapon that you wish make. Then you will have to cut the core approximately 3 inches shorter than the overall length of the weapon, 5 for weapons that require thrusting tips on both ends. This allows for padding both ends and the thrusting tip(s).
@@ -3804,7 +3783,7 @@ The next step is an optional step when creating a weapon though it is strongly e
 
 ### 4. Add a pommel
 
-The next step is to add a pommel at the end of the weapon. Cut a piece of closed cell foam so that is about 3 inches long. Place the foam on the butt end of the weapon so that the foam hangs at least one inch over the weapon’s core. As with the blade tip, place a half circle of compressed closed cell foam into the end of the foam and cover it with tape. Secure the pommel to the core with tape in such a way that at least one inch of closed cell foam extends past the core. Make sure that the pommel is secure to the core and is not loose. 
+The next step is to add a pommel at the end of the weapon. Cut a piece of closed cell foam so that is about 3 inches long. Place the foam on the butt end of the weapon so that the foam hangs at least one inch over the weapon’s core. As with the blade tip, place a half circle of compressed closed cell foam into the end of the foam and cover it with tape. Secure the pommel to the core with tape in such a way that at least one inch of closed cell foam extends past the core. Make sure that the pommel is secure to the core and is not loose.
 
 ### 6. Add a thrusting tip
 
@@ -3820,7 +3799,7 @@ The last step of the weapon making process is to cover the exposed grip with tap
 
 ### Maintaining Your NERO Weapon
 
-Any latex foam or boffer swords must be stored and maintained properly in order to remain safe. There are a few simple things you can do to increase the longevity of your weapon.
+Any latex foam or buffer swords must be stored and maintained properly in order to remain safe. There are a few simple things you can do to increase the longevity of your weapon.
 
 Do not store foam weapons in extreme heat or cold for any length of time. Storing it in your car in the sun may cause paints to stick, tape to wrinkle and general degradation of the weapon over time.
 
@@ -3828,7 +3807,7 @@ Avoid soaking weapons in water and do not use your weapons if they have become w
 
 Do not rest weapons on the tips, lean on the foam ends or otherwise mash the foam at the ends. The tip foam will break down leaving less padding on the core, which will lead to failure of weapons safety check.
 
-You may want to consider a fabric bag for individual latex weapons to keep their finish protected while in storage. 
+You may want to consider a fabric bag for individual latex weapons to keep their finish protected while in storage.
 
 ## Shields
 
@@ -3840,9 +3819,9 @@ Take care to attach the handle and strap in a manner that does not leave sharp b
 
 ## Potions
 
-The effects of potions and scrolls are the same as for a cast spell. 
+The effects of potions and scrolls are the same as for a cast spell.
 
-A scroll or potion physical representation is not valid unless it has an actual scroll or potion tag attached to the phys-rep. Likewise, a scroll or potion tag without a physical representation is also invalid. If you receive tags without physical representations (for example, after using your Production Points to create items), then it is your responsibility to provide the appropriate physical representation and make sure the tag is attached. All potion phys-reps must be large enough to hold, or appear to hold, at least a minimum of a quarter ounce of liquid. The phys-rep does not actually have to contain any liquid to be valid. 
+A scroll or potion physical representation is not valid unless it has an actual scroll or potion tag attached to the phys-rep. Likewise, a scroll or potion tag without a physical representation is also invalid. If you receive tags without physical representations (for example, after using your Production Points to create items), then it is your responsibility to provide the appropriate physical representation and make sure the tag is attached. All potion phys-reps must be large enough to hold, or appear to hold, at least a minimum of a quarter ounce of liquid. The phys-rep does not actually have to contain any liquid to be valid.
 
 When the potion is used, the “used” potion tag must be given to the recipient or a Marshal as appropriate. To use a potion, you must role-play the proper drinking motions, and this must take at least three seconds. You do not have to count it out loud.
 
@@ -3850,13 +3829,13 @@ A potion may be “force fed” to an unconscious or sleeping person by someone 
 
 ## Scrolls
 
-To use a scroll, you must pull out the scroll, hold it before you, have enough light to be able to read it, touch a spell packet to the scroll, actually read the scroll, and then throw the packet. If your scroll is attached to a weapon or shield, you may not be swinging it while reading the scroll. 
+To use a scroll, you must pull out the scroll, hold it before you, have enough light to be able to read it, touch a spell packet to the scroll, actually read the scroll, and then throw the packet. If your scroll is attached to a weapon or shield, you may not be swinging it while reading the scroll.
 
 After the scroll is used, the tag is removed but the paper remains. The magical writing is inert although anyone can tell what spell used to be on the scroll. You must have an actual scroll phys-rep for each scroll tag.
 
 All scroll phys-reps must be at least 16 square inches (For example, a scroll that is 2 inches tall by 8 inches long would be fine).
 
-## Alchemy 
+## Alchemy
 
 Players with the skill of Alchemy can create certain contact substances, elixirs and gases. These substance do not detect as magical by Detect Magic. Alchemical effects are not affected by Dispel Magic.
 
@@ -3874,7 +3853,7 @@ Characters can be affected by alchemical substances in many ways. The effects ar
 
 A chapter may, at their option, restrict the use of the following effects: Enslavement, Forget-It-Well , and Forget-Me-Not. The chapter may restrict these effects in one of two ways. They can choose these effects to be void and unusable in their chapter, or they may opt to allow their usage only against NPCs.
 
-Information on whether your local chapter uses the Mind Effect Restrictions rule, and which Game Effects this rule applies to will be available on the chapter’s Web site, and will also be announced at the Opening Ceremonies of all of their events. 
+Information on whether your local chapter uses the Mind Effect Restrictions rule, and which Game Effects this rule applies to will be available on the chapter’s Web site, and will also be announced at the Opening Ceremonies of all of their events.
 
 ## Types of Alchemical Substances
 
@@ -3900,7 +3879,7 @@ Vorpal Coatings add 5 points to the base damage of the weapon, for a set number 
 
 Damage should be called by adding 5 points to the weapon damage (with any other magical or skill bonuses also added, of course).
 
-A hit is used up only if the strike lands or it is negated by a defense, but cannot be saved up to use on later swings once applied; the damage increase is for the first 1, 3, or 5 hits depending on the coating used. 
+A hit is used up only if the strike lands or it is negated by a defense, but cannot be saved up to use on later swings once applied; the damage increase is for the first 1, 3, or 5 hits depending on the coating used.
 
 Applying a vorpal coating takes time to apply. It cannot be done with a quick touch in the middle of battle. The tag must be taped onto the weapon. The taping of the tag onto the weapon represents the time it takes, which may never be less than three seconds. If you do not have the tag taped to your weapon then the vorpal coating is not effective. A new tag must be put on the weapon each time a new vorpal coating is applied. Only one vorpal coating can be on a weapon at a time.
 
@@ -3967,15 +3946,13 @@ Level Contact :
  Duration: 5 Minutes
 ```
 
-#todo
-
-
+# todo
 
 \---
 
 Cause Damage
 
-Level Contact : 
+Level Contact :
  Level Elixer : 2
  Level Gas : 3
  Duration: Instant
@@ -4049,10 +4026,10 @@ This causes death immediately, see Table 2-2 on page 23. This elixir does not le
 Level Contact : 
  Level Elixer : 
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
-The victim of this poison will be enslaved to the person administering the poison and will obey absolutely any and all commands given by the person to whom they are enslaved, and will even commit suicide. Otherwise, it is has the same effects as a Charm spell. Enslavement can only be cured by a specific antidote. This effect is also removed if the character resurrects. This effect is stronger than Calm, Calm Animal, Charm, Charm Animal, Shun, shun animal, Control Undead, or Fear. See Table 5-6 on page 64. Please note that additional Enslavement effects will override another 
+The victim of this poison will be enslaved to the person administering the poison and will obey absolutely any and all commands given by the person to whom they are enslaved, and will even commit suicide. Otherwise, it is has the same effects as a Charm spell. Enslavement can only be cured by a specific antidote. This effect is also removed if the character resurrects. This effect is stronger than Calm, Calm Animal, Charm, Charm Animal, Shun, shun animal, Control Undead, or Fear. See Table 5-6 on page 64. Please note that additional Enslavement effects will override another
 
 Enslavement effect, see “Charm Effects” on page 47.
 
@@ -4060,14 +4037,13 @@ Enslavement is a powerful ability which particularly has the potential to ruin t
 
 No other effect (either LCO or otherwise) may duplicate the ability of Enslavement.
 
-In addition, the following rules apply to Enslavement: 
+In addition, the following rules apply to Enslavement:
 
 - You cannot administer Enslavement to yourself.
 
 - You cannot be enslaved to “act normally,” However a person under the effects of enslavement does not act like a robot or strangely, they are just compelled to follow the wishes of the enslaver.
 
 - The duration of Enslavement is permanent, and it can only be cured by the specific antidote or the resurrection of the target.
-
 
 **Enslavement Antidote**
 
@@ -4097,12 +4073,10 @@ Forget-it-Well
 Level Contact : 
  Level Elixer : 10
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This poison will cause the victim to forget everything that happened within the last hour. This amnesia becomes permanent if not cured within ten minutes by a Purify Bl ood spell or the appropriate antidote. A Killing Blow within the ten minutes will not reverse the memory loss effect of this poison, and neither will resurrection, but if the victim’s body dissipates before the 10 minute period has elapsed, then the poison will be negated and the memories restored. Forget-it poisons, like all poisons, may never be used on a creature that is dead.
-
- 
 
 \---
 
@@ -4112,12 +4086,10 @@ This poison will cause the victim to forget everything that happened within the 
 Level Contact : 
  Level Elixer : 7
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 This alchemical substance will cause the victim to lose memory of the last 15 minutes. In every other way it acts the same as a Forget-it-Well .
-
- 
 
 \---
 
@@ -4132,8 +4104,6 @@ Level Contact :
 
 This alchemical substance causes the victim to hallucinate. They will see pink elephants and other strange things for 5 minutes. The victim will probably be aware that they are under the effects of a poison but will be unable to do much about it. When under its effects, game skills can be used, but the player will most likely use them against imaginary creatures.
 
- 
-
 \---
 
 **Intoxicant**
@@ -4146,8 +4116,6 @@ Level Contact :
 ```
 
 This acts as a strong alcoholic drink. It will render the victim quite drunk for 1 hour.
-
- 
 
 \---
 
@@ -4162,8 +4130,6 @@ Level Contact : 1
 
 This substance will allow a glow stick or other light physical representation to be used in game as per the Illumination spell. It cannot be applied to a tree or other object to make it glow; it can only be used on a phys-rep that gives off light. Please note that Alchemy 1 is required to activate a Liquid Light, but not to hold, or otherwise use one, once it has been activated.
 
- 
-
 \---
 
 Nausea
@@ -4177,8 +4143,6 @@ Level Contact :
 
 This elixir will cause the victim to be nauseous for five minutes, during which time no in game skills can be used.
 
- 
-
 \---
 
 Oil of Slipperiness
@@ -4190,9 +4154,7 @@ Level Contact : 5
  Duration: 1 Hour
 ```
 
-This is a contact oil that will last for one hour once exposed to air. If put on an item, the oil will make the item impossible to pick up. It could also be placed on the ground (if enough were used) to prevent anyone from standing in the area. You would not be able to even crawl out of the area unless you could grab a hold onto something or someone outside of the area to pull free. One dose will cover an object up to one square foot in area. It can be counteracted by an Alchemical Solvent or a Paste of Stickiness . 
-
- 
+This is a contact oil that will last for one hour once exposed to air. If put on an item, the oil will make the item impossible to pick up. It could also be placed on the ground (if enough were used) to prevent anyone from standing in the area. You would not be able to even crawl out of the area unless you could grab a hold onto something or someone outside of the area to pull free. One dose will cover an object up to one square foot in area. It can be counteracted by an Alchemical Solvent or a Paste of Stickiness .
 
 \---
 
@@ -4207,8 +4169,6 @@ Level Contact :
 
 This poison is identical to a Paralyze spell.
 
- 
-
 \---
 
 Paranoia
@@ -4222,8 +4182,6 @@ Level Contact :
 
 This causes the victim to think that people he or she normally dislikes are out to kill them. It lasts one hour.
 
- 
-
 \---
 
 Paste of Stickiness
@@ -4236,8 +4194,6 @@ Level Contact : 5
 ```
 
 It can also be used to pin people to the ground if enough is available. Note that this paste will have no effect in combat as it takes three seconds to set; thus you cannot put it on your shield or sword to “capture” enemy weapons. It can be counteracted by an Alchemical Solvent, an Oil of Slipperiness , or a Release spell.
-
- 
 
 \---
 
@@ -4286,12 +4242,10 @@ This poison will cause the victim to lose balance and be unable to remain standi
 Level Contact : 1
  Level Elixer : 
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.
-
- 
 
 \---
 
@@ -4301,21 +4255,19 @@ Putting this contact gel on a weapon makes the weapon do 5 extra points of damag
 Level Contact : 3
  Level Elixer : 
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
 ```
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.
-
- 
 
 \---
 
 **Vorpal Coating 5**
 
 Level Contact : 5
- Level Elixer : 
- Level Gas : 
- Duration: Indefinate
+ Level Elixer :
+ Level Gas :
+ Duration: Indefinite
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating
 
@@ -4335,7 +4287,7 @@ Many people are more comfortable creating a character that is more like themselv
 
 Please remember to be considerate of the other players. Abusing other characters could be going too far, even if it makes sense for your character concept. Remember that even if an action is “in character” you, as the player, bear full responsibility for the effects it has on the other players. After all, you created your character in the first place. Be sure to read “Code of Conduct” on page 100 for more guidelines.
 
-This concept also applies to such things as character insanity (temporary or otherwise) as an excuse for crimes. If you feel your character would snap for some reason, feel free to do so; however, you must be willing to have your character face the consequences or be able to fast-talk your way out of the situation. 
+This concept also applies to such things as character insanity (temporary or otherwise) as an excuse for crimes. If you feel your character would snap for some reason, feel free to do so; however, you must be willing to have your character face the consequences or be able to fast-talk your way out of the situation.
 
 The atmosphere of our game depends on the players staying in character. This means talking and thinking only as your character would. Avoid discussions of modern day events and topics. If your character cannot read, then do not read anything. If your character has never seen the local nobility, then you shouldn’t recognize them. Do what your character would do. With everyone doing their best to support the atmosphere, you will be surprised at how easy it becomes to stay in your character persona with just a bit of initial effort.
 
@@ -4357,7 +4309,7 @@ The atmosphere of our game depends on the players staying in character. This mea
 
 ### Costumes
 
-A costume is an easy way to help you establish the personality of your character and to stay “in character.” Once you look the part, it doesn’t take much to become the part. You can create a simple costume for very little money, and can slowly add to it until you have a costume of which you can be proud. 
+A costume is an easy way to help you establish the personality of your character and to stay “in character.” Once you look the part, it doesn’t take much to become the part. You can create a simple costume for very little money, and can slowly add to it until you have a costume of which you can be proud.
 
 Your costume need not be elaborate. A simple tabard or tunic with a pair of pants (even sweatpants) or a long skirt will be enough to help you play the role. A long shirt belted around the waist works fine. The selection of costume pieces also helps you to define your character’s likes and dislikes.
 
@@ -4365,7 +4317,7 @@ Your costume should be practical as well as adding to the atmosphere. Make sure 
 
 Washable fabrics are best as your costume will see some heavy use. Try to avoid any obvious anachronisms such as zippers, Velcro, jeans, baseball caps, printed t-shirts, watches, and sneakers. Eyeglasses are all right (and have in fact been around since the 13th century).
 
-Minimum Costuming Requirements: You must make at least an attempt at a costume. If other players see you walking around dressed in jeans and a t-shirt, wearing a baseball cap and carrying a sword, they will probably assume you are not in-game and will ignore you. Marshals will warn you and tell you that you are not in-game. Quite often, there are merchants at NERO events who will sell pre-made costumes or custom-make costumes for you. Please do not use crosses, pentacles, and other similar religious symbols. NERO tries not to insult anyone’s religious beliefs and we do not wish to do so accidentally. Personal religious symbols are acceptable, but should not be displayed. 
+Minimum Costuming Requirements: You must make at least an attempt at a costume. If other players see you walking around dressed in jeans and a t-shirt, wearing a baseball cap and carrying a sword, they will probably assume you are not in-game and will ignore you. Marshals will warn you and tell you that you are not in-game. Quite often, there are merchants at NERO events who will sell pre-made costumes or custom-make costumes for you. Please do not use crosses, pentacles, and other similar religious symbols. NERO tries not to insult anyone’s religious beliefs and we do not wish to do so accidentally. Personal religious symbols are acceptable, but should not be displayed.
 
 ### Disguises
 
@@ -4373,7 +4325,7 @@ You are not allowed to disguise your character using any sort of makeup to chang
 
 After all, if the world of Tyrra really existed and there really were Elves and Orcs and Hoblings, you would be able to easily distinguish between a real Dark Elf and someone disguised as a Dark Elf wearing fake ears and face paint.
 
-Certain distinguishing characteristics of a race can never be changed. If you are a Barbarian, you must dress in furs and leathers and talk in a barbaric fashion. If you are a Biata, you can’t shave off your eyebrows. If you are a Gadabari, you must speak with a Gadabari accent. 
+Certain distinguishing characteristics of a race can never be changed. If you are a Barbarian, you must dress in furs and leathers and talk in a barbaric fashion. If you are a Biata, you can’t shave off your eyebrows. If you are a Gadabari, you must speak with a Gadabari accent.
 
 You are allowed to disguise yourself in limited ways — for example, an Elf can wear a hat to hide his ears or a Drae can wear a hood to cover her face. You can wear a mask over your face, provided it is a Zorro-type of mask and not a monster mask.
 
@@ -4389,7 +4341,7 @@ In fantasy games, magic exists, and can have devastating effects. You should tre
 
 ### Playing Fair
 
-The NERO® Game System© relies on honesty, and as such, a dishonest player will find it a simple matter to cheat. NERO has set out to design a game that can work without constant supervision. This can be a great asset in terms of ease of play and flexibility, but it has a trade-off in potential abuse. If you cheat, other players will find out eventually, and then no one will want to interact with you. If you do not count hits against you, then soon those you face will stop counting your hits against them. 
+The NERO® Game System© relies on honesty, and as such, a dishonest player will find it a simple matter to cheat. NERO has set out to design a game that can work without constant supervision. This can be a great asset in terms of ease of play and flexibility, but it has a trade-off in potential abuse. If you cheat, other players will find out eventually, and then no one will want to interact with you. If you do not count hits against you, then soon those you face will stop counting your hits against them.
 
 When word of a cheater’s actions gets back to NERO—and it will—then we will remove the offending player from the game, pending investigation. If someone seems to have extraordinary powers, or you suspect they are confused about their skills or are cheating then you should calmly approach a marshal with your concerns at a later time.
 
@@ -4437,11 +4389,11 @@ To figure out the NERO year, simply remove the first two digits of the current m
 
 ### Discrimination
 
-What NERO is attempting to do is create the days of legend as we would have liked them to be, not as they really were. That means our culture is considerably more egalitarian than a real medieval society. No discrimination is allowed against players in a NERO game. You cannot be denied a position as a noble, a member of the army or any other NERO-sponsored group on the basis of race, religion, gender, age, sexual orientation, or country of origin. However, this does not mean that the world of NERO is an egalitarian paradise. There are countries and people who do discriminate in-game. 
+What NERO is attempting to do is create the days of legend as we would have liked them to be, not as they really were. That means our culture is considerably more egalitarian than a real medieval society. No discrimination is allowed against players in a NERO game. You cannot be denied a position as a noble, a member of the army or any other NERO-sponsored group on the basis of race, religion, gender, age, sexual orientation, or country of origin. However, this does not mean that the world of NERO is an egalitarian paradise. There are countries and people who do discriminate in-game.
 
 Although you the player are not allowed to discriminate, your character can discriminate on the in-game basis of matters of players’ choice.
 
-For example, Kildor the fighter hates all dwarves. He thinks they are the lowest form of life (no pun intended) and he kills them whenever he gets the chance. Players who have dwarven characters that are killed by him cannot claim that they are being discriminated against because they chose to play dwarf characters. 
+For example, Kildor the fighter hates all dwarves. He thinks they are the lowest form of life (no pun intended) and he kills them whenever he gets the chance. Players who have dwarven characters that are killed by him cannot claim that they are being discriminated against because they chose to play dwarf characters.
 
 It is very important that all players try to distinguish between in-game prejudices and out-of-game prejudices. It is better to steer clear of the issue altogether if possible.
 
@@ -4455,7 +4407,7 @@ Consider NERO’s science to be right at the verge of the renaissance, on the ta
 
 ### Magic
 
-Although magicians, can perform all sorts of amazing feats, we have to limit them because of real world difficulties. For example, we do not have an invisibility spell because it is almost impossible to pretend you “don’t see” someone. We also have no flying spells, growing spells, polymorph spells or any other unusual spells that cannot be performed or easily imagined out-of-game. 
+Although magicians, can perform all sorts of amazing feats, we have to limit them because of real world difficulties. For example, we do not have an invisibility spell because it is almost impossible to pretend you “don’t see” someone. We also have no flying spells, growing spells, polymorph spells or any other unusual spells that cannot be performed or easily imagined out-of-game.
 
 We once had a Scry spell (now available in very limited quantities as an Interplanar Conduit formal magic) which was removed for its unplayability—we could not answer questions that the spell would have been able to answer (“Where did I put my hat?” “Where will the Baron be tomorrow at 2 p.m.?” “Who in town is thinking about killing me?”)
 
@@ -4491,7 +4443,7 @@ Foreign and racial in-game languages exist in NERO but you must actually learn t
 
 ## The Society of NERO
 
-NERO games take place on the planet known as “Tyrra” in most languages. Coincidentally, it is a planet not unlike Earth in climate and topography! NERO is trying to create and represent a fantasy world, based primarily on medieval Europe. This is not to say that your character should be limited by this; you may choose to play a character based on medieval China or ancient Egypt. 
+NERO games take place on the planet known as “Tyrra” in most languages. Coincidentally, it is a planet not unlike Earth in climate and topography! NERO is trying to create and represent a fantasy world, based primarily on medieval Europe. This is not to say that your character should be limited by this; you may choose to play a character based on medieval China or ancient Egypt.
 
 ### Government
 
@@ -4539,7 +4491,7 @@ These are the children of the King and Queen who are not designated heirs (usual
 
 ### Duke/Duchess
 
-This is a title of nobility inherited or granted by the King that earns respect and sovereignty over a portion of the King’s lands (which can then be divided among Counts and/or Barons). They are addressed as Your Grace. 
+This is a title of nobility inherited or granted by the King that earns respect and sovereignty over a portion of the King’s lands (which can then be divided among Counts and/or Barons). They are addressed as Your Grace.
 
 ### Count/Countess
 
@@ -4587,7 +4539,7 @@ A guard is a person granted the right to uphold the laws and distribute settleme
 
 ### Merchant
 
-A merchant is an upper class or wealthy commoner who may or may not be respected or paid attention to by the lower ranking nobles and Knights, but who would command the respect of the other commoners. Often they can be minor land owners if this is granted by their liege. They are addressed as Good Merchant, or M’ Lord or M’Lady. 
+A merchant is an upper class or wealthy commoner who may or may not be respected or paid attention to by the lower ranking nobles and Knights, but who would command the respect of the other commoners. Often they can be minor land owners if this is granted by their liege. They are addressed as Good Merchant, or M’ Lord or M’Lady.
 
 ### Common Townsfolk
 
@@ -4615,45 +4567,45 @@ Thieves are commoners unless someone has granted them a title of some sort. (We�
 
 Nobility carries with it power and responsibility. Beside showing respect to those who are above you in the feudal hierarchy, you must also obey them. Commoners owe respect to nobles because nobles protect them from marauding monsters, ensure that there is a flowing economy, strengthen the land’s ties with the throne, and generally maintain a status quo which keeps the citizenry a few steps away from anarchy. Because of all this hard work, if a noble gives a commoner an order, that person is obligated to obey it. Although there is no Oath of Fealty, the relation is implied because of what the noble does for the commoner.
 
-Does that mean that the nobles have free reign over the commoners? Of course not. A noble who orders commoners to perform manual labor or pushes them about for no reason places himself or herself at risk of losing his or her title. The noble’s lieges are obligated to investigate any charges of wrongdoing by the nobility even if reported to them by a commoner. 
+Does that mean that the nobles have free reign over the commoners? Of course not. A noble who orders commoners to perform manual labor or pushes them about for no reason places himself or herself at risk of losing his or her title. The noble’s lieges are obligated to investigate any charges of wrongdoing by the nobility even if reported to them by a commoner.
 
-In some ways, squires fit into the same category as commoners except that they have sworn an Oath of Fealty to a noble. That squire’s oath is also sworn to any person the noble has an oath to as well. Therefore, if Squire Michael swears an oath to Dame Linda, he has implied oaths to Linda’s liege, Baroness Jora, and to her liege, Duke Padsworth. And of course, all oaths are sworn to the King or Queen. 
+In some ways, squires fit into the same category as commoners except that they have sworn an Oath of Fealty to a noble. That squire’s oath is also sworn to any person the noble has an oath to as well. Therefore, if Squire Michael swears an oath to Dame Linda, he has implied oaths to Linda’s liege, Baroness Jora, and to her liege, Duke Padsworth. And of course, all oaths are sworn to the King or Queen.
 
-If someone higher than you on the chain of command gives you an order, you are required to obey it, provided that the order is not contradictory to orders already issued you by your liege. Suppose Michael becomes a knight in Baroness Jora’s court. 
+If someone higher than you on the chain of command gives you an order, you are required to obey it, provided that the order is not contradictory to orders already issued you by your liege. Suppose Michael becomes a knight in Baroness Jora’s court.
 
-If Baron Higgin comes along and gives Michael an order, does he have to obey it? Yes, but only if it is not contradictory to a previous order given by his liege Baroness Jora. This can be somewhat confusing and does present the same problems posed by nobles ordering commoners around, but it is also self-correcting in the same fashion. 
+If Baron Higgin comes along and gives Michael an order, does he have to obey it? Yes, but only if it is not contradictory to a previous order given by his liege Baroness Jora. This can be somewhat confusing and does present the same problems posed by nobles ordering commoners around, but it is also self-correcting in the same fashion.
 
 If Baron Higgin orders Sir Michael to accompany him on a rescue mission, Michael must obey. If Baroness Jora had previously ordered him to await the arrival of a visiting dignitary then he could refuse to follow Baron Higgin’s orders explaining, of course, that his liege had already given him an important task. If Baroness Jora had given him no specific task, then he would have to obey.
 
-If Baron Higgin had ordered Sir Michael to kill a commoner standing nearby, he would also have to obey. Although no explanation was given, and this seems like a heinous crime, the knight would be required to follow the command. 
+If Baron Higgin had ordered Sir Michael to kill a commoner standing nearby, he would also have to obey. Although no explanation was given, and this seems like a heinous crime, the knight would be required to follow the command.
 
 Suppose the commoner was really an evil doppelganger. Baron Higgin’s quick thinking would have saved the day. Had the knight argued with the Baron, the villain might have been able to escape.
 
 By ordering someone to do something, a noble takes a great risk. If a noble gives an order, then that noble takes full responsibility for the results of that order.
 
-In the example above, if the commoner proved to be nothing more than an ordinary citizen, Baron Higgin would be guilty of murder even though he himself did not perform the action, and Sir Michael would be found innocent. Baron Higgin would certainly lose his title and be subjected to the laws of the region as well. 
+In the example above, if the commoner proved to be nothing more than an ordinary citizen, Baron Higgin would be guilty of murder even though he himself did not perform the action, and Sir Michael would be found innocent. Baron Higgin would certainly lose his title and be subjected to the laws of the region as well.
 
-Nobles understand that the power to command others must be used very carefully. Much thought must be given before issuing an order. This is why most nobles will not issue orders to those outside of their immediate court. 
+Nobles understand that the power to command others must be used very carefully. Much thought must be given before issuing an order. This is why most nobles will not issue orders to those outside of their immediate court.
 
-A good example of this chain of command can be found in the modern day army of nearly any country in the world. A private who is a member of Company D must still obey orders given to him or her from a sergeant from Company B. It is assumed that this power will not be abused or misused. While it’s true that noble courts are not military organizations, they operate using a chain of command structure upon which modern day conventions are based. 
+A good example of this chain of command can be found in the modern day army of nearly any country in the world. A private who is a member of Company D must still obey orders given to him or her from a sergeant from Company B. It is assumed that this power will not be abused or misused. While it’s true that noble courts are not military organizations, they operate using a chain of command structure upon which modern day conventions are based.
 
 This also applies to dispensing justice. Not every nobleperson can act as judge and jury in every instance. Generally speaking, you may only dispense justice upon those who are under you in the chain of command. A knight can only decide cases that result from actions taken on his or her lands. Visiting nobles should always defer to the owner or administrator of the local lands. This overlaps a bit of course: a knight’s lands are also the lands of all of the knight’s lieges.
 
 Any person of any rank giving orders or dispensing justice among the commoners must be certain beforehand that their superiors would agree with both their reasoning and the severity of the punishment. If they indiscriminately or falsely submit a commoner to punishment then their superiors should see to it that they receive punishment equal to that enacted against the person in question.
 
-There are consequences for every action. 
+There are consequences for every action.
 
-To summarize, all commoners must obey nobles of any rank. 
+To summarize, all commoners must obey nobles of any rank.
 
 Nobles must obey the orders of nobles of a higher rank than themselves provided those orders are not contradictory to the ones given them by their liege lord. It is incumbent on nobles to watch those under them to make sure this is not abused. In addition, nobles may dispense justice for crimes committed on their lands only.
 
 ### General Courtesy
 
-For the most part, showing respect for someone of a higher rank than yourself is very similar to showing respect for persons of importance in modern society. The average person on the street would not be able to walk in and start chatting with the President any more than your character should be able to chat with the King. Just like in modern society, in order to speak with any important person, you have to run through a lot of red tape. 
+For the most part, showing respect for someone of a higher rank than yourself is very similar to showing respect for persons of importance in modern society. The average person on the street would not be able to walk in and start chatting with the President any more than your character should be able to chat with the King. Just like in modern society, in order to speak with any important person, you have to run through a lot of red tape.
 
-For example: Say Amilio the Stout wanted an audience with the King because he thought the monsters just outside of his town were killing more than their fair share of townsfolk every Saturday night. 
+For example: Say Amilio the Stout wanted an audience with the King because he thought the monsters just outside of his town were killing more than their fair share of townsfolk every Saturday night.
 
-He would, if following proper channels, take the case to a local Baronial guard or to the Baronial Seneschal if one was available. If neither of these were available to listen to the problem, he could even try approaching one of the Baronial knights who may be willing to listen. Should our hero’s pleas still go ignored or his request to speak to the King not considered important, he might consider taking his case to the local mage or healers’ guild representative to plea his case for him. They might command more attention. That person would approach the Baron and request the Baron to listen to Amilio’s problem. If the Baron listens, he may then elect to 
+He would, if following proper channels, take the case to a local Baronial guard or to the Baronial Seneschal if one was available. If neither of these were available to listen to the problem, he could even try approaching one of the Baronial knights who may be willing to listen. Should our hero’s please still go ignored or his request to speak to the King not considered important, he might consider taking his case to the local mage or healers’ guild representative to plea his case for him. They might command more attention. That person would approach the Baron and request the Baron to listen to Amilio’s problem. If the Baron listens, he may then elect to
 
 1. solve the problem himself;
 
@@ -4662,7 +4614,6 @@ He would, if following proper channels, take the case to a local Baronial guard 
 3. decide that the problem is better left alone for now and thank Amilio for his concern; or
 
 4. petition for an audience with his liege (probably a Count or Duke) on behalf of Amilio.
-
 
 If Amilio is the reasonable sort who speaks politely (and nicely), the Baron may recommend that Amilio present his case himself. At this point, Amilio may find himself talking to his Count (who may go through the same decision process) or may find himself with an audience with the Duke himself.
 

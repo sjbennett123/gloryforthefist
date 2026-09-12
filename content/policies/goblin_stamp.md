@@ -1,110 +1,62 @@
 ---
-title: "POLAR Goblin  Stamp  Policy"
-
+title: "POLAR Goblin Stamp Policy"
 ---
 
 ## POLAR GOBLIN STAMP POLICY - AWARDS
 
-BOARD OF DIRECTORS – 325 GS / MONTH
+- Board of Directors — 325 GS / month
+- General Manager — 400 GS / month
+- Plot Committee — 250 GS / month
+- Event Director — 500 GS / month
+- Head Marshal — 250 GS / month
+- Logistics — 200 GS / event
+- Character Records — 200 GS / event
+- Website — 200 GS / month
+- Trailer — 200 GS / month
+- Site Marshal — 200 GS / event
+- Safety Marshal — 200 GS / month
+- Marketing / Recruitment — 200 GS / month
+- Tavern — 250 GS / event
+- Staff Medic — 200 GS / month
+- Full Marshal — 50 GS / game day
+- Formal Marshal — 50 GS / game day
+- Medical Marshal — 50 GS / game day
+- Bring a New Player — 200 GS / new player
+- NPC — 100 GS / game day
+- Event Survey — 50 GS / survey
+- Weapon Repair — 20 GS / weapon
+- Convention Volunteer — 50 GS / hour
+- Post-Event Photo — 5 GS / photo
+- Post-Event Video — 50 GS / video
+- Write an Event Blog — 50 GS / approved website
 
-GENERAL MANAGER – 400 GS / MONTH
+## POLAR GOBLIN STAMP POLICY - DONATIONS
 
-PLOT COMMITTEE – 250 GS / MONTH
-
-EVENT DIRECTOR – 500 GS / MONTH
-
-HEAD MARSHAL – 250 GS / MONTH
-
-LOGISTICS – 200 GS / EVENT
-
-CHARACTER RECORDS – 200 GS / EVENT
-
-WEB SITE – 200 GS / MONTH
-
-TRAILER – 200 GS / MONTH
-
-SITE MARSHAL – 200 GS / EVENT
-
-SAFETY MARSHAL – 200 GS / MONTH
-
-MARKETING / RECRUITMENT – 200 GS / MONTH
-
-TAVERN – 250 GS / EVENT
-
-STAFF MEDIC – 200 GS / MONTH
-
-FULL MARSHAL – 50 GS / GAME DAY
-
-FORMAL MARSHAL – 50 GS / GAME DAY
-
-MEDICAL MARSHAL – 50 GS / GAME DAY
-
-BRING A NEW PLAYER – 200 GS / NEW PLAYER
-
-NPC – 100 GS / GAME DAY
-
-EVENT SURVEY – 50 GS / SURVEY
-
-WEAPON REPAIR – 20 GS / PER WEAPON
-
-CONVENTION VOLUNTEER – 50 GS / HOUR
-
-POST EVENT PHOTO – 5 GS / PHOTO
-
-POST EVENT VIDEO – 50 GS / VIDEO
-
-WRITE AN EVENT BLOG – 50 GS – APPROVED WEB SITE
-
-POLAR GOBLIN STAMP POLICY - DONATIONS
-
-DONATION – 2 SPELL PACKETS – 1 GS
-
-DONATION – ONE–HANDED PVC WEAPON – 30 GS
-
-DONATION – TWO–HANDED PVC WEAPON – 50 GS
-
-DONATION – SHIELD – 75 GS
-
-DONATION – ONE-HANDED ULTRA LIGHT WEAPON – 150 GS
-
-DONATION – TWO-HANDED ULTRA LIGHT WEAPON – 250 GS
-
-DONATION – ARMOR, SINGLE PIECE – 75 GS
-
-DONATION – ARMOR, FULL SUIT – 300 GS
-
-DONATION – MASK – 20 GS
-
-DONATION – MAKEUP – SMALL CONTAINER, LOW QUALITY – 15 GS
-
-DONATION – MAKEUP – LARGE CONTAINER, HIGH QUALITY – 75 GS
-
-DONATION – HAND PROP – 50 GS
-
-DONATION – SET PROP – 50 GS
-
-DONATION – THEATRICAL EFFECT – 100 GS
-
-DONATION – COSTUME PIECE – 50 GS
-
-DONATION – FULL COSTUME – 150 GS
-
-DONATION – CANNED FOOD – 10 GS
+- Donation — 2 spell packets — 1 GS
+- Donation — one-handed PVC weapon — 30 GS
+- Donation — two-handed PVC weapon — 50 GS
+- Donation — shield — 75 GS
+- Donation — one-handed ultra-light weapon — 150 GS
+- Donation — two-handed ultra-light weapon — 250 GS
+- Donation — armor, single piece — 75 GS
+- Donation — armor, full suit — 300 GS
+- Donation — mask — 20 GS
+- Donation — makeup — small container, low quality — 15 GS
+- Donation — makeup — large container, high quality — 75 GS
+- Donation — hand prop — 50 GS
+- Donation — set prop — 50 GS
+- Donation — theatrical effect — 100 GS
+- Donation — costume piece — 50 GS
+- Donation — full costume — 150 GS
+- Donation — canned food — 10 GS
 
 ## POLAR GOBLIN STAMP POLICY - PURCHASES
 
-PURCHASE CANTRIP PAGE – 15 – GS / PAGE
-
-PURCHASE FORMAL SCROLL – (1YR, 1 CHARGE) – 50 GS + 20 GS/LEVEL OF SCROLL
-
-PURCHASE FORMAL COMPONENT – (STRENGTH 1) – 25 GS / COMPONENT
-
-PURCHASE PRODUCTION ITEM – (PER PRODUCTION LEVEL) – 2 GS
-
-PURCHASE DEATH – (AFTER THE FIRST 2 DEATHS) - 100 GS
-
-PURCHASE COIN / EVALUATE ITEM – (PER SILVER PIECE VALUE) – 1 GS / SILVER PIECE VALUE
-
-PURCHASE MAGIC ITEM – (1 YEAR, INDESTRUCTIBALE - UP TO 3 EFFECT) – 200 GS / EFFECT
-
-PURCHASE XP BLANKET – (4 GOBLIN STAMP BLANKETS PER MONTH) - 50 GS / BLANKET
+- Purchase Cantrip Page — 15 GS / page
+- Purchase Formal Scroll — (1 year, 1 charge) — 50 GS + 20 GS / level of scroll
+- Purchase Formal Component — (strength 1) — 25 GS / component
+- Purchase Production Item — (per production level) — 2 GS
+- Purchase Death — (after the first two deaths) — 100 GS
+- Purchase Coin / Evaluate Item — (per silver piece value) — 1 GS / silver piece value
+- Purchase Magic Item — (1 year, indestructible, up to 3 effects) — 200 GS / effect
+- Purchase XP Blanket — (4 Goblin Stamp blankets per month) — 50 GS / blanket

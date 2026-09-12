@@ -1,20 +1,21 @@
 ---
+
 title: "NERO Formal Magic"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-Welcome to the NERO® Formal Magic System©. The system may be modified from time to time by NERO International. Suggestions for modifications to these rules should be directed to NERO International at jvalenti@nerolarp.com with “NERO FORMAL MAGIC” as the subject. These rules may not be modified in any way by the NERO chapters, nor can any game effects change the way these rules work. Local chapters may not alter the mechanics of any of the rules contained in this rulebook. This includes “weekend” effects as well as “area-specific” effects. None of these types of effects are ever allowed under any circumstances. Scrolls may not contain modifications or flaws of any kind, except to make the scroll unable to be copied or destructible. The scrolls listed here may not be changed in any way. If used, they must be used exactly as written. Urgent questions and interpretations of these rules will be left to the local Formal Magic marshal. Any questions, interpretations, and local rulings should be brought to the attention of NERO International, which serves as final arbitrator of these rules. NERO International will not overturn decisions made by the local Formal Magic Marshal unless it is absolutely necessary, although wording may be added to the system to negate any confusion in the future.
+Welcome to the NERO® Formal Magic System©. The system may be modified from time to time by NERO International. Suggestions for modifications to these rules should be directed to NERO International at <jvalenti@nerolarp.com> with “NERO FORMAL MAGIC” as the subject. These rules may not be modified in any way by the NERO chapters, nor can any game effects change the way these rules work. Local chapters may not alter the mechanics of any of the rules contained in this rulebook. This includes “weekend” effects as well as “area-specific” effects. None of these types of effects are ever allowed under any circumstances. Scrolls may not contain modifications or flaws of any kind, except to make the scroll unable to be copied or destructible. The scrolls listed here may not be changed in any way. If used, they must be used exactly as written. Urgent questions and interpretations of these rules will be left to the local Formal Magic marshal. Any questions, interpretations, and local rulings should be brought to the attention of NERO International, which serves as final arbitrator of these rules. NERO International will not overturn decisions made by the local Formal Magic Marshal unless it is absolutely necessary, although wording may be added to the system to negate any confusion in the future.
 
 ## Definition of Basic Terms
 
 The following is a definition of terms used throughout this document:
 
-**Affinity**: When a transform(not curse of transformation) is cast cast on a spirit it leaves a mark called an “Affinity”. The affinity is specific to the transform creature of the scroll cast and level of the scroll.
+**Affinity**: When a transform (not a curse of transformation) is cast on a spirit, it leaves a mark called an “Affinity.” The affinity is specific to the transformed creature, the scroll cast, and the level of the scroll.
 
-The duration is permanent, and will remain even after the transform that left it has expired.
+The duration is permanent and will remain even after the transform that left it has expired.
 
-Affinities are needed to upgrade Transforms, once you have a 7th lvl affinity you can upgrade to an 8th, even if your 7th level transform has expired. Once you have a 8th lvl you can cast a 7th 8th or 9th lvl of the appropriate creature.
+Affinities are needed to upgrade transforms. Once you have a 7th-level affinity, you can upgrade to an 8th, even if your 7th-level transform has expired. Once you have an 8th-level affinity, you can cast a 7th-, 8th-, or 9th-level transform of the appropriate creature.
 
 It does not count against a character’s spirit effect limit.
 
@@ -30,35 +31,35 @@ The existence of an Affinity is not revealed during a Celestial IDENTIFY. Plot m
 
 **Secondary Caster**: This term refers to those Formal Magic Casters (other than the Primary Caster) who are participating in a batch.
 
-**Levels**: This always refers to the number of levels of Formal Magic possessed in the appropriate school. For instance, if a character is casting a Celestial Formal Magic, then only count the number of levels of Celestial Formal Magic he has purchased. 
+**Levels**: This always refers to the number of levels of Formal Magic possessed in the appropriate school. For instance, if a character is casting a Celestial Formal Magic, then only count the number of levels of Celestial Formal Magic he has purchased.
 
-**Dark Territory**: This term refers to a formal magic that might not succeed. The outcome is determined by the Marshal using random means, usually the role of one ten sided die(1=success, 2-5=flaw, 6-9=fail, 10=backlash).
+**Dark Territory**: This term refers to formal magic that might not succeed. The outcome is determined by the Marshal using random means, usually the roll of one ten-sided die (1 = success, 2–5 = flaw, 6–9 = fail, 10 = backlash).
 
-The chosen means of random determination must be explained to the caster and performed in the presence of the caster. “Pick a number” is never acceptable. The marshal must record the chosen means (and the outome) in the Formal Magic Log.
+The chosen means of random determination must be explained to the caster and performed in the presence of the caster. “Pick a number” is never acceptable. The marshal must record the chosen means (and the outcome) in the Formal Magic Log.
 
-**Batch**: A group of formal magic castings of the same school of magic are lumped together into a single “Batch” so long as there is a gap no longer than a 60 seconds between each casting attempted. If more than 60 seconds elapses between formal magic castings within a batch, then the batch is finished. The formal magic Glyph of Protection can only be the first formal magic in a batch.
+**Batch**: A group of formal magic castings of the same school of magic are lumped together into a single “Batch” so long as there is a gap no longer than 60 seconds between each casting attempted. If more than 60 seconds elapses between formal magic castings within a batch, then the batch is finished. The formal magic Glyph of Protection can only be the first formal magic in a batch.
 
 If the caster has cast other formal magic within the same batch, all formal magic attempted by that caster within that batch will count in the same game day – the game day in which the batch is begun.
 
-**Circle**: This term refers to the representation used for the formal magic casting. 
+**Circle**: This term refers to the representation used for the formal magic casting.
 
-**Extended Circle of Power**: A circle created by the Create Protective Circle or Create Extended Circle of Power formal magic. 
+**Extended Circle of Power**: A circle created by the Create Protective Circle or Create Extended Circle of Power formal magic.
 
 **Components**: This term refers to the Formal Magic Components being used for this formal magic casting. Components come in various “flavors”: Power (P), Creation (C), Elemental (E), Time (T), Void (V), Destruction (D), and Spirit (S). Each component has a value of 1, 2 or 4. Formal Magic costs are listed with the total value of each type of needed component.
 
-For example, P5 means any combination of Power components totaling a value of 5. One spell, Greater Extension, specifically requires a Power component of value 2 or 4 in addition to other components. Components expire no longer than 2 years after the issue date. If there is no printed expiration date then the expiration date is assumed to be one year. 
+For example, P5 means any combination of Power components totaling a value of 5. One spell, Greater Extension, specifically requires a Power component of value 2 or 4 in addition to other components. Components expire no longer than 2 years after the issue date. If there is no printed expiration date then the expiration date is assumed to be one year.
 
-**Scroll**: This is the Formal Magic Scroll being used for this casting. 
+**Scroll**: This is the Formal Magic Scroll being used for this casting.
 
 **Spell**: This term always refers to a magic spell of the appropriate school, level one through level nine.
 
-**Weapon**: This refers to any item on the weapon production chart, including Bow or Crossbow, but not including Arrows or Bolts. 
+**Weapon**: This refers to any item on the weapon production chart, including Bow or Crossbow, but not including Arrows or Bolts.
 
 **Unrestricted**: This term refers to an item that was placed into game according to the Treasure Distribution Policy issued by NERO. Magic items are also given this classification if they are constructed using only components, scrolls, and production items of Unrestricted classification.
 
-**Local Chapter Only (LCO**) : This is a special Plot related item that can only be used in the issuing chapter. To all other chapters, the item does not exist for use in-game. These items are not intended to be used to alter the rules or create effects that are outside the system.
+**Local Chapter Only (LCO)**: This is a special plot-related item that can only be used in the issuing chapter. To all other chapters, the item does not exist for use in-game. These items are not intended to be used to alter the rules or create effects that are outside the system.
 
-**Pyramid**: This term is used to describe formal magic castings that accumulate power based upon multiple castings within a batch. The scrolls Damage Aura, Protection Aura, and Spell Store are examples of this type of formal magic. The first step requires only a single casting, the next step requires two additional castings (for a total of three castings). To go further, three additional castings are needed (for a total of six castings), with the last step involving four additional castings (total of ten castings). These types of formal magic can never go past ten castings (four steps), and some may be limited below that number. Each step counts as one effect with regard to the 5 formal magic effect limit. 
+**Pyramid**: This term is used to describe formal magic castings that accumulate power based upon multiple castings within a batch. The scrolls Damage Aura, Protection Aura, and Spell Store are examples of this type of formal magic. The first step requires only a single casting, the next step requires two additional castings (for a total of three castings). To go further, three additional castings are needed (for a total of six castings), with the last step involving four additional castings (total of ten castings). These types of formal magic can never go past ten castings (four steps), and some may be limited below that number. Each step counts as one effect with regard to the 5 formal magic effect limit.
 
 **Healing Effects**: Effects that, if cast normally, include the word “Earth” in the incantation.
 
@@ -68,7 +69,7 @@ For example, P5 means any combination of Power components totaling a value of 5.
 
 ### Scroll-Specific
 
-A formal magic designated as scroll-specific means that the scroll is limited to a single specific type of that formal magic; it is never all the possible choices on a single scroll. For example, the formal magic Cloak is scrollspecific - the scroll will list the specific type of Cloak that it can be used to create; it may not be used to cast any type of Cloak not listed on the scroll.
+A formal magic designated as scroll-specific means that the scroll is limited to a single specific type of that formal magic; it is never all the possible choices on a single scroll. For example, the formal magic Cloak is scroll-specific—the scroll will list the specific type of Cloak that it can be used to create; it may not be used to cast any type of Cloak not listed on the scroll.
 
 ### Transform
 
@@ -76,7 +77,7 @@ This term refers to a category of formal magic that only affects a spirit after 
 
 All Transform formal magic is considered dormant. The existence of a Transform is not revealed during a Celestial Identify. At the time of the target’s permanent death, the target becomes an NPC at the chapter where the transform was cast. Even after permanent death, certain Transforms can upgrade or weaken the creature. See the individual formal magic scrolls for details. After the permanent death of the target, the formal magic takes effect to permanently transform the target into the specified creature. This may take place immediately, or may take several weeks. The details are left to local NERO Plot. Once transformed into the creature, the Transform formal magic is complete. The newly transformed creature will have the currently-active spirit-affecting formal magics as they did before the transformation, except for the Transform itself.
 
-Effects exist which may for limited duration invoke the full transformation prior to permanent death. Circumstances which may temporarily invoke the transformation prior to permanent death are determined exclusively by the Plot/Staff of the local NERO chapter. In situations where the transformation takes place prior to the permanent death, the Transform is no longer dormant, and can be Identified in an appropriate Extended Circle of Power. The invocation of the transformation is generally not for use during situations where PCs are directly pitted against other PCs. The final determination of this is up to the local chapter. 
+Effects exist which may for limited duration invoke the full transformation prior to permanent death. Circumstances which may temporarily invoke the transformation prior to permanent death are determined exclusively by the Plot/Staff of the local NERO chapter. In situations where the transformation takes place prior to the permanent death, the Transform is no longer dormant, and can be Identified in an appropriate Extended Circle of Power. The invocation of the transformation is generally not for use during situations where PCs are directly pitted against other PCs. The final determination of this is up to the local chapter.
 
 Only one Transform may be in effect on any spirit at any one time. A new Transform formal magic will replace an old one on a target spirit. This includes Local Chapter Only Transform formal magic.
 
@@ -88,17 +89,15 @@ Local Plot must be notified well before the casting of this type of formal magic
 
 When the creature appears a new card will be supplied, regardless of the statistics of the creature when it originally appeared.
 
-The caster may be required to supply an NPC to play the part of the creature or the local chapter may supply the NPC. This policy varies from chapter to chapter; please
-
-check in advance with the local chapter. The local chapter can always substitute a staff member or other NPC for some or all of the role-playing interaction with the creature. 
+The caster may be required to supply an NPC to play the part of the creature, or the local chapter may supply the NPC. This policy varies from chapter to chapter; please check in advance with the local chapter. The local chapter can always substitute a staff member or other NPC for some or all of the role-playing interaction with the creature.
 
 When this formal magic is performed, the marshal should consult the local guidelines for information on the attitudes and personality of the creature. The NPC playing the creature must abide by the personality requirements and directives given to them by the formal magic marshal. Failure to do so may result in the termination of the role and loss of the creature.
 
-Unintelligent creatures will only follow simple 25 word (or shorter) command phrases with a single condition and a single objective. For example, an acceptable command would be “Follow me and kill anyone who attacks me”, “Attack anyone who enters this room besides these six people”, “Attack anyone who enters the crypt and isn’t wearing this symbol”, or “Follow me and search every creature I kill”. Control of unintelligent creatures can never be passed to someone else. All commands are subject to the approval of the local chapter. NERO International is currently compiling a complete list of acceptable commands; please send all suggestions via email to jvalenti@nerolarp.com with “NERO FORMAL MAGIC SUGGESTION” as the subject.
+Unintelligent creatures will only follow simple 25 word (or shorter) command phrases with a single condition and a single objective. For example, an acceptable command would be “Follow me and kill anyone who attacks me”, “Attack anyone who enters this room besides these six people”, “Attack anyone who enters the crypt and isn’t wearing this symbol”, or “Follow me and search every creature I kill”. Control of unintelligent creatures can never be passed to someone else. All commands are subject to the approval of the local chapter. NERO International is currently compiling a complete list of acceptable commands; please send all suggestions via email to <jvalenti@nerolarp.com> with “NERO FORMAL MAGIC SUGGESTION” as the subject.
 
 Intelligent creatures are not automatically controlled. They may be friendly or may simply attack. Negotiations may take place between the caster and the created or summoned intelligent creature.
 
-A creature created or summoned in one NERO chapter might be prohibited from being taken to another chapter. If the creature can be taken to another chapter, the monster card used will be the monster card of the similar creature at the destination chapter. 
+A creature created or summoned in one NERO chapter might be prohibited from being taken to another chapter. If the creature can be taken to another chapter, the monster card used will be the monster card of the similar creature at the destination chapter.
 
 Approved types of Summonings may be added to at local staff discretion.
 
@@ -118,9 +117,9 @@ The formal magic will create a golem and place a willing spirit and associated b
 
 In addition to the components, this formal magic requires silver pieces equal to the number of body points divided by ten (round up), which will be incorporated into the body of the golem and is retrievable when the golem is destroyed. On occasion, some or all of the silver will be useless and irretrievable.
 
-A golem will always be unaffected by Life and Death, and will be considered “Dead” as soon as it reaches zero body points or receives a killing blow, even if it can normally be healed. If this occurs, any spirit and body that inhabit a Golem will seek resurrection. 
+A golem will always be unaffected by Life and Death, and will be considered “Dead” as soon as it reaches zero body points or receives a killing blow, even if it can normally be healed. If this occurs, any spirit and body that inhabit a Golem will seek resurrection.
 
-When this formal magic expires, the spirit and body will emerge without the occurrence of a death. The body will retain any battle magics that were cast upon the golem, and exhibit wounds identical to the golem’s (i.e., if the golem had a Shield Magic spell and was down by 15 points, the person has a Shield Magic spell and is down by 15 body). The person will have at least one body point. 
+When this formal magic expires, the spirit and body will emerge without the occurrence of a death. The body will retain any battle magics that were cast upon the golem, and exhibit wounds identical to the golem’s (i.e., if the golem had a Shield Magic spell and was down by 15 points, the person has a Shield Magic spell and is down by 15 body). The person will have at least one body point.
 
 If Destroy Celestial Magic is successfully cast on the golem, the spirit and body will emerge without the occurrence of a death in a similar condition as described above.
 
@@ -128,11 +127,7 @@ If Destroy Celestial Magic is successfully cast on the golem, the spirit and bod
 
 Anyone who possesses the skill Celestial Formal Magic or Earth Formal Magic may cast from formal magic scrolls of the appropriate school.
 
-Formal Magic Scrolls are Indestructible unless a specific Flaw states otherwise. TT The caster(s), Formal Magic Components, Formal Magic Scroll(s), and the target of
-
-the formal magic must be within a specially scribed representation on the ground. This representation must be drawn in the shape of a circle with a V. see Figure 1-1. This is known as a “fishtail,” and is not protective in any way. The representation must also contain sigils, runes, or other symbols, fetishes, implements or
-
-props to indicate that a powerful magic is going to be cast. This representation is often also termed a “Circle.”
+Formal Magic Scrolls are indestructible unless a specific flaw states otherwise. The caster(s), Formal Magic components, Formal Magic scroll(s), and the target of the formal magic must all be within a specially scribed representation on the ground. This representation must be drawn in the shape of a circle with a V; see Figure 1-1. This is known as a “fishtail,” and is not protective in any way. The representation must also contain sigils, runes, or other symbols, fetishes, implements, or props to indicate that a powerful magic is going to be cast. This representation is often also termed a “Circle.”
 
 No Formal Magic may have a duration of longer than two years with the exception of Transforms.
 
@@ -140,7 +135,7 @@ Durations measured in-game-days are considered to include the current game-day o
 
 ### Casting Time
 
-The standard time to cast any formal magic is five minutes. However, if a formal magic is directly harmful to a PC the casting time is one hour, though the PC may opt to allow the normal five minute casting time if they inform the marshal at beginning of the formal. This option does not apply to the Obliterate formal magic or formal magic that does not target the PC’s personal items or spirit. The decision to choose this option is wholly out of game and is not subject to any in-game coercion, review, or planning. The hour casting time is automatic upon the desire of anyone in the Circle or the Marshal. ‘Harmful’ includes destroying a ward or circle, placing a formal magic circle around a ward, using a formal magic to escape PC pursuit, etc. If the formal magic is directly harmful to an NPC the casting time is determined by the appropriate representatives of the chapter and may vary between five minutes and one hour.
+The standard time to cast any formal magic is five minutes. However, if a formal magic is directly harmful to a PC, the casting time is one hour, though the PC may opt to allow the normal five-minute casting time if they inform the marshal at the beginning of the formal magic. This option does not apply to the Obliterate formal magic or formal magic that does not target the PC’s personal items or spirit. The decision to choose this option is wholly out of game and is not subject to any in-game coercion, review, or planning. The hour casting time is automatic upon the desire of anyone in the Circle or the Marshal. “Harmful” includes destroying a ward or circle, placing a formal magic circle around a ward, using a formal magic to escape PC pursuit, etc. If the formal magic is directly harmful to an NPC, the casting time is determined by the appropriate representatives of the chapter and may vary between five minutes and one hour.
 
 ### Game Day
 
@@ -168,7 +163,7 @@ All formal magic castings must be performed within an appropriate representation
 
 ### Success versus Failure
 
-The caster may cast a total number of levels of formal magic they possess in the appropriate school with automatic success in any one game day. A caster may cast an additional number of formal magic levels equal to the total levels of formal magic they possess in the appropriate school of magic in Dark Territory. A caster cannot cast beyond Dark Territory. A caster cannot even attempt to cast from a scroll that is higher level than the number of levels of Formal Magic skill he possesses in the appropriate school. 
+The caster may cast a total number of levels of formal magic they possess in the appropriate school with automatic success in any one game day. A caster may cast an additional number of formal magic levels equal to the total levels of formal magic they possess in the appropriate school of magic in Dark Territory. A caster cannot cast beyond Dark Territory. A caster cannot even attempt to cast from a scroll that is higher level than the number of levels of Formal Magic skill he possesses in the appropriate school.
 
 ### Multiple Spells Cast on a Target
 
@@ -200,7 +195,7 @@ Hex may in no way affect the casting of formal magic.
 
 ### Flaw and Backlash Effects
 
-Flaws and Backlashes are identifiable in an extended celestial circle and, in most cases, lingering effects are removable by a Destroy Magic formal magic of the appropriate school. 
+Flaws and Backlashes are identifiable in an extended celestial circle and, in most cases, lingering effects are removable by a Destroy Magic formal magic of the appropriate school.
 
 ### Pre-Event Formal Magic Use
 
@@ -254,17 +249,17 @@ The caster is responsible for locating the marshal. Some chapters provide a list
 
 #### A. Determine Transferability
 
-Prior to the actual start of the formal magic any players involved should be informed by the marshal if the resulting item will be of any other category besides “Unrestricted” and why. This requires an advanced examination of all materials involved in all of the formal magic castings. Since magic item categories are mostly due to out of game issues, the intent of this rule is to ensure customer satisfaction. In order to have Unrestricted transferability, all components, scrolls, and effects used must be Unrestricted. No effect that alters these rules may be in effect. If these conditions are not met the item or effect created will automatically be Local Chapter Only. 
+Prior to the actual start of the formal magic any players involved should be informed by the marshal if the resulting item will be of any other category besides “Unrestricted” and why. This requires an advanced examination of all materials involved in all of the formal magic castings. Since magic item categories are mostly due to out of game issues, the intent of this rule is to ensure customer satisfaction. In order to have Unrestricted transferability, all components, scrolls, and effects used must be Unrestricted. No effect that alters these rules may be in effect. If these conditions are not met the item or effect created will automatically be Local Chapter Only.
 
 #### B. Validate Components
 
 Identify the components to make sure they are correctly marked, if necessary. Insufficient components will result in the marshal stating “The Formal Magic does not begin”. If this occurs, the components are not consumed. If the spell is part of a declared batch, the marshal will notify the player that the components are insufficient before the batch begins. (Inform the player later, during step D)
 
-#### C. Validate Scroll:
+#### C. Validate Scroll
 
 Read the Formal Magic Scroll. Make sure that there is a complete understanding of the scroll, and follow any special instructions on the scroll. If the scroll is Unlimited and only usable once each day, verify on the back of the scroll (or the back of the tag) that the scroll hasn’t been used today. If the physical representation of the scroll varies from the current version, then the current version must be used. The only flaws allowed upon a formal magic scroll are “Flaw: this scroll cannot be copied” or “Flaw: this scroll is destructible”.
 
-## During the Casting of the Formal Magic 
+## During the Casting of the Formal Magic
 
 #### D. Beginning Formal Magic
 
@@ -276,25 +271,25 @@ The caster must declare the target(s) of the formal magic. The target, if a spir
 
 #### F. Act out Casting
 
-The Caster(s) must indicate to any casual, secret, or imagined observers that they are performing a formal magic. This must be accomplished through various role-play methods, like constant movement or verbal action or a combination of both. The exact amount of role-play or activity is left up to local plot/rules. The movement can be as simple as constant, circular hand motion or as complicated as broad movements or the hands and/or arms, dancing movements of the entire body, or stylized movements suchas drawing of symbols or lighting candles or incense. Verbal action would include litany speech, question and reply, chanting, or recitation in a “magical language”. The caster may not engage in regular conversation. 
+The Caster(s) must indicate to any casual, secret, or imagined observers that they are performing a formal magic. This must be accomplished through various role-play methods, like constant movement or verbal action or a combination of both. The exact amount of role-play or activity is left up to local plot/rules. The movement can be as simple as constant, circular hand motion or as complicated as broad movements of the hands and/or arms, dancing movements of the entire body, or stylized movements such as drawing symbols or lighting candles or incense. Verbal action would include litany speech, question and reply, chanting, or recitation in a “magical language.” The caster may not engage in regular conversation.
 
 Any method chosen by the caster must make use of the components and the scroll.
 
 Poor performance on the role-playing aspect of the formal magic casting will cause the marshal to issue a warning. After receiving two such warnings, the third occurrence of poor performance will result in automatic failure of the formal magic.
 
-#### G. Monitor for Backlash:
+#### G. Monitor for Backlash
 
 The formal magic automatically backlashes under the following conditions:
 
 ·     Any caster is struck with a ranged attack, Disrupted, takes body damage or becomes unconscious.
 
-·     If any caster cannot speak, move their hands, or easily be in a position from which they could see the formal magic scroll even if they are not currently looking at it. 
+·     If any caster cannot speak, move their hands, or easily be in a position from which they could see the formal magic scroll even if they are not currently looking at it.
 
-·     If any caster uses any other game skill other than those required by the formal magic scroll, Read/Write,,Wear Extra Armor, or Dexterity Armor.
+·     If any caster uses any other game skill other than those required by the formal magic scroll, Read/Write, Wear Extra Armor, or Dexterity Armor.
 
-·     If any caster ceases casting the formal magic, voluntarily or involuntarily. 
+·     If any caster ceases casting the formal magic, voluntarily or involuntarily.
 
-·     The formal magic components, formal magic scroll, or any target is damaged (Shattered, Destroyed, affected by an Explosive Trap, or numerical damage), destroyed, dies, becomes unusable, or leaves the fishtail.Anything that leaves the circle is always affected by the backlash as if it were still inside the circle.
+·     The formal magic components, formal magic scroll, or any target is damaged (shattered, destroyed, affected by an Explosive Trap, or numerical damage), destroyed, dies, becomes unusable, or leaves the fishtail. Anything that leaves the circle is always affected by the backlash as if it were still inside the circle.
 
 #### H. Determine the Outcome
 
@@ -312,7 +307,7 @@ If the formal magic casting is completed, the Caster must roll the die if requir
 
 I. Casting Completes
 
-At this time, the Marshal should: 
+At this time, the Marshal should:
 
 • Collect all components that were expended in the casting.
 
@@ -320,53 +315,48 @@ At this time, the Marshal should:
 
 • Indicate the casting of this formal magic
 
-
-
- 
-
 # Formal Magic Cantrips
 
-For a player to cast a Cantrip he/she must have the skill Earth Formal Magic or Celestial Formal Magic. A player may cast one Cantrip of their school of magic per day for each level of formal magic they possess. The full list of Cantrips, their effects, and components costs is available at www.nerolarp.com.
+For a player to cast a Cantrip, he or she must have the skill Earth Formal Magic or Celestial Formal Magic. A player may cast one Cantrip of their school of magic per day for each level of formal magic they possess. The full list of Cantrips, their effects, and component costs is available at <www.nerolarp.com>.
 
 ### Cantrip Tome
 
-In order to cast a Cantrip the player must be carrying a Cantrip tome which contains the Cantrip they wish to cast. Cantrip tomes are in-game objects that must be acquired in-game. The phys-rep for a Cantrip tome must be at least 6” x 4”. The tome is governed by the rules defined in th enchant cantrip tome Cantrip. 
+In order to cast a Cantrip, the player must be carrying a Cantrip tome that contains the Cantrip they wish to cast. Cantrip tomes are in-game objects that must be acquired in-game. The phys-rep for a Cantrip tome must be at least 6” x 4”. The tome is governed by the rules defined in the enchant cantrip tome Cantrip.
 
 ### Cantrip Pages
 
-In addition to Cantrip tomes, there are also Cantrip pages. Cantrip pages function like Cantrip tomes but are of one use only and will only contain a single Cantrip. A Cantrip Page must be the same size as a celestial scroll. To cast from a Cantrip Page, the caster must read and touch a packet to the Page. 
+In addition to Cantrip tomes, there are also Cantrip pages. Cantrip pages function like Cantrip tomes but are for one use only and will contain a single Cantrip. A Cantrip Page must be the same size as a celestial scroll. To cast from a Cantrip Page, the caster must read and touch a packet to the Page.
 
-### Casting 
+### Casting
 
-To cast a Cantrip the player must say the proper incant for the Cantrip and physically break or tear the number of level one components designated for that particular Cantrip (0, 1, or 2) to gain the power for the Cantrip. When casting a Cantrip with 0 component cost there need not be a “tearing” motion. Breaking or tearing a single level two component will power a Cantrip which takes 2 components or two Cantrips which take 1 component cast one immediately after another. Breaking or tearing a level four component will power two Cantrips which take 2 components or four Cantrips which take 1 component cast one immediately after the other.  The components must be broken or torn within 10 seconds of finishing the incant. The components used for a Cantrip may only be unrestricted NERO components or local to the chapter in which the Cantrip is being cast. The components must be identifiable by the chapter which they are used in at the time of the casting, and they may not be SR components. Components are to be turned into a marshal after the casting of any Cantrip. The components will be checked at this time. 
+To cast a Cantrip, the player must say the proper incant for the Cantrip and physically break or tear the number of level-one components designated for that particular Cantrip (0, 1, or 2) to gain the power for the Cantrip. When casting a Cantrip with 0 component cost, there need not be a “tearing” motion. Breaking or tearing a single level-two component will power a Cantrip that takes 2 components, or two Cantrips that take 1 component each, cast one immediately after another. Breaking or tearing a level-four component will power two Cantrips that take 2 components each, or four Cantrips that take 1 component each, cast one immediately after the other. The components must be broken or torn within 10 seconds of finishing the incant. The components used for a Cantrip may only be unrestricted NERO components or local to the chapter in which the Cantrip is being cast. The components must be identifiable by the chapter in which they are used at the time of the casting, and they may not be SR components. Components are to be turned into a marshal after the casting of any Cantrip. The components will be checked at this time.
 
-Cantrips are cast on the fly for any Cantrip in the carried tome(s). Cantrips do not require a fishtail to cast. Cantrips are never thrown at an opponent in the manner of battle magic, but they may allow the caster to throw a packet or series of packets with a defined effect (e.g.10 elemental fire”). Casting a Cantrip is subject to Spell Disruption. No other skill or item may be used from the point when the incant is started till the point when the components are snapped or torn or the Cantrip will fail and the components are still consumed.
+Cantrips are cast on the fly for any Cantrip in the carried tome(s). Cantrips do not require a fishtail to cast. Cantrips are never thrown at an opponent in the manner of battle magic, but they may allow the caster to throw a packet or series of packets with a defined effect (e.g., “10 elemental fire”). Casting a Cantrip is subject to Spell Disruption. No other skill or item may be used from the point when the incant is started until the point when the components are snapped or torn, or the Cantrip will fail and the components are still consumed.
 
-A Cantrip may never be extended in any manner or placed into an item in the manner of an enchantment, expanded enchantment, etc. A Cantrip or the effect of a Cantrip may never be spellstored.
+A Cantrip may never be extended in any manner or placed into an item in the manner of an enchantment, expanded enchantment, etc. A Cantrip, or the effect of a Cantrip, may never be spellstored.
 
-The statement “dies and requires a life spell” refers to any time the character is dead whether they receive a life spell or not, resurrect, regenerate, revives through a manner other than a life spell, or is not affected by life.
+The statement “dies and requires a life spell” refers to any time the character is dead whether they receive a life spell or not, resurrect, regenerate, revive through a manner other than a life spell, or is not affected by life.
 
-There are five types of Cantrip: 
+There are five types of Cantrip:
 
-1. **Personal**: These Cantrips cause an effect upon the caster of the Cantrip. They may not be placed on another nor may they be transferred. For the effect of a personal Cantrip to remain the PC must retain the skill Formal Magic <school>. If they lose the skill in any manner the Cantrip will cease functioning. If they still possess the skill but may not use e.g. are tainted or drained they do not lose any Cantrips upon them. In addition they must retain the Cantrip Tome with the Cantrip they placed upon themselves. Losing possession of the Tome even to allow another to cast a Cantrip from the tome will negate any current personal Cantrips. 
-2. **Item**: These Cantrips are only cast on an item with no spirit. 
-3. **Spirit**: These Cantrips are only cast on a recipient with a spirit. They may not be thrown but must be touch cast in a NERO legal manner by being touched with a packet. If the target is not willing, the Cantrip fails. 
-4. **Broad**: These Cantrips affect a broad category in the estate/military system of NERO and are usually never used in play during an event. On occasion plot may define specific uses of these Cantrips during actual play such as weakening a building under siege with Weaken Defense but they may NEVER directly affect PCs or NPCs in play. 
-5. **Offensive**: These Cantrips give the caster the ability to directly attack opponents andt hus their effect would be stopped by the appropriate normal spell defenses.
+1. **Personal**: These Cantrips cause an effect upon the caster of the Cantrip. They may not be placed on another nor may they be transferred. For the effect of a personal Cantrip to remain, the PC must retain the skill Formal Magic <school>. If they lose the skill in any manner, the Cantrip will cease functioning. If they still possess the skill but may not use it, e.g., are tainted or drained, they do not lose any Cantrips upon them. In addition, they must retain the Cantrip Tome with the Cantrip they placed upon themselves. Losing possession of the Tome, even to allow another to cast a Cantrip from the tome, will negate any current personal Cantrips.
+2. **Item**: These Cantrips are only cast on an item with no spirit.
+3. **Spirit**: These Cantrips are only cast on a recipient with a spirit. They may not be thrown but must be touch-cast in a NERO-legal manner by being touched with a packet. If the target is not willing, the Cantrip fails.
+4. **Broad**: These Cantrips affect a broad category in the estate/military system of NERO and are usually never used in play during an event. On occasion, plot may define specific uses of these Cantrips during actual play, such as weakening a building under siege with Weaken Defense, but they may NEVER directly affect PCs or NPCs in play.
+5. **Offensive**: These Cantrips give the caster the ability to directly attack opponents, and thus their effect would be stopped by the appropriate normal spell defenses.
 
 Cantrips may have the following durations:
 
-**Hour**: One Hour 
+**Hour**: One hour.
 
-**Day**:  One Day, until the next Standard Reset or game end. whichever occurs first 
+**Day**: One day, until the next standard reset or game end, whichever occurs first.
 
-**Instant**: Immediate and not lasting, the effect on another may last.
+**Instant**: Immediate and not lasting; the effect on another may last.
 
 **Year**: Until removed by in-game methods or 1 year passes.
 
 **Concentration**: The caster must maintain concentration to keep this Cantrip going.
 
-**Invoked**: When an invoked Cantrip is cast the caster will receive 5 charges of the effectin the appropriate school of formal magic. Using the effect uses one charge. An effect can be used against a single opponent for a maximum of 5 minutes or line of sight. All unused charges expire at the next tag reset. Multiple charges may be used against multiple opponents at the same time. The caster must state “I Invoke <Cantrip name> against you” to the opponent it is being used against so that the opponent can hear it. This is an in-game statement and will not work if the Caster is silenced.
+**Invoked**: When an invoked Cantrip is cast, the caster will receive 5 charges of the effect in the appropriate school of formal magic. Using the effect uses one charge. An effect can be used against a single opponent for a maximum of 5 minutes or line of sight. All unused charges expire at the next tag reset. Multiple charges may be used against multiple opponents at the same time. The caster must state “I Invoke <Cantrip name> against you” to the opponent it is being used against so that the opponent can hear it. This is an in-game statement and will not work if the caster is silenced.
 
-**2 Year**: Until removed by in-game methods or 2 years passes. Unless otherwise indicated, the effect of any Cantrip with the duration of Day is lost if the target requires a life spell.
-
+**2 Year**: Until removed by in-game methods or 2 years pass. Unless otherwise indicated, the effect of any Cantrip with the duration of Day is lost if the target requires a life spell.
