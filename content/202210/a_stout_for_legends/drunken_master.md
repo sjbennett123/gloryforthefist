@@ -1,11 +1,10 @@
 ---
+
 title: Drunken Master
 ---
 
+The brewery has been ransacked by orcs, and the orcs are drunk.
 
-
-The brewery has been ransacked b orcs and they are hammered
-
-Stagger when walking
-Slow attacks
-Upset that they are bothered. 
+Stagger while walking.
+Make slow attacks.
+Upset that they have been disturbed.

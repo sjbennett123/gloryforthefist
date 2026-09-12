@@ -8,14 +8,9 @@ schedule: friday
 
 author: Chris Colland
 reviewer: Scott Bennett
-description: "The Chosen one of Morumbria begins having terrible dreams."
-hook: Targeted to the one who is chosen by the Morumbrians. The youngest player that seems like they would enjoy being focus of the extra dimensional manhunt that the Morumbrians are on.
+description: "The chosen one of Morumbria begins having terrible dreams."
+hook: "Targeted at the one chosen by the Morumbrians: the youngest player who seems like they would enjoy being the focus of the extra-dimensional manhunt the Morumbrians are conducting."
 synopsis: >
   Every night for the past few weeks you have been troubled by terrible dreams. When you wake up you are covered in sweat and cannot shake a feeling of doom.
 
-
-
 ---
-
-
-
