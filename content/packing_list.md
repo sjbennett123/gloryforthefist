@@ -1,4 +1,5 @@
 ---
+
 title: What Should I Bring To The Event?
 ---
 
@@ -8,7 +9,7 @@ Here is a list of useful items to bring to your first (and subsequent) NERO even
 
 **Armor** - Chain, leather, arm/leg guards, coifs.
 
-**Weapons** - NERO-safe weapons, extra duct tape and parts to make weapons - many break! 
+**Weapons** - NERO-safe weapons, extra duct tape and parts to make weapons - many break!
 
 **Spell packets** - Cloth (orange for gasses), birdseed, elastics, extra packets (white with NPC written on them) for NPC camp.
 
@@ -27,5 +28,3 @@ Here is a list of useful items to bring to your first (and subsequent) NERO even
 **Resources** - Rulebook, players guides, website information, newsletters.
 
 **Extras** - Firewood, food, props, items your character might use, traps, gifts, garbage bags.
-
- 

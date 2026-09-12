@@ -14,13 +14,16 @@ include_toc: true
 
 **Approved By**: Joseph Valenti
 
-**Objective**: The objective of this playtest is to improve the effectiveness of the Arcane effect type by eliminating any defenses to the delivery type.
+**Objective**: The objective of this playtest is to improve the effectiveness of the Arcane effect type by eliminating any defenses against the delivery type.
 
 **Summary**: The following changes to the Arcane delivery type are proposed:
-P.87 of the Rulebook under Effect Types:
-Arcane: Effects delivered this way are created from raw energies. They are not blocked by any defenses. The same casting rules apply as spells, except you do not need the ability to speak.
-P.88 of the Rulebook, Table 6-1:
-Remove the checkmarks from the columns Dodge, Displacement & Phase, Resist, Effect Shield, and Cloak & Bane for the Arcane packet rows.
-P.90 of the Rulebook under Packet Attacks:
+
+P. 87 of the Rulebook, under Effect Types:
+Arcane: Effects delivered this way are created from raw energies. They are not blocked by any defenses. The same casting rules apply as they do to spells, except that you do not need the ability to speak.
+
+P. 88 of the Rulebook, Table 6-1:
+Remove the check marks from the Dodge, Displacement & Phase, Resist, Effect Shield, and Cloak & Bane columns for the Arcane packet rows.
+
+P. 90 of the Rulebook, under Packet Attacks:
 Arcane <spell name or effect>
 Effects delivered as Arcane ignore and do not expend Displacement, Guardian of the Four, Shield Magic, or Reflect Magic spells. These effects are removed by Dispel Magic.

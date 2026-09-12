@@ -8,18 +8,17 @@ Body: 100
 
 Defenses: No Metabolism, Half Damage from non-magic edged weapons.
 
-
 Magic: None
 Weapons: Fists
 
 Damage: 10 Massive!
 
-
-
 Motivations: None
 
 Treasure:
- -  Large amount of gold
+
+- Large amount of gold
+
 ---
 
 Immunities: Healing, Life, Sleep, Charm, Poison, Death, Paralyze, Waylay, Drain, Feeble Mind, Vertigo, Pin, Bind, Web

@@ -13,19 +13,19 @@ This is a work in progress. Any questions or comments should be directed to the 
 
 ## You Have Become a Monster
 
-All transformed characters are subject to Monster card effects like the Celestial PvE playtest. Paragon/Greater race is not considered a “monster.” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for the Celestial PvE playtest.
+All transformed characters are subject to Monster card effects, as in the Celestial PvE playtest. The Paragon and Greater races are not considered “monsters.” They embody the traits of legendary heroes of their races but suffer the “monster card” effect for the Celestial PvE playtest.
 
 ## Conditions for Transform Activation
 
 ### Plot Activated
 
-Do not ask Plot to “activate” your transform, as modules will be written with them in mind, or side Roleplay Spirit Quests will be handled privately.
+Do not ask Plot to “activate” your transform. Modules will be written with transforms in mind, and side roleplay Spirit Quests will be handled privately.
 
 ## Conditions for Transform Deactivation
 
 ### Plot Deactivated
 
-On conclusion of a module or scene, a character's transform will deactivate.
+Upon conclusion of a module or scene, a character's transform will deactivate.
 
 ### Resurrection
 
@@ -33,21 +33,21 @@ Your transform will deactivate if you resurrect. Taking a killing blow or a Deat
 
 ### Player vs. Player Combat
 
-PVP is defined as any “hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc.), or knock the target unconscious other than stopping a berserked player. Accidental packet throws hitting other transformed players are not considered “PVP hostility,” as mass melees get messy and unintended targets are hit. If this is a malicious action, it falls under the “Hostile” category and your transform will deactivate.
+PvP is defined as any “hostile” action causing damage with the intent to kill, render the target useless with status effects (taint blood, vertigo gas, nausea, sleep, etc.), or knock the target unconscious, other than when stopping a berserked player. Accidental packet throws hitting other transformed players are not considered “PvP hostility,” as mass melees get messy and unintended targets are hit. If the action is malicious, it falls under the “Hostile” category, and your transform will deactivate.
 
-If there is a situation where you are “assaulted” in game while transformed and you/they are not under the effects of Berserk or Arcane Vampire Charm, call a Hold. If you think someone violated the sportsmanship policy, a Marshall will resolve the situation on the spot.
+If you are “assaulted” in-game while transformed and neither you nor the other player is under the effects of Berserk or Arcane Vampire Charm, call a Hold. If you think someone violated the sportsmanship policy, a Marshal will resolve the situation on the spot.
 
 ## 2 Ways to Obtain Transforms
 
 ### Obtain via Spirit Quest
 
-Spirit Quests are a type of quest players can request to attune themselves with a creature or spirit to grow a bond. Players submit a short write-up with the intent of the Spirit Quest and what creature or spirit they wish to attune to and why.
+Spirit Quests are quests that players can request to attune themselves to a creature or spirit and form a bond. Players submit a short write-up explaining the intent of the Spirit Quest, what creature or spirit they wish to attune to, and why.
 
-A player can obtain the Greater (7th) level transform via a Spirit Quest, but High (8th) and Master (9th) transforms must be cast using a formal magic ritual and components after the player has satisfied their creature or spirit's requirements and trials.
+A player can obtain the Greater (7th)-level transform via a Spirit Quest, but High (8th)- and Master (9th)-level transforms must be cast using a formal magic ritual and components after the player has satisfied their creature's or spirit's requirements and trials.
 
 ### Cast Using a Formal Magic Ritual with Components
 
-This is the only way a player can attain High and Master level transforms. They may not be obtained with a Spirit Quest.
+This is the only way a player can attain High- and Master-level transforms. They may not be obtained through a Spirit Quest.
 
 #### Transform to Greater Creature
 
@@ -59,9 +59,9 @@ This is the only way a player can attain High and Master level transforms. They 
 
 **Components**: P7, C3, E4, S4, T1 (Unrestricted only)
 
-This formal magic will transform the target into a specific Greater Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 7” on the target.
+This formal magic will transform the target into a specific Greater Creature upon the target's permanent death. It will also leave an affinity of “<Creature> 7” on the target.
 
-Effects exist which may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+Effects may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 #### Transform to High Creature
 
@@ -73,9 +73,9 @@ Effects exist which may, for a limited duration, invoke the full transformation 
 
 **Components**: P8, C4, E5, S5, T3 (Unrestricted only)
 
-This formal magic will transform the target into a specific High Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 8” on the target. The target must currently have an Affinity of “<Creature> 7” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity, this formal magic will fail. All components and scrolls used in the casting of this formal magic must be of unrestricted transfer.
+This formal magic will transform the target into a specific High Creature upon the target's permanent death. It will also leave an affinity of “<Creature> 8” on the target. The target must currently have an Affinity of “<Creature> 7” or higher present upon its spirit. The <creature> must be the same type of creature as the one being attempted. If the target does not have the correct affinity, this formal magic will fail. All components and scrolls used in casting this formal magic must be of unrestricted transfer.
 
-Effects exist which may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+Effects may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 #### Transform to Master Creature
 
@@ -87,23 +87,23 @@ Effects exist which may, for a limited duration, invoke the full transformation 
 
 **Components**: P9, C8, E10, S10, T5 (Unrestricted only)
 
-This formal magic will transform the target into a specific Master Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity of “<Creature> 8” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity, this formal magic will fail. All components and scrolls used in the casting of this formal magic must be of unrestricted transfer.
+This formal magic will transform the target into a specific Master Creature upon the target's permanent death. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity of “<Creature> 8” or higher present upon its spirit. The <creature> must be the same type of creature as the one being attempted. If the target does not have the correct affinity, this formal magic will fail. All components and scrolls used in casting this formal magic must be of unrestricted transfer.
 
-Effects exist which may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+Effects may, for a limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 ## Abilities Granted by Transformation
 
 ### Static Card
 
-All Transform Base Cards receive a static card with the following boosts that replace themselves per transform level. You take the highest boost as your card base on your Transform level (e.g., Master (9th) level gets +9 Superhuman Strength and +90 Body) +3/6/9 Supernatural Strength +30/60/90 Body, 3 Type-Specific Abilities.
+All Transform Base Cards receive a static card with boosts that replace themselves at each transform level. Use the highest boost as the card's base for your transform level: +3/6/9 Superhuman Strength, +30/60/90 Body, and three Type-Specific Abilities. For example, a Master (9th)-level transform receives +9 Superhuman Strength and +90 Body.
 
 ### Skill Pools
 
 Transforms grant characters a set number of points to purchase skills from either the General Pool or Creature Type-Specific Pool. All skills cost 1 point to buy. Several skills can only be purchased once.
 
-- **Greater (7th)** gets 2 skill points to spend.
-- **High (8th)** gets 4 skill points to spend.
-- **Master (9th)** gets 6 skill points to spend.
+- **Greater (7th)** receives 2 skill points to spend.
+- **High (8th)** receives 4 skill points to spend.
+- **Master (9th)** receives 6 skill points to spend.
 
 Any formal or cantrip effects that are present in the skill list will not require components to use.
 
@@ -120,7 +120,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
@@ -128,7 +128,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
@@ -136,7 +136,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
@@ -171,21 +171,21 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Hunter Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Hunter Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Hunter Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Elemental Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Hunter Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
@@ -220,21 +220,21 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Naturalist Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
@@ -269,29 +269,29 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Undead Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
 
 ### Undead Skill Pool
 
-- Superhuman Strength +6 (May Only Purchase Once)
-- Arcane Vampire Charm x3 (May Only Purchase Once)
+- Superhuman Strength +6 (May only be purchased once)
+- Arcane Vampire Charm x3 (May only be purchased once)
 
 ---
 
@@ -332,21 +332,21 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Extra-Planar (Fae) Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
@@ -372,12 +372,12 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Interplanar Travel (Self, Own Type) x3 - No Component Cost
 - Cloak Command x3
 - Cloak Binding x3
-- **Lesser Fae Curse**: Remove/Curse of the Beholder x3 (Unseelie Only) - This curse causes the player to see, at random intervals, hallucinations of horrible, nameless monsters in the place of players. Hallucination monsters cannot be specific monsters from the monster database like Troll or Death Knight. They can be described in such a manner as to not confuse the player with other monster types: “Having a thousand tentacles and yellow bile coming out of every orifice,” “Thirty blood red eyes protruding from a tortoise shell and crab legs for feet,” “Like an inside-out melon gliding on its own puss,” and so on. This effect can take place twice on one game day and lasts for five-minute intervals. *Incant*: “With the eyes of ancients, I curse you to see the world through a darkened veil.”
-- **Lesser Fae Curse**: Remove/Litany Curse x3 (Seelie Only) - This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (the NPC must write it down for the player to use as a cheat sheet). The phrase is keyed off to an event rather than a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase; they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once. *Incant*: “By my wagging tongue, I curse you to say <phrase here and description when>”
+- **Lesser Fae Curse**: Remove/Curse of the Beholder x3 (Unseelie Only) - This curse causes the player to see, at random intervals, hallucinations of horrible, nameless monsters in the place of players. Hallucination monsters cannot be specific monsters from the monster database like Troll or Death Knight. They can be described in such a manner as to not confuse the player with other monster types: “Having a thousand tentacles and yellow bile coming out of every orifice,” “Thirty blood-red eyes protruding from a tortoise shell and crab legs for feet,” “Like an inside-out melon gliding on its own pus,” and so on. This effect can take place twice on one game day and lasts for five-minute intervals. *Incant*: “With the eyes of ancients, I curse you to see the world through a darkened veil.”
+- **Lesser Fae Curse**: Remove/Litany Curse x3 (Seelie Only) - This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (the NPC must write it down for the player to use as a cheat sheet). The phrase is keyed to an event rather than a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase; they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once. *Incant*: “By my wagging tongue, I curse you to say <phrase here and description when>”
 - **Lesser Fae Curse**: Remove/Curse of Disgust x3 (Shadow Court Only) - This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of their disgust, they must role-play intense disgust and physical discomfort over it. *Incant*: “Since you offend me, I curse you to be offended by the sight of <item>”
 - **Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only) - This curse causes the recipient to be overcome with greed. They will always claim any treasure for themselves and will not be willing to share money or jewelry. They will become covetous of others’ valuables and may plot to steal them if they so choose. *Incant*: “By the hoard of the miser, I curse you to desire all riches.”
 
-**Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.**
+**Lesser Fae Curses are intended to force a role-playing condition onto a character using the power of the Fae connection through the transform.**
 
 ## Magical Beast
 
@@ -393,31 +393,31 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Magical Beasts Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
 
 ### Magical Beasts Skill Pool
 
-- Superhuman Strength +6 (May Only Purchase Once)
-- Assassinate/Dodge x1 (May Only Purchase Once)
-- Critical Slay/Parry (May Only Purchase Once)
-- Revive x1 (May Only Purchase Once): A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points.
+- Superhuman Strength +6 (May only be purchased once)
+- Assassinate/Dodge x1 (May only be purchased once)
+- Critical Slay/Parry (May only be purchased once)
+- Revive x1 (May only be purchased once): A creature with this skill can rise after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points.
 
 ---
 
@@ -444,30 +444,30 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Greater (7th)
 
-*Gets 2 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
+*Receives 2 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
 
 - +30 body
 - +3 Superhuman Strength
 
 ### High (8th)
 
-*Gets 4 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
+*Receives 4 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
 
 - +60 body
 - +6 Superhuman Strength
 
 ### Master (9th)
 
-*Gets 6 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
+*Receives 6 skill points to buy skills from the Paragon Skill Pool and General Skill Pool.*
 
 - +90 body
 - +9 Superhuman Strength
 
 ### Paragon Skill Pool
 
-- Superhuman Strength +6 (May Only Purchase Once)
-- Assassinate/Dodge x1 (May Only Purchase Once)
-- Critical Slay/Parry (May Only Purchase Once)
+- Superhuman Strength +6 (May only be purchased once)
+- Assassinate/Dodge x1 (May only be purchased once)
+- Critical Slay/Parry (May only be purchased once)
 
 ---
 
@@ -480,8 +480,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ## General Skill Pool
 
-- Critical Slay/Parry (May Only Purchase Once)
-- Assassinate/Dodge (May Only Purchase Once)
+- Critical Slay/Parry (May only be purchased once)
+- Assassinate/Dodge (May only be purchased once)
 
 ---
 

@@ -14,9 +14,9 @@ draft: false
 
 **Approved By**: Joseph Valenti
 
-**Objective**: The objective of this playtest is to promote the use of Celestial damage spells over other magic on monsters and PCs with augmented stat cards.
+**Objective**: The objective of this playtest is to promote the use of Celestial damage spells over other magic against monsters and PCs with augmented stat cards.
 
-**Summary**: Any monster (as defined by a character not made entirely of skills purchased via the Rulebook) or any character with an activated transform or in a golem will be affected by the Monster Special Vulnerability (p. 92 of the Rulebook), Double Damage from <Celestial>. This playtest stacks with that of the Base 10 Celestial playtest. The damage called at the end of the spell is the current base damage, either Base 5 or Base 10 with the Base 10 Celestial playtest, not the doubled damage. For reference, the affected Celestial spells are:
+**Summary**: Any monster (as defined by a character not made entirely of skills purchased via the Rulebook) or any character with an activated transform or in a golem will be affected by the Monster Special Vulnerability (p. 92 of the Rulebook): Double Damage from <Celestial>. This playtest stacks with the Base 10 Celestial playtest. The damage called at the end of the spell is the current base damage—either Base 5 or Base 10 with the Base 10 Celestial playtest—not the doubled damage. For reference, the following Celestial spells are affected:
 
 | Level | Spell           | New Damage without the Base 10 Celestial Playtest | New Damage with the Base 10 Celestial Playtest |
 | ----- | --------------- | ------------------------------------------------- | ---------------------------------------------- |

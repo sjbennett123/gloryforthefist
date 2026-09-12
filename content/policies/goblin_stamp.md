@@ -1,8 +1,9 @@
 ---
+
 title: "POLAR Goblin Stamp Policy"
 ---
 
-## POLAR GOBLIN STAMP POLICY - AWARDS
+## POLAR Goblin Stamp Policy — Awards
 
 - Board of Directors — 325 GS / month
 - General Manager — 400 GS / month
@@ -30,7 +31,7 @@ title: "POLAR Goblin Stamp Policy"
 - Post-Event Video — 50 GS / video
 - Write an Event Blog — 50 GS / approved website
 
-## POLAR GOBLIN STAMP POLICY - DONATIONS
+## POLAR Goblin Stamp Policy — Donations
 
 - Donation — 2 spell packets — 1 GS
 - Donation — one-handed PVC weapon — 30 GS
@@ -38,11 +39,11 @@ title: "POLAR Goblin Stamp Policy"
 - Donation — shield — 75 GS
 - Donation — one-handed ultra-light weapon — 150 GS
 - Donation — two-handed ultra-light weapon — 250 GS
-- Donation — armor, single piece — 75 GS
-- Donation — armor, full suit — 300 GS
+- Donation — single piece of armor — 75 GS
+- Donation — full suit of armor — 300 GS
 - Donation — mask — 20 GS
-- Donation — makeup — small container, low quality — 15 GS
-- Donation — makeup — large container, high quality — 75 GS
+- Donation — makeup — small, low-quality container — 15 GS
+- Donation — makeup — large, high-quality container — 75 GS
 - Donation — hand prop — 50 GS
 - Donation — set prop — 50 GS
 - Donation — theatrical effect — 100 GS
@@ -50,13 +51,13 @@ title: "POLAR Goblin Stamp Policy"
 - Donation — full costume — 150 GS
 - Donation — canned food — 10 GS
 
-## POLAR GOBLIN STAMP POLICY - PURCHASES
+## POLAR Goblin Stamp Policy — Purchases
 
 - Purchase Cantrip Page — 15 GS / page
-- Purchase Formal Scroll — (1 year, 1 charge) — 50 GS + 20 GS / level of scroll
+- Purchase Formal Scroll — (one year, one charge) — 50 GS + 20 GS / level of scroll
 - Purchase Formal Component — (strength 1) — 25 GS / component
 - Purchase Production Item — (per production level) — 2 GS
 - Purchase Death — (after the first two deaths) — 100 GS
-- Purchase Coin / Evaluate Item — (per silver piece value) — 1 GS / silver piece value
-- Purchase Magic Item — (1 year, indestructible, up to 3 effects) — 200 GS / effect
-- Purchase XP Blanket — (4 Goblin Stamp blankets per month) — 50 GS / blanket
+- Purchase Coin / Evaluate Item — (per silver piece of value) — 1 GS / silver piece of value
+- Purchase Magic Item — (one year, indestructible, up to three effects) — 200 GS / effect
+- Purchase XP Blanket — (four Goblin Stamp blankets per month) — 50 GS / blanket

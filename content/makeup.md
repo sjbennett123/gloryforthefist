@@ -1,4 +1,5 @@
 ---
+
 title: makeup
 ---
 
@@ -14,9 +15,9 @@ Grease paint is so hard to clean up and stains. I heard several minor complaints
 
 I agree with keeping a kit  with better quality item in it. Plus, you can do so much with an airbrush and a few liquid colors.
 
-https://pittsburghsprayequip.com/products/iwata-i4950-redi-caps-20-pcs
-https://www.dickblick.com/items/iwata-cylinder-bottle-1-oz-crystal-clear/
-https://www.dickblick.com/items/iwata-neo-series-dual-action-airbrush-neo-bcn-siphon-feed-05-mm/
+<https://pittsburghsprayequip.com/products/iwata-i4950-redi-caps-20-pcs>
+<https://www.dickblick.com/items/iwata-cylinder-bottle-1-oz-crystal-clear/>
+<https://www.dickblick.com/items/iwata-neo-series-dual-action-airbrush-neo-bcn-siphon-feed-05-mm/>
 
 For airbrush, I highly recommend a duel action sphion feed. It makes color changes super quick and you only need to clean the airbrush once, instead of between each color. Spare color cups can be bought to make it super easy
 
@@ -24,41 +25,40 @@ This is the one I have. The price has gone down enough to call this a beater bru
 
 Makeup-
 Mehron liquid makeup 4.5 oz
- - white
- - black
- - red
- - yellow
- - green
- - brown
- - blue
- - purple
+
+- white
+- black
+- red
+- yellow
+- green
+- brown
+- blue
+- purple
 stable if stored properly unmixed.
 
 4 ounce bottles with caps- for premixed airbrush makeup
 
 Mehron rigid collodion
 this makes old looking scars when applied. Good for facial scars
-https://www.mehron.com/rigid-collodion/
+<https://www.mehron.com/rigid-collodion/>
 
 Mehron 5 color bruise wheel
-https://www.mehron.com/procoloring-bruise/
-
+<https://www.mehron.com/procoloring-bruise/>
 
 Mehron liquid latex
 a light flesh tone works for pretty much anything
-https://www.mehron.com/liquid-latex/
+<https://www.mehron.com/liquid-latex/>
 
 BenNye Fresh scab
 This is great for really quick cuts and gashes.
-https://www.bennye.com/product/special-fx/sfx-blood/fresh-scab/
-
+<https://www.bennye.com/product/special-fx/sfx-blood/fresh-scab/>
 
 Cheap but needed-
-Popsicles sticks 
+Popsicles sticks
 
 QTips (brand name)
 
-Unpatterened or lightly patterned paper towels 
+Unpatterened or lightly patterned paper towels
 
 Cheap paint brushes-preferredly round and flat tips
 

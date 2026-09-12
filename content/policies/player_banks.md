@@ -5,4 +5,4 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-Player banks... POLAR will honor banks in-game, but will not allow more than a 10-gold withdrawal. Players can make in-game purchases with their bank by marking it on their character sheet with a signature.
+**Player banks:** POLAR will honor in-game banks but will not allow withdrawals of more than 10 gold. Players can make in-game purchases using their bank by recording the purchase on their character sheet and signing it.

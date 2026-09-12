@@ -13,7 +13,7 @@ draft: false
 
 **Approved By**: Joseph Valenti
 
-It is possible to become more productive in making production items if you have access to a workshop that specializes in making them. A character with a workshop can make additional levels of items to a maximum of their Base Production Level. There are specialized workshops for making:
+It is possible to become more productive at making production items if you have access to a workshop that specializes in making them. A character with a workshop can make additional levels of items up to their Base Production Level. There are specialized workshops for making:
 
 1. alchemical elixirs, gases, and contact poisons
 2. weapons and armor
@@ -37,7 +37,7 @@ The differences between each type of workshop are purchase cost, upkeep cost, th
 
 ### **Personal Workshops**
 
-Small workshops that allow the owner to create additional production items as described in the NERO LARP 9th Edition Rules. Personal Workshops can be constructed in a character’s home or place of business, as long as the building has a “Personal Workshop” (or larger) room built. The Personal Workshop room type occupies 5 room slots within the building. Personal Workshops are the only type of workshop that does not need to be placed within a building. The workshop is small enough to be used by the owner anywhere within the local chapter purchased, such as a campsite, inside a tent, on a ship, on a caravan wagon, and so on.
+Small workshops that allow the owner to create additional production items as described in the NERO LARP 9th Edition Rules. Personal Workshops can be constructed in a character’s home or place of business, as long as the building has a “Personal Workshop” (or larger) room built. The Personal Workshop room type occupies 5 room slots within the building. Personal Workshops are the only type of workshop that does not need to be placed within a building. The workshop is small enough to be used by the owner anywhere within the local chapter in which it was purchased, such as at a campsite, inside a tent, on a ship, on a caravan wagon, and so on.
 
 ### **Group Workshops**
 
@@ -53,7 +53,7 @@ Very large stationary workshops that allow anyone to create additional productio
 
 ## **Trustees**
 
-Trustees are characters, other than the owner, who are given access to use a workshop. Only the owner of a workshop can grant or revoke another member’s trustee access. Each workshop type has a set limit on the number of trustees allowed to use the workshop. Once that limit is reached, one trustee must be removed before another is added. This functionality for granting and revoking trustee access to other characters is handled through the nerolarponline.com website and is administered by the workshop owner and the local chapter logistics personnel.
+Trustees are characters, other than the owner, who are given access to use a workshop. Only the owner of a workshop can grant or revoke another member’s trustee access. Each workshop type has a set limit on the number of trustees allowed to use the workshop. Once that limit is reached, one trustee must be removed before another is added. The functionality for granting and revoking trustee access to other characters is handled through the nerolarponline.com website and is administered by the workshop owner and the local chapter logistics personnel.
 
 ## **Duration and Upkeep**
 
@@ -61,7 +61,7 @@ Workshops have a two-year lifespan. After two years, if worn tools and component
 
 ## **Workshops and Plot**
 
-Workshops, being an off-board asset, are subject to the storylines run by Plot. Members of Plot can devise storylines that grant a character a workshop as a reward. Conversely, Plot can devise a storyline that seeks to destroy workshops. Additionally, some events are held in far-off remote locations. In some situations, a character must travel from point A to point B quickly. In such cases, characters will be too far from their workshops to be able to use or protect them. In all cases, workshops are only usable for events in which the workshop was purchased (i.e., workshops are local chapter only).
+Workshops, being off-board assets, are subject to the storylines run by Plot. Members of Plot can devise storylines that grant a character a workshop as a reward. Conversely, Plot can devise a storyline that seeks to destroy workshops. Additionally, some events are held in remote locations. In some situations, a character must travel from point A to point B quickly. In such cases, characters will be too far from their workshops to be able to use or protect them. In all cases, workshops are only usable for events in the chapter in which the workshop was purchased (i.e., workshops are local-chapter-only).
 
 ## Table 1-1
 

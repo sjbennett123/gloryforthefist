@@ -6,13 +6,13 @@ draft: false
 ---
 
 As you can see, POLAR has some openings. Please PM me if you are interested in accepting a position. Thank you very much!
-These are more than staff positions; these positions help shape and determine where POLAR goes in the future. This is all of our game as a community. Let's make it the best game possible!
+These are more than staff positions; they help shape and determine where POLAR goes in the future. This is our game as a community. Let's make it the best game possible!
 
 ## Board of Directors
 
 250 GS / Month
 
-There are 5 voting members and 2 trustees. If there is a vote, the members vote; if one of them cannot attend, the trustees may vote in their stead.
+There are 5 voting members and 2 trustees. If a vote is held, the members vote. If a member cannot attend, the trustees may vote in their stead.
 
 - John Thompson - President
 - Stephen Dupree - Vice President
@@ -24,7 +24,7 @@ There are 5 voting members and 2 trustees. If there is a vote, the members vote;
 
 ## General Manager
 
-They can help with just about anything or direct you to the person who can.
+The General Manager can help with just about anything or direct you to the appropriate person.
 
 400 GS / Month
 
@@ -63,7 +63,7 @@ Open - Per Plot Committee
 
 - Ken Courtney
 
-## Web Site
+## Website
 
 200 GS / Month
 
@@ -120,7 +120,7 @@ Open - 2 positions
 
 ## Full Marshal
 
-If you have a rules question, please talk to one of them. If a marshal makes a ruling on the field, that ruling is now law, even if you disagree with it, until the mod/situation is over and you can then argue your case.
+If you have a rules question, please talk to one of them. If a marshal makes a ruling on the field, that ruling is now law, even if you disagree with it, until the mod/situation is over, at which point you can argue your case.
 
 50 GS / Game Day
 

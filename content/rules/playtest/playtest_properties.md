@@ -40,16 +40,16 @@ Again, this is done to preserve the in-game economies of the various NERO LARP c
 Properties refer to the building and the land on which the building sits. A property can be a home or a place of business. In some cases, a property can refer to a vehicle in which a character can live (such as a ship or a caravan wagon). A property can also refer to a mobile campsite that the character can erect and break down. For a list of the various property types, see Table 1-1 (Business Properties) and Table 1-2 (Dwelling Properties).
 The number of properties that a character can own is based on the character’s level. A new character starts with the ability to purchase one property. Within a few levels, the character will be able to purchase an additional property. Beyond the first property, a character gains the ability to purchase an additional property at every tenth level.
 
-The main feature of a property to be concerned with is the number of room slots that it has. Larger buildings have more room slots, while smaller buildings have fewer room slots. Rooms come in various sizes and, as such, take up different numbers of room slots. A small bedroom takes up one room slot and can house up to 3 people. A luxurious bedroom, on the other hand, takes up 4 room slots and can house up to 20 people.
+The main feature of a property is the number of room slots it has. Larger buildings have more room slots, while smaller buildings have fewer room slots. Rooms come in various sizes and, as such, take up different numbers of room slots. A small bedroom takes up one room slot and can house up to 3 people. A luxurious bedroom, on the other hand, takes up 4 room slots and can house up to 20 people.
 
-Room slots are not a fixed dimension. Therefore, the cost of adding a room will vary depending on the size of the building in which it is placed. After all, even though a small bedroom is only 1 room slot, a small bedroom in a small hut would not be the same size as a small bedroom in a large house.
+Room slots do not represent a fixed dimension. Therefore, the cost of adding a room will vary depending on the size of the building in which it is placed. After all, even though a small bedroom is only 1 room slot, a small bedroom in a small hut would not be the same size as a small bedroom in a large house.
 Each property type has a set number of days needed to construct or repair the structure. Typically, the larger the building, the longer it will take to build, and the more costly the labor and materials. If you wish to have your property built more quickly, you can pay more money, which represents hiring more workers and expediting the delivery of building materials.
 
 - To build a property in half the time, the cost is multiplied by three.
 
-- To build a property in one third the time, the cost is multiplied by six.
+- To build a property in one-third the time, the cost is multiplied by six.
 
-- To build a property in one quarter the time, the cost is multiplied by ten.
+- To build a property in one-quarter the time, the cost is multiplied by ten.
 
 Once completed, you have the option of adding on another floor (if applicable), which will double the number of room slots in your building.
 
@@ -59,7 +59,7 @@ Businesses generate revenue through the sale of products or services. Each busin
 
 To increase revenue, you can hire employees. Non-combat employees have a profession in which they create a product or provide a service. When an employee is hired to work at a place of business, they generate additional income based on their level of skill and happiness. The more skilled and happy an employee is, the more revenue that employee generates.
 
-Employees must also be paid a salary. Each week or month, an employee is paid their salary from the character’s Estate Bank. When an employee is initially hired, their starting salary is preset based on the employee’s skill and the job they will be performing. You can always change the salary, higher or lower. A lower salary means an unhappy worker, while a higher salary tends to mean a happier worker. The system does not directly factor salary into happiness, so paying an employee a large salary will not dramatically increase the employee’s happiness. In fact, such an act could backfire, as the employee will continually expect a high salary and higher raises.
+Employees must also be paid a salary. Each week or month, an employee is paid their salary from the character’s Estate Bank. When an employee is initially hired, their starting salary is preset based on the employee’s skill and the job they will be performing. You can always raise or lower the salary. A lower salary means an unhappy worker, while a higher salary tends to mean a happier worker. The system does not directly factor salary into happiness, so paying an employee a large salary will not dramatically increase the employee’s happiness. In fact, such an act could backfire, as the employee will continually expect a high salary and higher raises.
 
 ## **Rooms**
 
@@ -67,7 +67,7 @@ Each property is made up of rooms. Each room type serves a distinct purpose, ran
 
 Any rooms that you are not interested in keeping or no longer wish to use can be demolished. There is a cost associated with demolishing a room to cover the labor and materials needed to complete the task. The demolition also takes time, depending on the size of the room. When demolition of a room begins, the overall condition of your property decreases. As the demolition continues, the condition of your property increases until it returns to 100% when the demolition is complete.
 
-If your property has enough free room space, you can opt to build new rooms. Each room has its own cost and construction time. Once construction begins on your new room, the overall condition of the property decreases. As construction continues, the condition of your property increases until it returns to 100% when construction is complete and the room is usable.
+If your property has enough available room space, you can opt to build new rooms. Each room has its own cost and construction time. Once construction begins on your new room, the overall condition of the property decreases. As construction continues, the condition of your property increases until it returns to 100% when construction is complete and the room is usable.
 
 For a list of room types and their functions, please see Table 1-3 (Estate Room Types).
 
@@ -87,13 +87,13 @@ Employees and hirelings are NPC characters created by the system to work for the
 
 Hirelings are NPCs that work more closely with the character, such as a seneschal who oversees the operation of the character’s manor or a fighter who acts as a bodyguard for the character. As such, hirelings start with more loyalty to the character. A character can have at most two (2) hirelings at any given time.
 
-There are two types of employee: combat and non-combat. Combat NPCs are trained in one of the PC classes (Fighter, Rogue, Scholar, or Templar) and have a class level. Combat employees can be brought along on off-board estate adventures and can offer your properties protection against crime or monster events. Combat employees can also be factored into local plotlines run by your local plot committee.
+There are two types of employees: combat and non-combat. Combat NPCs are trained in one of the PC classes (Fighter, Rogue, Scholar, or Templar) and have a class level. Combat employees can be brought along on off-board estate adventures and can protect your properties against crime or monster events. Combat employees can also be factored into local plotlines run by your local plot committee.
 
 Non-combat employees are trained in a profession, such as farming, sales, or beekeeping. These employees do not engage in combat. Their level is based on the skill level in their profession (see Table 1-5 Profession Skill Levels). Non-combat employees generate additional revenue at the business where they work or provide a service in the home where they are hired. The more skilled an employee is, the more sales income they generate.
 
 ### Table 1-1 Business Type Properties
 
-| **Property Type**   | **Time To Build (in days)** | **Cost To Build (in silver)** | **Room Slots** | **Maximum Employees/Occupants** | **Max # of Floors** | **Average Income (in silver)** | **Average Expenses (in silver)** | **Default Rooms**                                            |
+| **Property Type**   | **Time to Build (in days)** | **Cost to Build (in silver)** | **Room Slots** | **Maximum Employees/Occupants** | **Max. # of Floors** | **Average Income (in silver)** | **Average Expenses (in silver)** | **Default Rooms**                                            |
 | ------------------- | ------------------------------ | --------------------------------- | ---------------- | ---------------------------------------- | --------------------- | ------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
 | Guild Hall          | 21                             | 500                               | 25               | 8                                        | 2                     | 10                                   | 5                                       |                                                              |
 | Business (any type) | 15                             | 200                               | 12               | 8                                        | 1                     | 10                                   | 2                                       | Small Retail Space (2)                                       |
@@ -113,17 +113,17 @@ Non-combat employees are trained in a profession, such as farming, sales, or bee
 
 ### Table 1-2 Dwelling Type Properties
 
-| **Property Type** | **Time To Build** | **Cost To Build** | **Room Slots** | **Maximum Employees/Occupants** | **Max # of Floors** | **Average Income** | **Average Expense** | **Default Rooms**                                            |
+| **Property Type** | **Time to Build** | **Cost to Build** | **Room Slots** | **Maximum Employees/Occupants** | **Max. # of Floors** | **Average Income** | **Average Expense** | **Default Rooms** |
 | ----------------- | ------------------- | ------------------- | ---------------- | ---------------------------------------- | --------------------- | ------------------------ | ------------------------- | ------------------------------------------------------------ |
-| Camp Site         | 1 day               | 10s                 | 6                | 1                                        | 1                     | N/A                      | N/A                       | Small Bedroom (1)                                            |
-| Caravan Wagon     | 2 days              | 50s                 | 6                | 1                                        | 1                     | N/A                      | 1s                        | Small Bedroom (1)                                            |
-| Hut (Small)       | 2 days              | 50s                 | 8                | 5                                        | 1                     | N/A                      | 1s                        | Small Bedroom x2 (2), Small Dining Room (1), Small Kitchen (1) |
-| Hut (Medium)      | 4 days              | 100s                | 12               | 10                                       | 1                     | N/A                      | 1s                        | Medium Bedroom x2 (4), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
-| Hut (Large)       | 8 days              | 150s                | 16               | 15                                       | 1                     | N/A                      | 1s                        | Large Bedroom x2 (6), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
-| House (Small)     | 4 days              | 100s                | 14               | 10                                       | 2                     | N/A                      | 1s                        | Small Bedroom x2 (2), Small Dining Room (1), Small Kitchen (1) |
-| House (Medium)    | 8 days              | 150s                | 17               | 20                                       | 2                     | N/A                      | 1s                        | Medium Bedroom x2 (4), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
-| House (Large)     | 16 days             | 200s                | 20               | 30                                       | 2                     | N/A                      | 2s                        | Large Bedroom x2 (6), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
-| Manor House       | 21 days             | 300s                | 20               | 5                                        | 2                     | N/A                      | 3s                        | Small Bedroom x3 (3), Small Dining Room (1), Privy/Water Closet (1), Small Pantry (1), Small Kitchen (1) |
+| Camp Site | 1 day | 10s | 6 | 1 | 1 | N/A | N/A | Small Bedroom (1) |
+| Caravan Wagon | 2 days | 50s | 6 | 1 | 1 | N/A | 1s | Small Bedroom (1) |
+| Hut (Small) | 2 days | 50s | 8 | 5 | 1 | N/A | 1s | Small Bedroom x2 (2), Small Dining Room (1), Small Kitchen (1) |
+| Hut (Medium) | 4 days | 100s | 12 | 10 | 1 | N/A | 1s | Medium Bedroom x2 (4), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
+| Hut (Large) | 8 days | 150s | 16 | 15 | 1 | N/A | 1s | Large Bedroom x2 (6), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
+| House (Small) | 4 days | 100s | 14 | 10 | 2 | N/A | 1s | Small Bedroom x2 (2), Small Dining Room (1), Small Kitchen (1) |
+| House (Medium) | 8 days | 150s | 17 | 20 | 2 | N/A | 1s | Medium Bedroom x2 (4), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
+| House (Large) | 16 days | 200s | 20 | 30 | 2 | N/A | 2s | Large Bedroom x2 (6), Small Dining Room (1), Small Pantry (1), Small Kitchen (1) |
+| Manor House | 21 days | 300s | 20 | 5 | 2 | N/A | 3s | Small Bedroom x3 (3), Small Dining Room (1), Privy/Water Closet (1), Small Pantry (1), Small Kitchen (1) |
 
 ### Table 1-3 Room Types
 
@@ -165,7 +165,7 @@ Non-combat employees are trained in a profession, such as farming, sales, or bee
 | Training Room (Large)      | 20                   | A combat training room suitable for up to 15 trainees        |
 | Vault (Small)              | 2                    | A secured vault suitable for storing armor, weapons, and small objects |
 | Vault (Medium)             | 4                    | A secured vault suitable for storing larger items (8 ft x 8 ft x 8 ft) |
-| Vault (Large)              | 6                    | A secured room-sized vault (10ftx10ftx10ft)                  |
+| Vault (Large)              | 6                    | A secured room-sized vault (10 ft x 10 ft x 10 ft)            |
 | Warehouse Space (Small)    | 4                    | An open storage space (20ftx10ftx10ft)                       |
 | Warehouse Space (Medium)   | 8                    | An open storage space (20ftx15ftx10ft)                       |
 | Warehouse Space (Large)    | 12                   | An open storage space (40ftx20ftx10ft)                       |

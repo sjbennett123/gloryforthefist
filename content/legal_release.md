@@ -1,10 +1,9 @@
 ---
+
 title: "Accident Waiver"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
-
- 
 
 SECTION I – RELEASE OF MEDICAL AND LEGAL LIABILITY / ACCIDENT WAIVER
 
@@ -14,7 +13,7 @@ I certify that I am physically fit, have sufficiently trained for participation,
 
 I acknowledge that this Release of Legal and Medical Liability / Accident Waiver form will be used by the organizers of events in which I participate and that it will govern my actions and responsibilities at said events. Such actions and responsibilities shall include but not be limited to the following:
 
-I will comply with all local, state, and federal laws. 
+I will comply with all local, state, and federal laws.
 
 I will conform to and observe the rules, regulations, and policies of the organization and those of the NERO LARP rules systems, safety guidelines, and Member Code of conduct. I understand that I am entering into an intense roleplay environment and I will not participate in any activity that I do not feel I have adequately prepared for.
 
@@ -26,10 +25,9 @@ In consideration of my application and permission to participate in events, I he
 
 - The Pennsylvania Organization of Live Action Roleplaying INC
 
--   The Commonwealth of Pennsylvania
+- The Commonwealth of Pennsylvania
 
--  The NERO LARP Organization and its affiliates
-
+- The NERO LARP Organization and its affiliates
 
 Their directors, officers, agents, staff, employees, volunteers, representatives, and organizers of the events; (B) Indemnify and hold harmless the entities or persons mentioned from any and all liabilities or claims made as a result of participation in these events, whether caused by the negligence of releases or otherwise.
 
@@ -39,7 +37,7 @@ The Release of Legal and Medical Liability / Accident Waiver form shall be const
 
 SECTION II - MEDICAL INFORMATION
 
-Does the participant have any medical conditions that the Pennsylvania Organization of Live Action Roleplaying INC needs to know about to ensure the participant's safety in the event medical treatment is needed? This includes allergies (including bee stings), adverse reactions to any medical drugs, asthma, diabetes, fainting spells, heart trouble, convulsions, bleeding disorders, etc.
+Does the participant have any medical conditions that the Pennsylvania Organization of Live Action Roleplaying INC needs to know about to ensure the participant's safety in the event medical treatment is needed? This includes allergies (including bee strings), adverse reactions to any medical drugs, asthma, diabetes, fainting spells, heart trouble, convulsions, bleeding disorders, etc.
 
 [  ] No    [  ] Yes (Please Explain)
 
@@ -64,7 +62,6 @@ SECTION III – PARTICIPANT INFORMATION
 | Phone Number:                                |      |
 | Relationship:                                |      |
 
-
 By my signature, I confirm that I have read this release, understand its terms, and agree to its provisions from the time of this signature until the last day of the 2019 calendar year. I understand that this form affects my legal rights.
 
 Signature of Participant____________________________________________________________________________ Date_____________________________________________________
@@ -77,19 +74,11 @@ My child is participating in the event with the following individual(s):        
 
 ​                                                               _________________________________________________________________________                                                                                   Name / Relationship                                                     Name / Relationship
 
- 
-
- 
-
 The following individual(s) also have permission to pick up my child during or after the event:
-
- 
 
 ​                                                               ____________________________________________________________________________                                                                       Name / Relationship                                                     Name / Relationship
 
 ​                                                               ____________________________________________________________________________                                                                            Name / Relationship                                                     Name / Relationship
-
- 
 
 SECTION IV - PARENT/GUARDIAN CONSENT
 
@@ -99,8 +88,6 @@ I understand that there are times during the course of the event where my minor 
 
 I, as the legal parent and/or guardian, do hereby confirm that I have read this release, understand its terms, and agree to its provisions, thereby indemnifying the aforementioned persons on behalf of the minor.
 
-Signature of Parent/Guardian: ______________________________________________________________________ Date:_____________                            
+Signature of Parent/Guardian: ______________________________________________________________________ Date:_____________
 
-Printed Name of Parent/Guardian: ______________________________________________________________                                                                                      
-
- 
+Printed Name of Parent/Guardian: ______________________________________________________________

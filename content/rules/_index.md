@@ -82,7 +82,7 @@ You, the player, will portray a character for the duration of the event. Your ch
 
 You gain experience by attending events. The amount of experience you earn is based on whether you are a PC or an NPC. If you are a PC, you will receive a base amount of experience that you can then double in a number of different ways. You may turn in game money at the end of the event, perform a number of hours of NPC duty (if the chapter allows this), or the chapter may grant all PCs double experience just for attending the event. If you NPC the entire event you will receive the maximum possible amount of experience as a reward for your service.
 
-Awarded Experience Points (XP) are then transferred into Build Points (BP). Build Points are what you use to buy new skills. Every 10 BP you earn increases your level. The amount of XP needed to earn a new Build Point increase each time your level increases, so the higher level you become, the slower you gain new skills.
+Awarded Experience Points (XP) are then transferred into Build Points (BP). Build Points are what you use to buy new skills. Every 10 BP you earn increases your level. The amount of XP needed to earn a new Build Point increases each time your level increases, so the higher level you become, the slower you gain new skills.
 
 Your character must be one of the currently allowed races, such as Human, Elf, Dwarf, or Sarr. For a complete list of races and their advantages and disadvantages, see the Classes and Races section in this rule book.
 
@@ -455,7 +455,7 @@ Dwarves are sturdy individuals who live in mountainous regions. Dwarves in NERO 
 
 Dwarves tend to be friendly but secretive. They all have beards, although many females prefer a long goatee. Their race enjoys and appreciates good craftsmanship, especially in weapons, armor, and jewelry. Because they live so much longer than humans, they tend to dislike the humans’ faster paced lifestyles (but they generally like the food).
 
-Dwarves have an extreme hatred of trolls who often attack and take the dwarven caves for themselves. Their history is very lengthy but is mostly comprised of stories and legends of great dwarven heroes. Some of these stories can take many hours or even days to tell completely, and no self-respecting dwarf would consider telling an abridged version.
+Dwarves have an extreme hatred of trolls who often attack and take the dwarven caves for themselves. Their history is very lengthy but consists mostly of stories and legends of great dwarven heroes. Some of these stories can take many hours or even days to tell completely, and no self-respecting dwarf would consider telling an abridged version.
 
 Dwarves are generally peaceful and have no problem with other races—although they think elves are pompous, humans are impatient, hoblings are troublemakers, and half-orcs and-half ogres are incapable of understanding the finer things in life (like a well made weapon and a fine wine).
 
@@ -561,7 +561,7 @@ Players who wish to be NPCs get compensation for the work they do. In exchange, 
 
 ### Monster Size
 
-All monsters are the size of the NPC or physical representation playing the part. There are not any 9 foot tall trolls unless there is a 9 foot tall NPC playing the part or a 9 foot tall apparatus built for that purpose.
+All monsters are the size of the NPC or physical representation playing the part. There are no 9-foot-tall trolls unless there is a 9-foot-tall NPC playing the part or a 9-foot-tall apparatus built for that purpose.
 
 ## Matters of Life and Death
 
@@ -1194,7 +1194,7 @@ Manifold: No
 Duration: 5 Minutes
 ```
 
-By means of this spell the caster can calm one creature that is designated as an animal. This calm makes the creature docile and non-aggressive for the duration of five minutes. They cannot take any aggressive actions such as participating in combat nor will they attempt to remove the spell. The animal might wander off or simply sit down and rest for a while. This is a form of charm and will over-ride any normal behavior so long as it is effective it can be stopped by the ability Resist Charm. If anyone attacks the creature in any way this effect will mmediately be dispelled. An Aw aken or Dispel Magic will also work to remove this effect. This will not affect magical animals, hybrid animals, animal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a Shield Magic or similar protective.
+By means of this spell the caster can calm one creature that is designated as an animal. This calm makes the creature docile and non-aggressive for the duration of five minutes. They cannot take any aggressive actions such as participating in combat nor will they attempt to remove the spell. The animal might wander off or simply sit down and rest for a while. This is a form of charm and will over-ride any normal behavior so long as it is effective it can be stopped by the ability Resist Charm. If anyone attacks the creature in any way this effect will immediately be dispelled. An Awaken or Dispel Magic will also work to remove this effect. This will not affect magical animals, hybrid animals, animal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a Shield Magic or similar protective.
 
 ### Cause Critical Wounds
 
@@ -1298,7 +1298,7 @@ Celestial:Yes           :: Scroll: No
  Duration: 1 Hour
 ```
 
-This spell allows the caster to charm a single creature which must be an animal. This spell duplicates the Charm spell, except that it may only be cast on ordinary animals. Since the Animal will not understand the common tongue this in general only keeps the caster safe from the animal attacking him. If the caster is attacked the animal will generally attempt to defend him and if the caster interposes himself between the animal and another target the animal will understand that it shouldn’t attack the target. If the animal has been trained to follow commands it will listen to the caster as if he were the one who normally gives the commands and will perform any commands he is trained to at the request of the caster, this does not mean the animal will do anything they are not specifically trained to do. This spell is a type of charm and can be resisted with the ability Resist Charm, and it can be cured with an Aw aken spell or Dispel Magic spell. Stronger charms such as Vampire Charm or Enslavement will override its effects Table 5-6 on page 64. This will not affect magical animals, hybrid animals, nimal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a shield magic or similar protective.
+This spell allows the caster to charm a single creature which must be an animal. This spell duplicates the Charm spell, except that it may only be cast on ordinary animals. Since the animal will not understand the common tongue, this in general only keeps the caster safe from the animal attacking him. If the caster is attacked, the animal will generally attempt to defend him, and if the caster interposes himself between the animal and another target, the animal will understand that it shouldn’t attack the target. If the animal has been trained to follow commands, it will listen to the caster as if he were the one who normally gives the commands and will perform any commands it is trained to perform at the caster’s request; this does not mean the animal will do anything it is not specifically trained to do. This spell is a type of charm and can be resisted with the ability Resist Charm, and it can be cured with an Awaken spell or Dispel Magic spell. Stronger charms such as Vampire Charm or Enslavement will override its effects; see Table 5-6 on page 64. This will not affect magical animals, hybrid animals, animal men, only ordinary animals, fish, and birds. For example, an eagle would be affected, but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected, but it would not affect a minotaur or a bull scavenger. A horse would be affected, but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal, though it will still trigger a Shield Magic or similar protective effect.
 
 ### Circle of Power
 
@@ -1480,7 +1480,7 @@ Celestial:Yes           :: Scroll: Yes
  Duration: Indefinite
 ```
 
-This spell endows the recipient with the ability to do two extra points of damage for one swing if it hits the target. The total damage must be announced while swinging. Once called the spell is used up whether the blow was successful or not. Unlike a normal Endow the recipient may choose when to use a Delayed Endow. The recipient may also expend this spell to rip form Pin as per the monster ability. Delayed endow ill not benefit creatures that have Superhuman Strength greater than +1 and will only add +1 to a creature with +1 strength. The spell may be stacked with other Blade Effects(maximum three spells total)
+This spell endows the recipient with the ability to do two extra points of damage for one swing if it hits the target. The total damage must be announced while swinging. Once called the spell is used up whether the blow was successful or not. Unlike a normal Endow the recipient may choose when to use a Delayed Endow. The recipient may also expend this spell to rip form Pin as per the monster ability. Delayed Endow will not benefit creatures that have Superhuman Strength greater than +1 and will only add +1 to a creature with +1 strength. The spell may be stacked with other Blade Effects (maximum three spells total).
 
 ### Desecrate
 
@@ -1506,7 +1506,7 @@ Celestial:Yes           :: Scroll: Yes
  Duration: Instant
 ```
 
-This spell will render any tagged object up to the size of a normal door, useless. It can not be used to create a door-sized hole in an object larger than a door. It can target a suit of armor, although the Shield spell, and Dexterity Armor will be unaffected. Armor successfully destroyed will require the tag to be discarded as useless. This spell will not work on an item that has been Rendered Indestructible. It may also be cast at a creature to affect such an item, or to target the creature directly as some creatures may be harmed by this spell. If the caster does not specify an item or if the spell is received from a carrier attack, then it is the target’s choice as to which currently non-rendered item matching the description becomes Destroyed. If no item exists call “got it” see stacking spells "Stacked Effects" on page 47. Destroying an item that has other items within, hanging from, or fastened to it will destroy all of the items. This spell will destroy not only a shield but also any scrolls , or Gas globes, etc. attached to the back. Destroying a trapped door or item will set off and destroy the trap as well. After the item is destroyed the prop for the item remains, but is unusable.
+This spell will render any tagged object up to the size of a normal door useless. It cannot be used to create a door-sized hole in an object larger than a door. It can target a suit of armor, although the Shield spell and Dexterity Armor will be unaffected. Armor successfully destroyed will require the tag to be discarded as useless. This spell will not work on an item that has been Rendered Indestructible. It may also be cast at a creature to affect such an item or to target the creature directly, as some creatures may be harmed by this spell. If the caster does not specify an item or if the spell is received from a carrier attack, then it is the target’s choice as to which currently non-rendered item matching the description becomes Destroyed. If no item exists, call “Got it”; see “Stacked Effects” on page 47. Destroying an item that has other items within, hanging from, or fastened to it will destroy all of the items. This spell will destroy not only a shield but also any scrolls or gas globes attached to the back. Destroying a trapped door or item will set off and destroy the trap as well. After the item is destroyed, the prop for the item remains but is unusable.
 
 ### Destroy Undead
 
@@ -1792,7 +1792,7 @@ Celestial:Yes           :: Scroll: No
  Duration: 5 Days
 ```
 
-This spell produces a glowing light and allows the caster to kindle a light wand. The light can then be used by anyone. It will not work without a phys-rep. You cannot cast a Illumination spell at a person or tree and have the person or tree glow. There must be a properly dimmed flashlight or other out-of-game light source provided. The spell lasts until it is dispelled. If using a flashlight for this spell, the lens of the flashlight must be covered by a cloth, tissue paper or a gel to diffuse the light. Do not shine the light in anyone’s face. This spell can not be thrown.
+This spell produces a glowing light and allows the caster to kindle a light wand. The light can then be used by anyone. It will not work without a phys-rep. You cannot cast an Illumination spell at a person or tree and have the person or tree glow. There must be a properly dimmed flashlight or other out-of-game light source provided. The spell lasts until it is dispelled. If using a flashlight for this spell, the lens of the flashlight must be covered by a cloth, tissue paper, or a gel to diffuse the light. Do not shine the light in anyone’s face. This spell cannot be thrown.
 
 ### Imprision
 
@@ -2535,7 +2535,7 @@ Anyone can call a hold in a fight if they see an unsafe situation happening or a
 
 Do not look around you or talk to people about anything not connected with the Hold. You can use this time to update your tags and remove any spells that you have cast. You can also pick up spell packets from the ground or from your pouch as long as you return to your original spot before the game is resumed.
 
-This is not a time to study someone and see if they are an NPC or a PC, nor is it a chance to look behind you and see if anyone is sneaking up on you. Please play fair and try not to gather information while the Hold is being sorted out. When the reason the Hold was called is resolved, then the person calling the hold should call a Lay-on. First, insure that everyone is ready to resume play, then call “3. . .2. . .1. . .Lay-on!”
+This is not a time to study someone and see if they are an NPC or a PC, nor is it a chance to look behind you and see if anyone is sneaking up on you. Please play fair and try not to gather information while the Hold is being sorted out. When the reason the Hold was called is resolved, then the person calling the hold should call a Lay-on. First, ensure that everyone is ready to resume play, then call “3. . .2. . .1. . .Lay-on!”
 
 Hold can also be called for excessive zeal on the part of an opponent. The infraction should be reported to a marshal. Repeated complaints will get a player removed from combat.
 
@@ -3071,7 +3071,7 @@ Traps may be disarmed by any method that does not permanently destroy the trap. 
 
 Permanent damage is defined as any damage that cannot be fixed by the marshal within ten minutes with no tools.
 
-If the trap was successfully disarmed, the gas trap may of course be reset, but in no case can the gas be taken from the trap.
+If the trap was successfully disarmed, the gas trap may, of course, be reset, but in no case can the gas be taken from the trap.
 
 #### Containers
 

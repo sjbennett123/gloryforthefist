@@ -1,4 +1,5 @@
 ---
+
 title: "Adair's Note"
 ---
 

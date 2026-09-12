@@ -3,7 +3,8 @@ title: " Nero postmortem"
 
 weight: 1
 ---
-There is a temptation to just kind of get on your soapbox and not speak to the question at hand. 
+
+There is a temptation to just kind of get on your soapbox and not speak to the question at hand.
 
 ## Rate the Event
 
@@ -11,10 +12,9 @@ There is a temptation to just kind of get on your soapbox and not speak to the q
 
 How do we feel we did overall if we had to rate the event on a scale of to 10, with a 1 being terrible and a 10 being perfect, what would you give it.
 
-## Review Player Feedback 
+## Review Player Feedback
 
-https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
-
+<https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform>
 
 ## Best moments from the event
 
@@ -23,11 +23,11 @@ https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWd
 - Battles
 - Roleplay
 
-## Logistics 
+## Logistics
 
 - Did we get any questions during PC speech or NPC speech?
 - Were there any rules issues could we have addressed this with a clarification on the module?
-- Why were Holds called? How many were called? 
+- Why were Holds called? How many were called?
 
 ## NPC shack
 
@@ -56,34 +56,34 @@ https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWd
 - Spelling or Grammar mistakes
 - What did you need to print onsite?
 
-
 ## Challenge
 
 - Did any characters die?
 
 ## Attitude
 
-- Did any players complain? What about? 
+- Did any players complain? What about?
 
 ## Safety
 
 - Did anyone get hurt?
 - Did anything feel unsafe?
 
-## Planning 
+## Planning
 
 *(go around and ask everyone)*
 
 - Did any meetings not work?
 
-## Burnout 
+## Burnout
+
 *(go around and ask everyone)*
 
 - Do you feel like you put in too much time?
 - Did you feel a time crunch?
-- Were there any tasks you did that were out of comfort zone 
-- Did this cause you any stress with your friends or family? 
+- Were there any tasks you did that were out of comfort zone
+- Did this cause you any stress with your friends or family?
 
-## Recruiting 
+## Recruiting
 
-- Do we have any leads for new writers or NPC's? 
+- Do we have any leads for new writers or NPC's?

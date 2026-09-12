@@ -7,17 +7,17 @@ weight: 1
 ---
 
 - If you have an idea that you just want to get off your chest, submit it [here](https://forms.gle/j3n8CiwL9dvjQNsL9).
-- Use the standard write-up format that we all use for your write-ups.
+- Use the standard write-up format that we all use for write-ups.
 - Don't submit too much at once for review; finish one thing at a time.
-- Once you are confident with your work, we will add it to the website and get it printed.
+- Once you are confident in your work, we will add it to the website and get it printed.
 
 ## Parts of Write-ups
 
-All of the write-ups need to be written in a similar way to this. If there is a change to the format that we need to make, we can discuss it, but all modules will need to adapt to use it.
+All write-ups need to be written in a similar way to this. If we need to change the format, we can discuss it, but all modules will need to adapt to use it.
 
 To set this up on your local computer, follow these steps: [Website How-to]({{< ref "/website_howto" >}}).
 
-Confirm that your code between the --- parses at <https://www.yamllint.com/>
+Confirm that the YAML between the `---` markers parses at <https://www.yamllint.com/>
 
 **If you get errors, these are the most common issues:**
 
@@ -27,10 +27,9 @@ Confirm that your code between the --- parses at <https://www.yamllint.com/>
 
 ```yaml
 ---
-title: 
+title:
 layout: plotline_overview
 ---
-
 ```
 
 Similar to the module overview, it will pull the roles underneath it.
@@ -43,53 +42,50 @@ This needs to match the plotline name.
 
 ```yaml
 ---
-title: 
-Layout: module
+title:
+layout: module
 
-author: 
-reviewer: 
+author:
+reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule:
-weight: 
-plotline: 
-requirements: 
+weight:
+plotline:
+requirements:
 
 description:
-synopsis:   
-outcomes: 
+synopsis:
+outcomes:
 
+number_of_cast_members:
+roles:
 
-number_of_cast_members: 
-Roles: 
-
-props: 
-makeup: 
-treasure: 
+props:
+makeup:
+treasure:
 magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+  -
+    name:
+    description:
+    duration:
+    effects:
+      -
 
-rumors: 
+rumors:
 
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
+hook:
+scenes:
+  -
+    oog:
+    ig:
+    flee_point:
 
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
-
-
+non_standard_effects:
+rules_clarifications:
+craftsman_information:
+transformations:
+running_notes:
 ---
 ```
 
@@ -99,15 +95,15 @@ If there is something that you are not using, don't populate it; the system will
 
 A distinctive title for your module. It should be something that can be talked about around the shack and that evokes the feel of your module.
 
-*This is bad "Crab People 3" or "Sneaking Module".*
+*This is bad: "Crab People 3" or "Sneaking Module".*
 
 #### Brief/Description
 
-**Enter this as description in your code.**
+**Enter this as the description in your code.**
 
 This is a one- or two-sentence description of the module. Don't put any mystery in here; be as simple and direct as possible.
 
-*This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved".*
+*This is bad: "The adventurers discover that all that glitters is not gold when the Crab People are involved."*
 
 *This is good: "The adventurers try to find a buried treasure but are attacked by the Crab People."*
 
@@ -121,11 +117,11 @@ This will need to be tinkered with so that it shows up in the list in a reasonab
 
 #### Plotline
 
-The name of the plotline that this relates to.
+The name of the plotline to which this relates.
 
 #### Requirements
 
-The conditions that need to be met for the module to run, such as whether the module needs to run at night or after another module.
+The conditions that need to be met for the module to run, such as whether it needs to run at night or after another module.
 
 #### Background
 
@@ -133,7 +129,7 @@ Information that leads up to the module. Often, you will have bits of lore that 
 
 #### Synopsis
 
-The meat and potatoes of the write-up. Be as verbose as you can, and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the write-up will make it really shine, but you will need to spell it out here.
+The meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the write-up will make it really shine, but you will still need to spell it out here.
 
 #### Outcomes
 
@@ -145,7 +141,7 @@ This is how the players get into the module. All modules need a hook of some sor
 
 #### Page
 
-If the module doesn't outwardly contain any combat, marking it as a "Page" module is a good idea. Add some notes about where violence can break out so that the NPCs know how to deal with it.
+If the module doesn't outwardly contain any combat, marking it as a "Page" module is a good idea. Add notes about where violence can break out so that the NPCs know how to deal with it.
 
 #### Number of Cast Members
 
@@ -153,11 +149,11 @@ Give a range. The fewer cast members who can run a module, the better. Don't get
 
 #### Roles
 
-These are the different roles that the cast members will play for the encounter. Each role will be given the module sheet and the role card. Remember that the hook needs a role card, too.
+These are the different roles that the cast members will play for the encounter. Each role will be given the module sheet and the role card. Remember that the hook also needs a role card.
 
 #### Props
 
-These are the props that are needed for the module to run. Before the event, we will check to make sure that we have all these things in the NPC Shack. If we don't have them, we will either make them or change the module. If special props are needed for the encounter, make them as easy as possible to use. Have checklists to make sure you get all the props, along with descriptions of them. Also, have notes about which props are essential and which are optional for the encounter to be successful.
+These are the props that are needed for the module to run. Before the event, we will check to make sure that we have all of these things in the NPC Shack. If we don't have them, we will either make them or change the module. If special props are needed for the encounter, make them as easy as possible to use. Have checklists to make sure you get all the props, along with descriptions of them. Also, have notes about which props are essential and which are optional for the encounter to be successful.
 
 #### Tags and Treasure
 
@@ -165,11 +161,11 @@ List any tags that are needed for the encounter. Generally, you will divide the 
 
 #### Scenes
 
-List all of the scenes that will be used in the module. If there is a cave with five rooms, write out five scenes. Detail any setup that is needed. Detail both the out-of-game setup and what the scene is in the game. If appropriate, provide a description that the runner can read as "box text." Don’t detail “the Tavern” or “the Town” as scenes. It is assumed that part of the module will interact with players who are away from the module area. Set the scene and be clear about boundaries. Often, you will be using things that don't mean what they say they mean.
+List all the scenes that will be used in the module. If there is a cave with five rooms, write out five scenes. Detail any setup that is needed. Detail both the out-of-game setup and what the scene is in the game. If appropriate, provide a description that the runner can read as "box text." Don’t detail “the Tavern” or “the Town” as scenes. It is assumed that part of the module will interact with players who are away from the module area. Set the scene and be clear about boundaries. Often, you will be using things that don't mean what they say they mean.
 
 #### Flee Point
 
-Every module will need a way for someone to get out and get back to town. Detail both what the way out is out of game, such as "the door to the Module Shack," and in game, such as "the entrance to the cave that leads back to the surface." If there is not a way out, make it very clear that there is no escape.
+Every module will need a way for someone to get out and get back to town. Detail both the out-of-game way out, such as "the door to the Module Shack," and the in-game way out, such as "the entrance to the cave that leads back to the surface." If there is no way out, make it very clear that there is no escape.
 
 #### Non-Standard Effects
 
@@ -211,70 +207,70 @@ Read the write-up aloud before giving it the thumbs-up. The cast will be reading
 
 ```yaml
 ---
-title: 
+title:
 
-description: 
-Layout: role
+description:
+layout: role
 
-introduction: 
-motivation: 
-tactics: 
+introduction:
+motivation:
+tactics:
 movement:
 speech:
 
 body:
-defenses: 
-weapons: 
+defenses:
+weapons:
 damage:
-magic: 
+magic:
 abilities:
-killing_blow: 
+killing_blow:
 
-costuming: 
+costuming:
 makeup:
-props: 
+props:
 
 reset:
 ---
 ```
 
-#### title
+#### Title
 
-#### description
+#### Description
 
 #### Layout
 
-#### introduction
+#### Introduction
 
-#### motivation
+#### Motivation
 
-#### tactics
+#### Tactics
 
-#### movement
+#### Movement
 
-#### speech
+#### Speech
 
-#### body
+#### Body
 
-#### defenses
+#### Defenses
 
-#### weapons
+#### Weapons
 
-#### damage
+#### Damage
 
-#### magic
+#### Magic
 
-#### abilities
+#### Abilities
 
-#### killing_blow
+#### Killing Blow
 
-#### costuming
+#### Costuming
 
-#### makeup
+#### Makeup
 
-#### props
+#### Props
 
-#### reset
+#### Reset
 
 ---
 
@@ -292,49 +288,48 @@ Remember to give your characters names. Use name lists such as the [Storygames N
 
 ```yaml
 ---
-title: 
+title:
 layout: national_monster_card
-monster_manual: 
+monster_manual:
 
-Name: 
-Body_points: 
-Strength_bonus:
-threshold: 
+name:
+body_points:
+strength_bonus:
+threshold:
 rips_from:
-Descriptive_Phrase:
-Type:
-APL:
-Movement: 
-Intelligence: 
-Society: 
-Motivation: 
-armor: 
-offensive_abilities: 
-defensive_abilities: 
-vulnerabilities: 
-spells: 
-pyramid: 
-rec_treasure: 
-notes: 
-weapon_use: 
-claws: 
-base_damage_call: 
-at_death: 
-healed_by: 
-immune_to: 
-Protectives: 
-Zone: 
+descriptive_phrase:
+type:
+apl:
+movement:
+intelligence:
+society:
+motivation:
+armor:
+offensive_abilities:
+defensive_abilities:
+vulnerabilities:
+spells:
+pyramid:
+rec_treasure:
+notes:
+weapon_use:
+claws:
+base_damage_call:
+at_death:
+healed_by:
+immune_to:
+protectives:
+zone:
 
 quantity:
 costuming:
 reset:
-
 ---
 ```
 
 ## Writing Tips
 
-Always remember that the cast is playing, too. This goes contrary to the adage that only the player characters are "customers" and the NPCs are there to entertain them. The truth is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "agency" to do things.
+Always remember that the cast is playing, too. This goes against the adage that only the player characters are "customers" and the NPCs are there to entertain them. The truth is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "agency" to do things.
 
 Use the existing setting whenever possible. Don't create a new setting if an existing one will do. We must build on each other's work.
 
@@ -347,9 +342,9 @@ Use the existing setting whenever possible. Don't create a new setting if an exi
 - Say nice things, too; remember that they tried their best.
 - Look for tentative language.
   - should
-  - Almost
-  - Just
-  - Will
+  - almost
+  - just
+  - will
   - essentially
 
 - Props that are not detailed. Notes that don't include the text.

@@ -7,11 +7,11 @@ draft: false
 
 **Version**: 1.2
 
-**Objective**: This playtest expands racial abilities and opens them up to purchase and use for all races at an increased cost. The primary purpose of this is to facilitate a broader range of character concepts and role-play options for all NERO players.
+**Objective**: This playtest expands racial abilities and makes them available for purchase and use by all races at an increased cost. Its primary purpose is to facilitate a broader range of character concepts and role-play options for all NERO players.
 
-**Secondary Objective**: Secondary benefits of this playtest are the elimination of racial restrictions and disadvantages. This also serves to expand the viable options for players and characters in the future.
+**Secondary Objective**: Additional benefits of this playtest are the elimination of racial restrictions and disadvantages. This also serves to expand the viable options for players and characters in the future.
 
-**Summary**: The races of Tyrra each possess natural tendencies and attributes. In NERO, these are represented by traits. The traits a character has determine the skills that are easier to learn for that character. Each race also receives a featured skill, most often a weapon that comes naturally to that race. The traits and features associated with each race are found in Table 2. Table 1 lists all available racial skills, as well as two costs: one lower cost for races that have the same trait as the category of the skill, and another higher cost for characters without the trait. Characters may only purchase one racial skill per level, and only skills whose lowest cost is 4 build points or less can be purchased multiple times.
+**Summary**: The races of Tyrra each possess natural tendencies and attributes. In NERO, these are represented by traits. The traits a character has determine which skills are easier for that character to learn. Each race also receives a featured skill, most often a weapon that comes naturally to that race. The traits and features associated with each race are found in Table 2. Table 1 lists all available racial skills, as well as two costs: one lower cost for races that have the same trait as the category of the skill, and another higher cost for characters without the trait. Characters may purchase only one racial skill per level, and only skills whose lowest cost is 4 build points or less can be purchased multiple times.
 
 **Note**: This playtest removes all restrictions and benefits related to race listed in the Ninth Edition NERO rulebook. Body point changes, build discounts, and skill purchase requirements are all considered removed when using this playtest.
 
@@ -48,7 +48,7 @@ draft: false
 
 | Race       | Traits               | Feature              |
 | ---------- | -------------------- | -------------------- |
-| Barbarian  | Strong, Wild         | 2 Handed Mastery     |
+| Barbarian  | Strong, Wild         | Two-Handed Mastery   |
 | Biata      | Willful, Telepathic  | Mentalist            |
 | Drae       | Fast, Willful        | Crossbow Mastery     |
 | Wild Elf   | Wild, Fast           | Bow Mastery          |
@@ -56,7 +56,7 @@ draft: false
 | Elf        | Fast, Willful        | Bow Mastery          |
 | Stone Elf  | Willful, Telepathic  | Mentalist            |
 | Gypsy      | Survivor, Tradesman  | Gypsy Curse          |
-| Half Ogre  | Strong, Tough        | 2 Handed Mastery     |
+| Half Ogre  | Strong, Tough        | Two-Handed Mastery   |
 | Half Orc   | Strong, Wild         | Axe Mastery          |
 | Hobling    | Fast, Tough          | Short Weapon Mastery |
 | Human      | Choice of One        | None                 |
@@ -103,7 +103,7 @@ Cost with Trait: 2
 Cost without Trait: 4
 ```
 
-This skill can be used once per day to generate any of the following effects: one attempt to pick a lock or set/disarm a trap (one attempt being roughly 1 minute of action), throw one gas poison (regardless of alchemy level), or apply full Backstab bonus damage with a single thrown weapon attack, even when attacking from in front of the enemy.
+This skill can be used once per day to generate any of the following effects: make one attempt to pick a lock or set or disarm a trap (each attempt takes roughly 1 minute), throw one gas poison (regardless of alchemy level), or apply full Backstab bonus damage with a single thrown weapon attack, even when attacking from in front of the enemy.
 
 ### Dodge
 
@@ -183,7 +183,7 @@ Cost with Trait: 4
 Cost without Trait: 8
 ```
 
-This skill allows the character to invoke the "Bless" spell and the "Eldritch Bless" cantrip effects through natural means. It is activated by the phrase "I invoke toughness." Using this skill requires the ability to speak and 3 seconds of role-play. It can be used once per day. These effects do not stack with "Bless" or "Eldritch Bless."
+This skill allows the character to invoke the "Bless" spell and the "Eldritch Bless" cantrip effects through natural means. It is activated by the phrase "I invoke toughness." Using this skill requires the ability to speak and 3 seconds of role-play. It can be used once per day. These effects do not stack with the "Bless" or "Eldritch Bless" effects.
 
 ### Detect Magic
 
@@ -283,7 +283,7 @@ Cost with Trait: 3
 Cost without Trait: 6
 ```
 
-This skill allows the character to detect poison and, if trained properly, apply an antidote as described in the Ninth Edition rulebook.
+This skill allows the character to detect poison and, if trained properly, apply an antidote, as described in the Ninth Edition rulebook.
 
 ### Will to Live
 
@@ -307,7 +307,7 @@ This skill allows the character to don or ready armor more quickly as described 
 
 ## Racial Features
 
-### 2 Handed Mastery
+### Two-Handed Mastery
 
 ```
 Races: Barbarian, Half Ogre
@@ -321,7 +321,7 @@ Races with this feature have a natural skill with two-handed weapons of all type
 Races: Biata, Stone Elf
 ```
 
-This feature grants all the abilities listed in the Ninth Edition NERO rulebook under Mentalist. In addition, a character with this skill may expend their powers for the day to act as an Inspiration spell on a friendly target. It is activated with 3 seconds of role-play and the phrase "I invoke inspiration." It is then delivered by touch only. It counts as a character's one use of the Inspiration effect, as if it were the spell.
+This feature grants all the abilities listed in the Ninth Edition NERO rulebook under Mentalist. In addition, a character with this skill may expend their powers for the day to function as an Inspiration spell on a friendly target. It is activated with 3 seconds of role-play and the phrase "I invoke inspiration." It is then delivered by touch only. It counts as a character's one use of the Inspiration effect, as if it were the spell.
 
 ### Crossbow Mastery
 
@@ -349,7 +349,7 @@ Races with this feature have a natural skill with hammers. Once a character with
 
 ### Gypsy Curse
 
-This feature works exactly as described in the Ninth Edition NERO rulebook. However, it can be used an unlimited number of times per day, up to once per minute. A character can only have one target cursed at a time.
+This feature works exactly as described in the Ninth Edition NERO rulebook. However, it can be used an unlimited number of times per day, but no more than once per minute. A character can have only one cursed target at a time.
 
 ### Axe Mastery
 
@@ -377,4 +377,4 @@ Races with this feature have a natural skill with claws. Once a character with t
 
 ### Break Charm
 
-This feature works exactly like the racial skill listed above it and is granted to races with this feature for free.
+This feature works exactly like the racial skill listed above it and is granted for free to races that have this feature.

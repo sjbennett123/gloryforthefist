@@ -65,15 +65,15 @@ draft: false
 
 New Skill:
 
-**Barbarian Slay (10 Build)** - Can be purchased once for barbarians. It only works as a slay and does not work as a parry.
+**Barbarian Slay (10 Build)** - Can be purchased once by barbarians. It only works as a slay and does not work as a parry.
 
 **Stop Thrust** - The first purchase of this skill is 0 build, and you can purchase an additional Stop Thrust for 2 build for every 2 proficiencies you have.
 
-**One Handed Block** - Is now a skill that costs 0 build. It acts the same way as the playtest, but with a somewhat awkward implementation.
+**One-Handed Block** - Is now a skill that costs 0 build. It acts the same way as in the playtest, but with a somewhat awkward implementation.
 
 **Hobling Dodge** - Raised to 12 build.
 
-**Detect Celestial Magic** - No longer packet delivered; after 1 minute of roleplay, it acts as a detect magic that only applies to celestial effects.
+**Detect Celestial Magic** - No longer packet-delivered; after 1 minute of roleplay, it acts as a Detect Magic that only applies to celestial effects.
 
 **Alchemy** - To use contact poison or gases, you must have sufficient levels of alchemy to make the item you wish to use.
 
@@ -99,19 +99,19 @@ New Skill:
 
 **Formal Magic** - Now costs 12/8/4/6 for the primary school and 24/16/8/10 for the secondary school.
 
-**Armor** - Armor no longer breaches. Max armor (sum of physical, arcane, and dex armor) is now 10 points for a scholar, 15 points for templars and rogues, and 20 points for fighters. Anyone can purchase Wear Extra Armor up to a max of 40 points. Good costume now counts as an extra rank of Wear Extra Armor that doesn't count toward the total limit (so you can conceivably have 45 points with good costume and max ranks of Wear Extra Armor).
+**Armor** - Armor no longer breaches. Maximum armor (the sum of physical, arcane, and dexterity armor) is now 10 points for a scholar, 15 points for templars and rogues, and 20 points for fighters. Anyone can purchase Wear Extra Armor up to a maximum of 40 points. A good costume now counts as an extra rank of Wear Extra Armor that doesn't count toward the total limit (so you can conceivably have 45 points with a good costume and the maximum number of ranks of Wear Extra Armor).
 
-**Effect Delivery** - The mechanics for the delivery of effects in combat have been streamlined to be more intuitive. Please refer to Table 6-2 in the rulebook for more information (page 89).
+**Effect Delivery** - The mechanics for delivering effects in combat have been streamlined to be more intuitive. Please refer to Table 6-2 on page 89 of the rulebook for more information.
 
-**Unconsciousness** - When you are unconscious (0 body), you come back to 1 body after 1 minute, not 10 minutes.
+**Unconsciousness** - When you are unconscious (0 body), you return to 1 body after 1 minute, not 10 minutes.
 
-**Resurrection** - Is only 5 minutes, and you come to life with clothes on.
+**Resurrection** - Lasts only 5 minutes, and you come to life with clothes on.
 
 **Packet Delivered Physical** - Can now be parried.
 
 **Laugh and Dominate Effects** - Removed (Dominate changed to Charm).
 
-**Spirits and Dismemberment** - You can no longer detect a spirit in a body. Players can no longer cut off body parts to have them lifed; it's the whole body or nothing. As explained to me, dismemberment occurs in-game, but simply never happens to PCs because there is no way to rep it.
+**Spirits and Dismemberment** - You can no longer detect a spirit in a body. Players can no longer cut off body parts to have them lifed; it is the whole body or nothing. As explained to me, dismemberment occurs in-game, but simply never happens to PCs because there is no way to represent it.
 
 "Lesser" - Plot teams now have the option to tack the word "Lesser" onto any delivered effect. This changes the duration of that effect to 10 seconds. It is intended to allow heavy use of effects without depleting player resources.
 
@@ -155,13 +155,13 @@ You can supplement your production with refined minerals by supplying production
 
 **Barbarians** - Can now purchase Barbarian Slay for 10 build. Detect Celestial Magic changed to a 1-minute focus instead of packet delivery.
 
-**Hoblings** - Dodge is now 12 build.
+**Hoblings** - Dodge now costs 12 build.
 
 **Mystic Wood Elves** - Prepare Hearth and Manifold added to the list of skills that count as "Craftsman" skills.
 
 **Sarr** - Can now purchase Waylay. Scenting ability reduced to 3 seconds (was 1 minute).
 
-**Scavenger** - Scenting ability reduced to 3 seconds (was 1 minute). Now specified that you must like a mundane animal, not a magical animal (no Drake, Griffin, or Unicorn scavengers). Scavengers are no longer required to not understand currency or be savage beasts.
+**Scavenger** - Scenting ability reduced to 3 seconds (was 1 minute). It is now specified that you must look like a mundane animal, not a magical animal (no Drake, Griffin, or Unicorn scavengers). Scavengers are no longer required to not understand currency or be savage beasts.
 
 ## Cantrip Changes
 
@@ -181,7 +181,7 @@ You can supplement your production with refined minerals by supplying production
 
 **Healing Pool** - Now provides a flat 150 points of healing, regardless of the number of formal levels a player possesses.
 
-**Tyrra's Claw** - Now provides either a shortsword or longsword phys-rep on the first casting. Casting a second time gives you a shortsword (so you could be fighting longsword/shortsword or shortsword/shortsword). It can be combined with Etherial Sword.
+**Tyrra's Claw** - Now provides either a shortsword or longsword phys-rep on the first casting. Casting a second time gives you a shortsword (so you could be fighting longsword/shortsword or shortsword/shortsword). It can be combined with Ethereal Sword.
 
 ### Celestial Cantrips
 
@@ -189,7 +189,7 @@ You can supplement your production with refined minerals by supplying production
 
 **Element's Fury** - Reduced to 1 component. Now provides a flat 150 points of damage, regardless of the number of formal levels a player possesses.
 
-**Etherial Sword** - Now provides either a shortsword or longsword phys-rep on the first casting. If cast a second time, you can now fight with a longsword and a shortsword instead of two claws. It can be combined with Tyrra's Claw.
+**Ethereal Sword** - Now provides either a shortsword or longsword phys-rep on the first casting. If cast a second time, you can now fight with a longsword and a shortsword instead of two claws. It can be combined with Tyrra's Claw.
 
 **Lore** - Now identifies up to 2 items, regardless of the number of formal levels a player possesses.
 
@@ -205,15 +205,15 @@ You can supplement your production with refined minerals by supplying production
 
 **Cloak and Bane** - Clarified the various types of cloaks and banes.
 
-**Create Protective Circle of Power, Create Extended Circle of Power** - Neither of these formals require that a Circle of Power be cast first. In addition, the maximum size of the circle is based on the number of formal levels the caster possesses (2-foot radius per level, max of 40-foot radius).
+**Create Protective Circle of Power, Create Extended Circle of Power** - Neither of these formals requires that a Circle of Power be cast first. In addition, the maximum size of the circle is based on the number of formal levels the caster possesses (2-foot radius per level, maximum 40-foot radius).
 
-**Transform** - Now is permanent and doesn't exist on the spirit as an effect. Still requires the previous transforms in order to cast the next level.
+**Transform** - Is now permanent and doesn't exist on the spirit as an effect. It still requires the previous transforms in order to cast the next level.
 
-**Spirit** - A person's spirit now counts as an item for the sake of the magic item slots variant. Therefore, you can have 5 items or 4 items and a spirit effect.
+**Spirit** - A person's spirit now counts as an item for purposes of the magic item slots variant. Therefore, you can have 5 items or 4 items and a spirit effect.
 
 ## Production Changes
 
-**General Production** - Production no longer uses production points, but instead uses production levels. It doesn't really affect the amount of production someone can make. Production is also, for the most part, free. Every day, you get one production level per level in the skill; you can get one production level per level of the skill if you use a workshop; and you can get an additional production level per level of the skill for one silver per level. Finally, if you're a master (at least 10 levels), you get an additional production level per level of the skill. Confusing, but in essence you can get up to 4 times the level of the skill in production levels per day.
+**General Production** - Production no longer uses production points, but instead uses production levels. It doesn't really affect the amount of production someone can make. Production is also, for the most part, free. Every day, you get production levels equal to your level in the skill; you can get additional production levels equal to your skill level if you use a workshop; and you can get an additional production level per level of the skill for one silver per level. Finally, if you're a master (at least 10 levels), you get an additional production level per level of the skill. Confusing, but in essence, you can get up to 4 times your skill level in production levels per day.
 
 ### Alchemy
 
@@ -241,9 +241,9 @@ You can supplement your production with refined minerals by supplying production
 
 · **Silvering** - Increased to 4 production levels.
 
-· **Strengthening** - Changed to 4 production levels (was more in 8th edition, less in playtest).
+· **Strengthening** - Changed to 4 production levels (was more in 8th edition and less in the playtest).
 
-· **Sharpening** - +3 Sharpening is now 18 levels to better represent the pyramid fashion of additional damage.
+· **Sharpening** - +3 Sharpening is now 18 levels to better represent the pyramid structure of additional damage.
 
 · **Mighty Slayer and Deceitful Blade** - Removed from the game.
 

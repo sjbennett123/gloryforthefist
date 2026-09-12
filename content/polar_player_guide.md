@@ -4,7 +4,7 @@ Hello and welcome to POLAR. POLAR is a chapter of NERO International™. If this
 
 **What You Can Expect From Us**
 
-​      What can you, as a player, expect from the staff at POLAR? Well, let’s start with the game. Plot will challenge you not only physically but also mentally. Plot will also present your character with fair opportunities to succeed; what you do with those opportunities is your business. While we are trying to run a heroic game, we understand and allow for the PC villain. In addition to the hero and the villain, we recognize that some players simply want to role-play; we will allow for those characters as well. The staff will also be on hand to listen to you so that we can create the best game for all players. We realize that each person is unique and does not fit into the three narrow categories above, but if you are not having fun, we need to know. Remember, we have a council that meets with the owner, a representative from Plot, a representative from the Marshals, a representative from the board, and a representative elected by the players. In other words, when in doubt, talk to your player rep.
+​      What can you, as a player, expect from the staff at POLAR? Well, let’s start with the game. Plot will challenge you not only physically but mentally. Plot will also present your character with fair opportunities to succeed; what you do with those opportunities is your business. While we are trying to run a heroic game, we understand and allow for the PC villain. In addition to the hero and the villain, we recognize that some players simply want to role-play; we will allow for those characters as well. The staff will also be on hand to listen to you so that we can create the best game for all players. We realize that each person is unique and does not fit into the three narrow categories above, but if you are not having fun, we need to know. Remember, we have a council that meets with the owner, a representative from Plot, a representative from the Marshals, a representative from the board, and a representative elected by the players. In other words, when in doubt, talk to your player rep.
 
 **What We Expect From You**
 
@@ -14,7 +14,7 @@ Hello and welcome to POLAR. POLAR is a chapter of NERO International™. If this
 
 ​      We hold opening ceremonies at every event. Please attend; you will be held responsible for knowing any new information delivered at this meeting. Only specific people will be excused from this meeting, such as NPCs setting up mod sites who have already been briefed on the last-minute information.
 
-​      We do have an OOG absent-player policy. Any player who misses four consecutive events without notifying staff will be assumed to be missing in game. This will be handled in game in such ways as stripping titles, issuing charges of desertion of post, and so on. If it is a staff position, you will lose your position. If you notify POLAR, we will do everything reasonable to accommodate you.
+​      We do have an OOG absent-player policy. Any player who misses four consecutive events without notifying staff will be assumed to be missing in-game. This will be handled in-game in such ways as stripping titles, issuing charges of desertion of post, and so on. If you hold a staff position, you will lose it. If you notify POLAR, we will do everything reasonable to accommodate you.
 
 ​      Anonymous postings in POLAR newsletters, websites, or any other public property will not be tolerated. These posts will be deleted as soon as possible.
 
@@ -28,7 +28,7 @@ Hello and welcome to POLAR. POLAR is a chapter of NERO International™. If this
 
 ​      If you wish to flee the in-game area, you must follow this procedure. You must stay in an in-game area for sixty minutes without being detected. Detection is defined as any person who intends to capture, harm, or influence you in any negative way making it known to you that they have seen or heard you.
 
-​      The following rules for searching a character are currently in effect. Any person being searched has two options when another player searches them. They may accept a simple three-count and hand over all in-game items. Example: “I search you one, I search you two, I search you three.” Alternatively, they may ask the searcher to describe the search. The searcher must then use a three-count on each location. Example: “I search your pouch one, I search your pouch two, etc.” The method is determined by the person being searched.
+​      The following rules for searching a character are currently in effect. Anyone being searched has two options when another player searches them. They may accept a simple three-count and hand over all in-game items. Example: “I search you one, I search you two, I search you three.” Alternatively, they may ask the searcher to describe the search. The searcher must then use a three-count on each location. Example: “I search your pouch one, I search your pouch two, etc.” The method is determined by the person being searched.
 
 **Spells and Magic Items**
 
@@ -36,7 +36,7 @@ Hello and welcome to POLAR. POLAR is a chapter of NERO International™. If this
 
 ​      If someone casts a life spell on you, you are responsible for knowing who that person is. We will actively seek proof of the origin of the life spell.
 
-​      We feel the need for spell tags is unnecessary, however, to avoid confusion we will use the following system.
+​      We feel spell tags are unnecessary; however, to avoid confusion, we will use the following system.
 
 1. All memorized spells must be marked on a spell sheet.
 2. As spells are cast, they are crossed off the spell sheet.
@@ -48,9 +48,9 @@ Hello and welcome to POLAR. POLAR is a chapter of NERO International™. If this
 
 Plot and Marshal rulings during normal gameplay are absolute. Harassment of Marshals or staff regarding a ruling may be considered cause for disciplinary action. In general, going to a different Marshal to get a favorable ruling will not be tolerated. This is considered cheating. If you do not agree with a ruling, quietly and politely request an adjudication form after normal gameplay hours.
 
-​      Plot or Marshals may ask to see any tags at any time. If items do not coincide with their effects, the owner must satisfactorily explain why or receive some form of disciplinary action. Tags should be attached to their phys-reps. If not attached, a thief may steal either the rep or the tag.
+​      Plot or Marshals may ask to see any tags at any time. If items do not coincide with their effects, the owner must satisfactorily explain why or receive some form of disciplinary action. Tags should be attached to their corresponding phys-reps. If not attached, a thief may steal either the rep or the tag.
 
-​      The following metagaming policy will be in effect as of day one at POLAR: If you, as a player, hear about an in-game occurrence from another player, then your character also hears about the occurrence. We feel that, through these extreme measures, the problem of metagaming will occur less frequently. The best way to stop this problem is for all players to keep their actions secret unless you wish everyone to know.
+​      The following metagaming policy will be in effect as of day one at POLAR: If you, as a player, hear about an in-game occurrence from another player, then your character also hears about it. We feel that, through these extreme measures, the problem of metagaming will occur less frequently. The best way to stop this problem is for all players to keep their actions secret unless you wish everyone to know.
 
 ​      The following are the only exceptions to this rule:
 
@@ -60,7 +60,7 @@ Plot and Marshal rulings during normal gameplay are absolute. Harassment of Mars
 
 **In-Game Information for POLAR**
 
-​      Some general in-game information for all players: it bears repeating that an armed society is a polite society. Town is typically a safe haven; monsters are kept at bay by the local militias. It is rare for monsters to be in town. Also, nobles at POLAR typically have white or yellow (silver or gold) as a dominant or secondary color on their tabards. If you see a white sash, the person wearing it is a Squire and should be given the proper deference. The Guilds at POLAR are a very powerful force, and joining a guild does have its advantages. Joining a guild often gets you access to either a workshop or a circle. You must join in game and usually pay a nominal monthly fee. Guild members are denoted by a felt circle with their guild symbol pinned to their costume. If you see a felt diamond, you are dealing with a guardsman or sheriff; be polite. If the Circle of Felt is gold, be very polite. This is a guild master; they play checkers with the local noble every Tuesday. When you join a guild, they will give you the appropriate felt pin. While you do not have to wear it, it is believed that you gain a certain protection from a guild that only works at night if you wear it prominently. Now, the guilds, of course, maintain that they would never pay protection money to such a guild.
+​      Some general in-game information for all players: it bears repeating that an armed society is a polite society. The town is typically a safe haven; monsters are kept at bay by the local militias. It is rare for monsters to be in town. Also, nobles at POLAR typically have white or yellow (silver or gold) as a dominant or secondary color on their tabards. If you see a white sash, the person wearing it is a Squire and should be given the proper deference. The Guilds at POLAR are a very powerful force, and joining a guild does have its advantages. Joining a guild often gives you access to either a workshop or a circle. You must join in-game and usually pay a nominal monthly fee. Guild members are denoted by a felt circle with their guild symbol pinned to their costume. If you see a felt diamond, you are dealing with a guardsman or sheriff; be polite. If the Circle of Felt is gold, be very polite. This is a guild master; they play checkers with the local noble every Tuesday. When you join a guild, they will give you the appropriate felt pin. While you do not have to wear it, it is believed that you gain a certain protection from a guild that only works at night if you wear it prominently. Now, the guilds, of course, maintain that they would never pay protection money to such a guild.
 
 **A Final Word**
 

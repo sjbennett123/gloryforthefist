@@ -22,8 +22,6 @@ Motivation: The Rygal Order will provide support for the Players for their respe
 
 Played By: Chris Colland (Major Rygal Order Plot and Lore Character)
 
-
-
 Knee Deep (Camp 1): Bloody Fist Grunt
 
 *You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.*
@@ -46,21 +44,11 @@ Killing Blow Active: No
 
 Motivations: You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist.
 
-Tactics: Down and let PCs bleed out as Grunts. Kidnap when you can if the person is of value. You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
+Tactics: Down and let PCs bleed out as Grunts. Kidnap when you can if the person is of value. You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist.
 
 Movement: Forceful and with purpose. Don't slouch or stoop show your might
 
 Search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Knee Deep (Camp 1): Bloody Fist Scout
 
@@ -91,12 +79,6 @@ Tactics: Remain unseen, don’t be afraid to run, DONT DIE! Search the PCs for G
 Movement: Forceful and with purpose. Don't slouch or stoop show your might
 
 Search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
-
- 
-
- 
-
- 
 
 Knee Deep (Camp 1): Bloody Fist Shaman
 
@@ -131,4 +113,3 @@ Celestial should use all blast spells and dispel magics to keep protectives off 
 Movement: Forceful and with purpose. Don't slouch or stoop show your might.
 
 Search: You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
-
